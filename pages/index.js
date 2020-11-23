@@ -3,6 +3,7 @@ import { categories } from '../data/product.js'
 import Link from 'next/link'
 
 
+
 export default function Home() {
     return (
         <div>
@@ -42,7 +43,7 @@ export default function Home() {
                         {categories[1].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[1].id}?project=${project.id}`} >
-                                    <a href={`/portfolio/${categories[1].id}?project=${project.id}`} ></a>
+                                    <a href={`/portfolio/${categories[1].id}?project=${project.id}`} >
                                     <div className="work-thumbnail">
                                         <span className="title">{project.id}</span>
                                         <span className="description">{project.description}</span>
@@ -57,7 +58,7 @@ export default function Home() {
                         {categories[2].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[2].id}?project=${project.id}`} >
-                                    <a href={`/portfolio/${categories[2].id}?project=${project.id}`} ></a>
+                                    <a href={`/portfolio/${categories[2].id}?project=${project.id}`} >
                                     <div className="work-thumbnail">
                                         <span className="title">{project.id}</span>
                                         <span className="description">{project.description}</span>
