@@ -42,10 +42,12 @@ export default function Home() {
                         {categories[1].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[1].id}?project=${project.id}`} >
+                                    <a href={`/portfolio/${categories[1].id}?project=${project.id}`} ></a>
                                     <div className="work-thumbnail">
                                         <span className="title">{project.id}</span>
                                         <span className="description">{project.description}</span>
                                     </div>
+                                    </a>
                                 </Link>
                             )
                         })}
@@ -55,10 +57,12 @@ export default function Home() {
                         {categories[2].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[2].id}?project=${project.id}`} >
+                                    <a href={`/portfolio/${categories[2].id}?project=${project.id}`} ></a>
                                     <div className="work-thumbnail">
                                         <span className="title">{project.id}</span>
                                         <span className="description">{project.description}</span>
                                     </div>
+                                    </a>
                                 </Link>
                             )
                         })}
