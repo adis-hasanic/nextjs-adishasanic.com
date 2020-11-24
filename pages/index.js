@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div>
             <Head>
-                <title>Adis Hasanic - Designer</title>
+                <title>Adis Hasanic</title>
                 <link rel="icon" href="/favicon.svg" />
             </Head>
 
@@ -54,7 +54,7 @@ export default function Home() {
                         })}
                     </div>
                     <div className="category">
-                        <div className="intro">Visual</div>
+                        <div className="intro">Graphic Design</div>
                         {categories[2].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[2].id}?project=${project.id}`} >
