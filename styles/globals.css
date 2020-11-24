@@ -47,6 +47,10 @@ body {
     padding: 0 1px 1px 1px;
 }
 
+.contact-button:hover {
+    border-bottom: solid 2px #aaa;
+}
+
 .content {
     width: 100%;
     float: left;
