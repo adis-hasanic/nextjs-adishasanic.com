@@ -71,7 +71,7 @@ export default function Home() {
                         <div className="intro">Graphic Design</div>
                         {categories[2].projects.map(project => {
                             return (
-                                <Link key={project.id} href={`/portfolio/${categories[2].id}?project=${project.id}`} >
+                                <Link key={project.id}>
                                     <a href={`/portfolio/${categories[2].id}?project=${project.id}`} >
                                     <div className="work-thumbnail">
                                         <span className="title">{project.id}</span>
