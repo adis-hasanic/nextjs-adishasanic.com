@@ -12,7 +12,7 @@ export default function Home() {
                 <link rel="icon" href="/favicon.svg" />
             </Head>
 
-            <a className="contact-button" href="https://calendly.com/adishasanic/60min?month=2020-11">Contact</a>
+            <a className="contact-button" href="https://calendly.com/adishasanic/60min?month=2020-11">About and Contact</a>
 
             <div className="content">
                 
