@@ -8,8 +8,8 @@ export default function Home() {
     return (
         <div>
             <Head>
-                <title>Adis Hasanic</title>
-                <link rel="icon" href="/favicon.ico" />
+                <title>Adis Hasanic - Designer</title>
+                <link rel="icon" href="/favicon.svg" />
             </Head>
 
             <a className="contact-button" href="https://calendly.com/adishasanic/60min?month=2020-11">Contact</a>
