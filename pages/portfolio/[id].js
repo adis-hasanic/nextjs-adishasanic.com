@@ -21,6 +21,7 @@ const Story = () => {
                 
                  <Head>
                     <title>{story.id}</title>
+                    <link rel="icon" href="/favicon.svg" />
                 </Head>
                 
                 <div className="top-bar"><Link href="/" ><div className="back">← Back</div></Link></div>
