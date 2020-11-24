@@ -258,10 +258,58 @@ export const categories = [
                     },
                     {
                         id: 0,
-                        imageURL: "/portfolio/product/teamscope/2/4.jpg",
+                        imageURL: "/portfolio/product/teamscope/1/3.jpg",
                         imageClass: "twelve-eighty",
                         text: "",
                     },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/1/4.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/2/1.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/3/1.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/3/2.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/3/3.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/3/4.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/4/1.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/teamscope/4/2.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    }
 
                 ]
             },
