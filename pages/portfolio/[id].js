@@ -24,8 +24,8 @@ const Story = () => {
                     <link rel="icon" href="/favicon.svg" />
                 </Head>
                 
-                <div className="top-bar"><Link href="/" ><div className="back">← Back</div></Link></div>
-                <a className="contact-button" href="https://calendly.com/adishasanic/60min?month=2020-11">Contact</a>
+                <div className="top-bar"><Link href="/" ><div className="back">← Exit</div></Link></div>
+                <a className="contact-button" href="https://calendly.com/adishasanic/60min?month=2020-11">About and Contact</a>
 
                 <div className="story-page">
                 {story.paragraphs.map(paragraph => {
