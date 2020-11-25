@@ -35,7 +35,7 @@ export default function Home() {
 
                 <div className="col">
                     <div className="category">
-                        <div className="intro">Digital Product Design (UI/UX)</div>
+                        <div className="intro">Product UI / UX</div>
                         {categories[0].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[0].id}?project=${project.id}`} >
@@ -53,7 +53,7 @@ export default function Home() {
 
                 <div className="col">
                     <div className="category">
-                        <div className="intro">Web Design</div>
+                        <div className="intro">Website</div>
                         {categories[1].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[1].id}?project=${project.id}`} >
@@ -68,7 +68,7 @@ export default function Home() {
                         })}
                     </div>
                     <div className="category">
-                        <div className="intro">Graphic Design</div>
+                        <div className="intro">Visual</div>
                         {categories[2].projects.map(project => {
                             return (
                                 <Link key={project.id} href={`/portfolio/${categories[2].id}?project=${project.id}`} >
