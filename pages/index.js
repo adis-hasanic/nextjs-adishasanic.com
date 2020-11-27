@@ -44,13 +44,14 @@ export default function Home() {
                 <div className="container">
 
                     <div className="section intro">
+                
+                        <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
                         <div className="section text">
                             <h1>Designing UI/UX, website and visual past 9 years<br></br> at startups backed by YC, TechStars, 500, etc.</h1>
                             <p>Currently looking for a full-time role, preferably at a startup in Europe, as I'm also looking to relocate from Bosnia to more of a tech hub and work closely on building and selling great digital products.
 <br></br><br></br>
 24, self-taught — started from practicing Photoshop and web design at age 13. Used Sketch mostly, Figma lately. Some experience lately with design systems and learned more about how React works. I love designing visual interfaces for web and mobile screens, structuring information and processes, and working in an agile way — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
                         </div>
-                        <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
                     </div>
 
                     <div className="section work-experience-row">
