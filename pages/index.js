@@ -42,10 +42,10 @@ export default function Home() {
 
                     <div className="section intro">
                         <div className="section text">
-                            <h1>Designing UI/UX, websites and visual past 9 years <br></br>at startups backed by YC, Sequoia, TechStars, etc.</h1>
+                            <h1>A 24-year-old designing UI/UX, website and visual <br></br>past 9 years at startups backed by YC, TechStars, etc.</h1>
                             <p>Currently looking for a full-time role, preferably at a startup in Europe, as I'm also looking to relocate from Bosnia to more of a tech hub and work closely on building and selling great digital products.
 <br></br><br></br>
-Self-taught, started from practicing Photoshop and web design at age 13. Used Sketch mostly, Figma lately. Worked on design system, and recently learned more about how React works. I love designing visual interfaces for web and mobile screens, simplifying processes, and working in agile ways — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
+Self-taught, started from practicing Photoshop and web design at age 13. Used Sketch mostly, Figma lately. Worked on a design system, and recently learned more about how React works. I love designing visual interfaces for web and mobile screens, simplifying processes, and working in agile ways — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
                         </div>
                         <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
                     </div>
@@ -135,6 +135,48 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Meitu</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">2 months</span><span class="period">During 2017</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>China based startup, one of the leading providers of photo-editing apps for mobile. I was hired by their LA team to design several infographics.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Engine</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">2 months</span><span class="period">During 2017</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>US based startup providing a platform that enables anyone to set up a custom online shop. I worked on redesigning the admin panel where data is tracked, inventory is managed and shop's pages are customized.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">LiftIgniter</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">5 months</span><span class="period">During 2016 and 2017</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>San Francisco based YC-backed startup providing an API for content recommendation. Later was acquired by Maven.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
                         <div className="type blue"><span>Personal</span></div>
                         <div className="info">
                             <div className="meta">
@@ -144,7 +186,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>A distraction-free writing app I designed and founded (recruited a developer and bootstrapped development). Within 2 months of launch, more than 2000 people signed up. While many liked design, there was low retention rate, and I discontinued it to focus on other projects.</span></div>
+                            <div className="description"><span>A distraction-free, customizable, web-based writing app I designed and founded (recruited a developer and bootstrapped development). 2000 sign ups within 2 months of Facebook ads. Positive user feedback, low retention rate (safety concerns, lack of cross-platform support).</span></div>
                         </div>
                     </div>
 
@@ -186,7 +228,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos. Later, in 2017, was acquired by Lyft.</span></div>
                         </div>
                     </div>
 
@@ -200,7 +242,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                            <div className="description"><span>San Francisco based startup building a personal website builder. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon. Later became Remote.com</span></div>
                         </div>
                     </div>
 
@@ -214,7 +256,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                            <div className="description"><span>San Francisco based startup building a platform for building a mobile website without coding, focusing on helping small businesses to quickly convert their existing website into mobile.</span></div>
                         </div>
                     </div>
 
@@ -256,7 +298,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>Austin based TechStars-backed startup building a knowledge-base building platform used internally or as help center.</span></div>
+                            <div className="description"><span>Chicago based startup building a social media platform for gamers to connect and discover new games based on their connections.</span></div>
                         </div>
                     </div>
 
