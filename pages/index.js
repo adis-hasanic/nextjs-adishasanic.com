@@ -107,6 +107,20 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
+                        <div className="type blue"><span>Project</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">MultiplyLabs</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">1 week</span><span class="period">Oct 2020</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>San Francisco based YC-backed startup working on a customizable pill with health and energy supplements. I was hired by MultiplyLabs to design a landing page announcing their pill.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
                         <div className="type blue"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
@@ -135,7 +149,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type green"><span>Employee</span></div>
+                        <div className="type blue"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Mobiley (became Branded.me)</div>
