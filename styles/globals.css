@@ -313,6 +313,7 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
     .work-experience-row .info .meta .time-place .time {margin-right: 8px;}
     .work-experience-row .info .meta .time-place .time .period,
     .work-experience-row .info .meta .time-place .time .duration {width: auto;}
+    .work-experience-row .info .meta .time-place .place {width: 100%; margin-left: 0; display: block; float: left; margin-top: 2px;}
 
     .section.intro .image {float: left; display: block; width: 100%; text-align: left;}
     .section.intro .text {width: 100%; float: right;}
