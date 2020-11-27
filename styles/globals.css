@@ -3,25 +3,19 @@
 @font-face {
     font-family: Acumin-Pro;
     font-weight: 400;
-    src: url("../public/font/AcuminPro-Medium.otf") format("opentype");
+    src: url("../public/font/AcuminPro-Regular.otf") format("opentype");
 }
 
 @font-face {
     font-family: Acumin-Pro;
     font-weight: 600;
-    src: url("../public/font/AcuminPro-Bold.otf") format("opentype");
+    src: url("../public/font/AcuminPro-Regular.otf") format("opentype");
 }
 
 * {
     font-family: Acumin-Pro, sans-serif;
+    color: #191A1D;
     margin: 0;
-    -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-     -khtml-user-select: none; /* Konqueror HTML */
-       -moz-user-select: none; /* Old versions of Firefox */
-        -ms-user-select: none; /* Internet Explorer/Edge */
-            user-select: none; /* Non-prefixed version, currently
-                                  supported by Chrome, Edge, Opera and Firefox */
 }
 
 a {
@@ -68,9 +62,18 @@ body {
 }
 
 .portfolio .col {
-    width: 320px;
+    width: 380px;
     float: left;
     margin: 0 20px;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
 }
 
 .section.portfolio {
@@ -86,7 +89,7 @@ body {
 }
 
 .portfolio .intro {
-    font-size: 15px;
+    font-size: 17px;
     text-align: left;
     margin-left: 8px;
     margin-bottom: 8px;
@@ -108,20 +111,21 @@ body {
 }
 
 .work-thumbnail .title {
-    font-size: 13px;
+    font-size: 15px;
     text-align: left;
     font-weight: 600;
     float: left;
-    width: 96px;
+    width: 120px;
     margin-left: 8px;
 }
 
 .work-thumbnail .description {
-    font-size: 13px;
+    font-size: 15px;
     text-align: left;
     display: block;
     font-weight: 500;
     float: left;
+    color: #8E9098;
 }
 
 .story-page {margin: 90px 0}
@@ -148,8 +152,89 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
 
 .top-bar {position: absolute; width: 100%; left: 0; top: 0; z-index: 2; background: #fff; display: block; text-align: center;}
 .story-name {padding: 10px 0 8px 0; font-weight: 600; font-size: 15px;}
-.back {cursor: pointer;float: left; padding: 18px; font-size: 13px;}
+.back {cursor: pointer;float: left; font-size: 15px; padding: 14px 0 12px 0; background: #fff; display: block; text-align: center; position: fixed; top: 0; left: 0; width: 100%; box-shadow: 0 1px 0 rgba(0,0,0,0.06);}
 
+.top-menu {position: fixed; top: 0; left: 0; width: 100%; z-index: 3; background: #fff; box-shadow: 0 1px 0 rgba(0,0,0,0.06);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */}
+.top-menu-container {width: 100%; max-width: 800px; display: block; margin: 0 auto;}
+.pages .active {border-bottom: solid 4px #000;}
+.pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 16px 0 8px 0; border-bottom: solid 4px transparent;}
+
+.work-experience-row {
+    display: block;
+    float: left;
+    text-align: left;
+    border-top: solid 1px #eee;
+    padding: 20px 0 16px 0;
+    width: 100%;
+}
+
+.work-experience-row:last-child {
+    border-bottom: solid 1px #eee;
+}
+
+.work-experience-row .type {float: left;  display: block; width: calc(100% - 700px); font-size: 15px; margin-top: 1px}
+.work-experience-row .type.blue span {color: #6890A7;}
+.work-experience-row .type.green span {color: #4EAC79;}
+.work-experience-row .info {float: left; width: calc(100% - 100px);}
+.work-experience-row .info .meta {float: left; width: 100%; font-size: 15px;}
+.work-experience-row .info .meta .name {float: left; font-size: 17px;}
+.work-experience-row .info .meta .time-place {float: right; margin-top: 1px;}
+.work-experience-row .info .meta .time-place .time .duration {margin-right: 10px; float: left; width: 80px; text-align: left;}
+.work-experience-row .info .meta .time-place .time .period {float: left; width: 160px;}
+.work-experience-row .info .meta .time-place > div {float: left;}
+.work-experience-row .info .meta .time-place .place {color: #8E9098; width: 150px; margin-left: 10px;}
+.work-experience-row .info .description {color: #8E9098; float: left; margin-top: 10px; display: block; width: 560px;}
+.work-experience-row .info .description span {color: #8E9098; float: left; font-size: 15px; line-height: 135%;}
+
+.content-about {
+    width: 100%;
+    float: left;
+    display: block;
+  height: 100%;
+  margin-top: 110px;
+  margin-bottom: 110px;
+}
+
+
+.content-about .container {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.section.intro {
+    margin-bottom: 60px;
+    display: block;
+    float: left;
+}
+
+.section.intro .text {
+    float: left;
+    display: block;
+    text-align: left;
+    width: calc(100% - 200px);
+}
+
+.section.intro .image {
+    float: right;
+    display: block;
+    text-align: right;
+    width: calc(100% - 600px);
+    margin-top: 8px;
+}
+
+.section.intro h1 {font-size: 24px; font-weight: 400; margin-bottom: 32px; line-height: 130%;}
+.section.intro p {font-size: 17px; line-height: 140%;}
 
 @media (max-width: 800px){
  
