@@ -112,11 +112,81 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                             <div className="meta">
                                 <div className="name">Kamcord</div>
                                 <div className="time-place">
-                                    <div className="time"><span className="duration">4 months</span><span class="period">May 2015 - Sep 2015</span></div>
+                                    <div className="time"><span className="duration">5 months</span><span class="period">May 2015 - Sep 2015</span></div>
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based startup, backed by 500 Startups, building a Mac-based user-friendly all-in-one cryptocurrency wallet and exchange.</span></div>
+                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type green"><span>Employee</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Branded.me</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">9 months</span><span class="period">Aug 2014 - Apr 2015</span></div>
+                                    <div className="place">San Francisco, CA</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type green"><span>Employee</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Mobiley (became Branded.me)</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">1 year</span><span class="period">Aug 2013 - Aug 2014</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Weebly</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">1 year</span><span class="period">Jul 2012 - Jul 2013</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>San Francisco based startup at Series A, backed by YCombinator and Sequoia, providing a website builder for 10+ million users. I was hired by Weebly to design new and original web themes that Weebly included in their official offering.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Helpjuice</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">1 year</span><span class="period">Jul 2012 - Jul 2013</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>Austin based TechStars-backed startup building a knowledge-base building platform used internally or as help center.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Playmonks</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">1 year</span><span class="period">Jul 2011 - Jul 2012</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>Austin based TechStars-backed startup building a knowledge-base building platform used internally or as help center.</span></div>
                         </div>
                     </div>
 
