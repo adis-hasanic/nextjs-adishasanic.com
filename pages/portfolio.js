@@ -33,6 +33,9 @@ export default function Work() {
                         <Link href="/"><span>About</span></Link>
                         <Link href="/portfolio"><span class="active">Portfolio</span></Link>
                     </div>
+                    <div class="contact">
+                        <a href="https://calendly.com/adishasanic/60min"><img src="calendly.svg"></img>Schedule a call</a>
+                    </div>
                 </div>
             </div>
 

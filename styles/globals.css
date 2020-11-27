@@ -28,6 +28,25 @@ body {
     margin: 0 20px;
 }
 
+.contact {
+    float: right;
+}
+
+.contact a {
+    text-decoration: none;
+    font-size: 15px;
+    display: block;
+    padding: 15px 0 7px 0;
+}
+
+.contact a img {
+    display: block;
+    width: 16px;
+    float: left;
+    margin-right: 8px;
+    margin-top: -2px;
+}
+
 .contact-button {
     text-decoration: none;
     font-size: 13px;
@@ -165,8 +184,8 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
               user-select: none; /* Non-prefixed version, currently
                                     supported by Chrome, Edge, Opera and Firefox */}
 .top-menu-container {width: 100%; max-width: 800px; display: block; margin: 0 auto;}
-.pages .active {border-bottom: solid 4px #000;}
-.pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 16px 0 8px 0; border-bottom: solid 4px transparent;}
+.pages .active {border-bottom: solid 4px #191A1D;}
+.pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 15px 0 7px 0; border-bottom: solid 4px transparent;}
 
 .work-experience-row {
     display: block;

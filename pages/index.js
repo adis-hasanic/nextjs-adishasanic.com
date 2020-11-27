@@ -33,6 +33,9 @@ export default function Home() {
                         <Link href="/"><span class="active">About</span></Link>
                         <Link href="/portfolio"><span>Portfolio</span></Link>
                     </div>
+                    <div class="contact">
+                        <a href="https://calendly.com/adishasanic/60min"><img src="calendly.svg"></img>Schedule a call</a>
+                    </div>
                 </div>
             </div>
 
@@ -93,7 +96,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type green"><span>Employee</span></div>
+                        <div className="type blue"><span>Employee</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Teamscope</div>
@@ -233,7 +236,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type green"><span>Employee</span></div>
+                        <div className="type blue"><span>Employee</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Branded.me</div>
