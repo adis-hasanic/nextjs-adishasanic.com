@@ -48,7 +48,7 @@ export default function Home() {
                             <h1>A 24-year-old designing UI/UX, website and visual <br></br>past 9 years at startups backed by YC, TechStars, etc.</h1>
                             <p>Currently looking for a full-time role, preferably at a startup in Europe, as I'm also looking to relocate from Bosnia to more of a tech hub and work closely on building and selling great digital products.
 <br></br><br></br>
-Self-taught, started from practicing Photoshop and web design at age 13. Used Sketch mostly, Figma lately. Worked on a design system, and recently learned more about how React works. I love designing visual interfaces for web and mobile screens, simplifying processes, and working in agile ways — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
+Self-taught, started from practicing Photoshop and web design at age 13. Used Sketch mostly, Figma lately. Worked on a design system, and recently learned more about how React works. I love designing visual interfaces for web and mobile screens, structuring information and processes, and working in an agile way — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
                         </div>
                         <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
                     </div>
