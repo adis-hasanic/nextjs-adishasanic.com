@@ -79,6 +79,20 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                     </div>
 
                     <div className="section work-experience-row">
+                        <div className="type blue"><span>Hackathon</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Teleport by ZITICITY</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">3 days</span><span class="period">Jun 2019</span></div>
+                                    <div className="place">Tallinn, Estonia</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>I teamed up with CEO and CTO of ZITICITY, a delivery startup from Lithuania backed by The Startup Wiseguys, to build a working prototype in 3 days, at Base Camp hackathon organized by Garage 48 and Superangel, Estonia's leading startup hub and VC. More than 100 teams applied, 15 teams competed, we won.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
                         <div className="type green"><span>Employee</span></div>
                         <div className="info">
                             <div className="meta">
@@ -96,13 +110,55 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                         <div className="type blue"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
-                                <div className="name">Portal</div>
+                                <div className="name">Portal by Fuel</div>
                                 <div className="time-place">
                                     <div className="time"><span className="duration">9 months</span><span class="period">Jun 2018 - Mar 2019</span></div>
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based startup, backed by 500 Startups, building a Mac-based user-friendly all-in-one cryptocurrency wallet and exchange.</span></div>
+                            <div className="description"><span>Founder of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on a user-friendly cryptocurrency wallet and exchange platform.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Tides by Fuel</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">2 months</span><span class="period">Nov 2017 - Dec 2017</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>Founders of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on a platform that decentralizes health insurance using blockchain.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Personal</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Typen</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">6 months</span><span class="period">Jul 2016 - Jan 2017</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>A distraction-free writing app I designed and founded (recruited a developer and bootstrapped development). Within 2 months of launch, more than 2000 people signed up. While many liked design, there was low retention rate, and I discontinued it to focus on other projects.</span></div>
+                        </div>
+                    </div>
+
+                    <div className="section work-experience-row">
+                        <div className="type blue"><span>Contract</span></div>
+                        <div className="info">
+                            <div className="meta">
+                                <div className="name">Foodmunk by Fuel</div>
+                                <div className="time-place">
+                                    <div className="time"><span className="duration">6 months</span><span class="period">Jan 2016 - Jun 2016</span></div>
+                                    <div className="place">Remotely</div>
+                                </div>
+                            </div>
+                            <div className="description"><span>Founders of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on an iOS app that learns about user's lifestyle and suggests healthiest meals to nearby.</span></div>
                         </div>
                     </div>
 
@@ -112,7 +168,7 @@ Self-taught, started from practicing Photoshop and web design at age 13. Used Sk
                             <div className="meta">
                                 <div className="name">MultiplyLabs</div>
                                 <div className="time-place">
-                                    <div className="time"><span className="duration">1 week</span><span class="period">Oct 2020</span></div>
+                                    <div className="time"><span className="duration">1 week</span><span class="period">Oct 2015</span></div>
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
