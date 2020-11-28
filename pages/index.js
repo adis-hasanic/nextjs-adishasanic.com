@@ -60,7 +60,7 @@ export default function Home() {
                             <div className="meta">
                                 <div className="name">Flowdash</div>
                                 <div className="time-place">
-                                    <div className="time"><span className="duration">3 months</span><span class="period">Aug 2020 - present</span></div>
+                                    <div className="time"><span className="duration">4 months</span><span class="period">Aug 2020 - present</span></div>
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
