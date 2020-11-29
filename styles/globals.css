@@ -148,17 +148,21 @@ body {
 }
 
 .story-page {margin: 90px 0}
-.story-page img {width: 100%; margin-bottom: 48px; box-shadow: 0 0 0 2px #eee;}
+.story-page img {width: 100%; margin: 24px auto;}
+.story-page span {display: block; margin: 0 auto; width: 100%; max-width: 680px; text-align: left; font-weight: 400;}
+.story-page span.p {font-size: 17px; line-height: 24px; margin: 24px auto;}
+.story-page span.h2 {font-size: 27px; font-weight: bold; margin: 48px auto 24px auto;}
+.story-page span.h3 {font-size: 22px; font-weight: bold; margin: 48px auto 24px auto;}
 img.typen {max-width: 1196px;}
 img.three-twenty {max-width: 320px; box-shadow: none !important;}
 img.typen-customization {max-width: 800px;}
 img.typen-focus {max-width: 800px;}
 img.five-thirty {max-width: 530px; box-shadow: 0 0 5px 2px #eee !important;}
 img.six-thirty {max-width: 630px; box-shadow: 0 0 5px 2px #eee !important; border-radius: 40px;}
-img.nine-sixty {max-width: 960px;}
-img.eleven-twenty {max-width: 1120px;}
-img.twelve-eighty {max-width: 1280px;}
-img.forteen-forty {max-width: 1440px;}
+img.nine-sixty {max-width: 960px; box-shadow: 0 0 0 2px #eee;}
+img.eleven-twenty {max-width: 1120px; box-shadow: 0 0 0 2px #eee;}
+img.twelve-eighty {max-width: 1280px; box-shadow: 0 0 0 2px #eee;}
+img.forteen-forty {max-width: 1440px; box-shadow: 0 0 0 2px #eee;}
 .iphonex-portrait {width: 30%; margin: 0px 1% 60px 1%; display: inline-block; }
 img.iphonex-portrait {max-width: 432px; box-shadow: none !important;}
 .iphone6-portrait {width: 30%; margin: 30px 1% 30px 1%; display: inline-block; }
@@ -199,6 +203,7 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
 .work-experience-row:last-child {
     border-bottom: solid 1px #eee;
 }
+
 
 .work-experience-row .type {float: left;  display: block; width: calc(100% - 680px); font-size: 15px; margin-top: 1px}
 .work-experience-row .type.blue span {color: #6890A7;}
