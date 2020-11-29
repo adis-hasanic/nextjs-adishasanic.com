@@ -56,7 +56,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Flowdash</div>
@@ -70,7 +70,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Stacker</div>
@@ -84,7 +84,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Hackathon</span></div>
+                        <div className="type green"><span>Hackathon</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Teleport by ZITICITY</div>
@@ -98,7 +98,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Employee</span></div>
+                        <div className="type green"><span>Employee</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Teamscope</div>
@@ -112,7 +112,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Portal by Fuel</div>
@@ -126,7 +126,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Tides by Fuel</div>
@@ -140,7 +140,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Meitu</div>
@@ -154,7 +154,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Engine</div>
@@ -168,7 +168,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">LiftIgniter</div>
@@ -182,7 +182,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Personal</span></div>
+                        <div className="type green"><span>Personal</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Typen</div>
@@ -196,7 +196,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Foodmunk by Fuel</div>
@@ -210,7 +210,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Project</span></div>
+                        <div className="type green"><span>Project</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">MultiplyLabs</div>
@@ -224,7 +224,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Kamcord</div>
@@ -238,7 +238,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Employee</span></div>
+                        <div className="type green"><span>Employee</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Branded.me</div>
@@ -252,7 +252,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Mobiley (became Branded.me)</div>
@@ -266,7 +266,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Weebly</div>
@@ -280,7 +280,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Helpjuice</div>
@@ -294,7 +294,7 @@ export default function Home() {
                     </div>
 
                     <div className="section work-experience-row">
-                        <div className="type blue"><span>Contract</span></div>
+                        <div className="type green"><span>Contract</span></div>
                         <div className="info">
                             <div className="meta">
                                 <div className="name">Playmonks</div>
