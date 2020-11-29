@@ -1500,7 +1500,7 @@ export const categories = [
         projects: [
             {
                 id: "Stacker",
-                description: "No-code app builder",
+                description: "Properties, components, blocks",
                 paragraphs: [
                     {
                         id: 0,
@@ -1583,6 +1583,19 @@ export const categories = [
 
                 ]
             },
+            {
+                id: "Teamscope",
+                description: "Properties, components",
+                paragraphs: [
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/teamscope/1.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+
+                ]
+            }
         ]
     },
     
