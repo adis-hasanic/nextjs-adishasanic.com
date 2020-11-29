@@ -9,28 +9,19 @@ export const categories = [
                 description: "Build apps for team workflows",
                 paragraphs: [
                     {
-                        id: 0,
-                        imageURL: "/portfolio/product/flowdash/6.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
+                        id: 4,
+                        textClass: "h2",
+                        text: "Flowdash",
                     },
                     {
-                        id: 1,
-                        imageURL: "/portfolio/product/flowdash/7.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
+                        id: 4,
+                        textClass: "p",
+                        text: "In August 2020, hired by Flowdash, a YC-backed San Francisco based startup, to work the design of their product. Working closely with CEO and CTO on redesigning Flowdash's product and on designing new features. The problem was mainly that people who sign up do not learn how to build a workflow on their own. After about 3 months, the new version was launched on ProductHunt: got more than 2000 upvotes, good feedback on design, and everyone who tried it went through the onboarding successfully. https://www.producthunt.com/posts/flowdash",
                     },
                     {
-                        id: 2,
-                        imageURL: "/portfolio/product/flowdash/8.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
-                    },
-                    {
-                        id: 3,
-                        imageURL: "/portfolio/product/flowdash/9.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
+                        id: 4,
+                        textClass: "h3",
+                        text: "Mockups of the new version",
                     },
                     {
                         id: 4,
@@ -61,7 +52,33 @@ export const categories = [
                         imageURL: "/portfolio/product/flowdash/5.jpg",
                         imageClass: "eleven-twenty",
                         text: "",
-                    }
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/product/flowdash/6.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+                    {
+                        id: 1,
+                        imageURL: "/portfolio/product/flowdash/7.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+                    {
+                        id: 2,
+                        imageURL: "/portfolio/product/flowdash/8.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+                    {
+                        id: 3,
+                        imageURL: "/portfolio/product/flowdash/9.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+
+            
 
                 ]
             },

@@ -44,7 +44,8 @@ const Story = () => {
                 {story.paragraphs.map(paragraph => {
                     return(
                     <div key={paragraph.id} className={paragraph.imageClass}>
-                    <img className={paragraph.imageClass ? paragraph.imageClass : ""} src={paragraph.imageURL} ></img>
+                    {paragraph.text ? <span className={paragraph.textClass ? paragraph.textClass: ""}>{paragraph.text}</span> : null }
+                    {paragraph.imageURL ? <img className={paragraph.imageClass ? paragraph.imageClass : ""} src={paragraph.imageURL} ></img> : null }
                     </div>
                     )
                 })}
