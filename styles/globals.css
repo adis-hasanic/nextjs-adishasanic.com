@@ -148,8 +148,9 @@ body {
 }
 
 .story-page {margin: 90px 0}
-.story-page img {width: 100%; margin: 24px auto;}
+.story-page img {width: 100%; margin: 48px auto 0 auto;}
 .story-page span {display: block; margin: 0 auto; width: 100%; max-width: 680px; text-align: left; font-weight: 400;}
+.story-page span.caption {font-size: 15px; line-height: 22px; margin: 24px auto 48px auto; text-align: center; color: #8E9098; max-width: 460px;}
 .story-page span.p {font-size: 17px; line-height: 24px; margin: 24px auto;}
 .story-page span.h2 {font-size: 27px; font-weight: bold; margin: 48px auto 24px auto;}
 .story-page span.h3 {font-size: 22px; font-weight: bold; margin: 48px auto 24px auto;}
@@ -159,6 +160,7 @@ img.typen-customization {max-width: 800px;}
 img.typen-focus {max-width: 800px;}
 img.five-thirty {max-width: 530px; box-shadow: 0 0 5px 2px #eee !important;}
 img.six-thirty {max-width: 630px; box-shadow: 0 0 5px 2px #eee !important; border-radius: 40px;}
+img.seven-twenty {max-width: 720px;}
 img.nine-sixty {max-width: 960px; box-shadow: 0 0 0 2px #eee;}
 img.eleven-twenty {max-width: 1120px; box-shadow: 0 0 0 2px #eee;}
 img.twelve-eighty {max-width: 1280px; box-shadow: 0 0 0 2px #eee;}

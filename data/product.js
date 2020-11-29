@@ -94,7 +94,12 @@ export const categories = [
                     {
                         id: 4,
                         textClass: "p",
-                        text: "From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based YC early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.                        ",
+                        text: "From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based YC early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "I mostly worked on product, from making small visual improvements, to making it easy to build and edit the app.",
                     },
                     {
                         id: 0,
@@ -104,8 +109,8 @@ export const categories = [
                     },
                     {
                         id: 4,
-                        textClass: "p",
-                        text: "I mostly worked on product, from making small visual improvements, to making it easy to build and edit the app. What you see below is a design I did of a new version of the product that makes Stacker primarily an app builder for building workspaces.",
+                        textClass: "caption",
+                        text: "Me (first from the right) with the rest of Stacker at a company retreat on February 2020 in Geneva, Switzerland.",
                     },
                     {
                         id: 0,
@@ -282,6 +287,32 @@ export const categories = [
                 id: "Teamscope",
                 description: "Build teams using data",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Teamscope",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "From Oct 2018 to Jan 2020, I was a sole designer at Teamscope in Tallinn, Estonia. Teamscope is a startup building a talent-analytics platform that uses surveys and machine learning to collect data about people's personality, values and competencies, and then presents insights that help organizations build high-performing teams. Teamscope investors include TechStars, SAP, BlackPearls and Jaan Tallinn (co-founder of Skype).",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "Reporting to and collaborating with Founders and Product Manager, I did a complete redesign of the product, focusing on making it easy to gather data from surveys, learn about people and teams from their profiles, and learn about how candidates fit into the team in the hiring process.",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/teamscope-teamphoto.jpg",
+                        imageClass: "seven-twenty",
+                        text: "",
+                    },
+                    {
+                        id: 4,
+                        textClass: "caption",
+                        text: "Me (first from the right) with the rest of Teamscope at company offices on January 2019 in Tallinn, Estonia.",
+                    },
                     {
                         id: 0,
                         imageURL: "/portfolio/product/teamscope/1/1.jpg",
