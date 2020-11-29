@@ -16,7 +16,7 @@ export const categories = [
                     {
                         id: 4,
                         textClass: "p",
-                        text: "In August 2020, hired by Flowdash, a YC-backed San Francisco based startup, to work the design of their product. Working closely with CEO and CTO on redesigning Flowdash's product and on designing new features. The problem was mainly that people who sign up do not learn how to build a workflow on their own. After about 3 months, the new version was launched on ProductHunt: got more than 2000 upvotes, good feedback on design, and everyone who tried it went through the onboarding successfully. https://www.producthunt.com/posts/flowdash",
+                        text: "In August 2020, hired by Flowdash, a YC-backed San Francisco based startup, to work the design of their product. Working closely with CEO and CTO on redesigning Flowdash's product and on designing new features. The problem was mainly that people who sign up do not learn how to build a workflow on their own. After about 3 months, the new version was launched on ProductHunt: got more than 2000 upvotes, positive feedback on product and design, and everyone who tried it went through the onboarding successfully. https://www.producthunt.com/posts/flowdash",
                     },
                     {
                         id: 4,
@@ -86,6 +86,27 @@ export const categories = [
                 id: "Stacker",
                 description: "Turn spreadsheets into apps",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Stacker",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based YC early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.                        ",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/stacker-teamphoto.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "I mostly worked on product, from making small visual improvements, to making it easy to build and edit the app. What you see below is a design I did of a new version of the product that makes Stacker primarily an app builder for building workspaces.",
+                    },
                     {
                         id: 0,
                         imageURL: "/portfolio/product/stacker/1/1.jpg",
@@ -1423,24 +1444,6 @@ export const categories = [
                 id: "Branded.me",
                 description: "Logo, business card",
                 paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/visual/brandedme/logo-onwhite.jpg",
-                        imageClass: "brandedme-logo",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/visual/brandedme/logo-onblack.jpg",
-                        imageClass: "brandedme-logo",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/visual/brandedme/logo-onteal.jpg",
-                        imageClass: "brandedme-logo",
-                        text: "",
-                    },
                     {
                         id: 0,
                         imageURL: "/portfolio/visual/brandedme/businesscard-front.jpg",
