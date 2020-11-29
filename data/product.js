@@ -1320,25 +1320,6 @@ export const categories = [
                 ]
             },
             {
-                id: "ZITICITY",
-                description: "On-demand local delivery",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/teleport/1.jpg",
-                        imageClass: "twelve-eighty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/teleport/2.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
-                    },
-
-                ]
-            },
-            {
                 id: "Teamscope '19",
                 description: "Data-driven executive search",
                 paragraphs: [
@@ -1380,6 +1361,25 @@ export const categories = [
                 ]
             },
             {
+                id: "ZITICITY",
+                description: "On-demand local delivery",
+                paragraphs: [
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/web/teleport/1.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/web/teleport/2.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+
+                ]
+            },
+            {
                 id: "Tides",
                 description: "Decentralized health insurance",
                 paragraphs: [
@@ -1390,74 +1390,6 @@ export const categories = [
                         text: "",
                     },
 
-                ]
-            },
-            {
-                id: "Atha",
-                description: "Digital agency",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/home.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/services.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/technology.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/about.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/careers.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/atha/contact.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-
-                ]
-            },
-            {
-                id: "Monolith",
-                description: "2001: A Space Odyssey",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/monolith/monolith.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
-
-                ]
-            },
-            {
-                id: "MultiplyLabs",
-                description: "Customizable pill for health",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/multiplylabs/1.jpg",
-                        imageClass: "forteen-forty",
-                        text: "",
-                    },
                 ]
             },
             {
@@ -1551,23 +1483,97 @@ export const categories = [
         ]
     },
     {
-        id: "video",
-        name: "Video",
+        id: "design-system",
+        name: "Design system",
         projects: [
             {
-                id: "Teamscope",
-                description: "3-minute explainer",
+                id: "Stacker",
+                description: "No-code app builder",
                 paragraphs: [
                     {
                         id: 0,
-                        imageURL: "/portfolio/product/flowdash/1.jpg",
-                        imageClass: "eleven-twenty",
+                        imageURL: "/portfolio/design-system/stacker/1.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/2.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/3.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/4.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/5.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/6.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/7.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/8.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/9.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/10.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/11.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/12.jpg",
+                        imageClass: "five-thirty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/design-system/stacker/13.jpg",
+                        imageClass: "five-thirty",
                         text: "",
                     },
 
                 ]
             },
         ]
-    }
+    },
+    
+    
 
 ]
