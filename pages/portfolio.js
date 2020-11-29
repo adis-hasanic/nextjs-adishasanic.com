@@ -64,6 +64,21 @@ export default function Work() {
                     </div>
 
                     <div className="col">
+                    <div className="category">
+                            <div className="intro">UI Design System</div>
+                            {categories[3].projects.map(project => {
+                                return (
+                                    <Link key={project.id} href={`/portfolio/${categories[3].id}?project=${project.id}`} >
+                                        <a href={`/portfolio/${categories[3].id}?project=${project.id}`} >
+                                            <div className="work-thumbnail">
+                                                <span className="title">{project.id}</span>
+                                                <span className="description">{project.description}</span>
+                                            </div>
+                                        </a>
+                                    </Link>
+                                )
+                            })}
+                        </div>
                         <div className="category">
                             <div className="intro">Website</div>
                             {categories[1].projects.map(project => {

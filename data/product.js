@@ -1320,6 +1320,25 @@ export const categories = [
                 ]
             },
             {
+                id: "ZITICITY",
+                description: "On-demand local delivery",
+                paragraphs: [
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/web/teleport/1.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/web/teleport/2.jpg",
+                        imageClass: "eleven-twenty",
+                        text: "",
+                    },
+
+                ]
+            },
+            {
                 id: "Teamscope '19",
                 description: "Data-driven executive search",
                 paragraphs: [
@@ -1361,25 +1380,6 @@ export const categories = [
                 ]
             },
             {
-                id: "ZITICITY",
-                description: "On-demand local delivery",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/teleport/1.jpg",
-                        imageClass: "twelve-eighty",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/web/teleport/2.jpg",
-                        imageClass: "eleven-twenty",
-                        text: "",
-                    },
-
-                ]
-            },
-            {
                 id: "Tides",
                 description: "Decentralized health insurance",
                 paragraphs: [
@@ -1390,6 +1390,18 @@ export const categories = [
                         text: "",
                     },
 
+                ]
+            },
+            {
+                id: "MultiplyLabs",
+                description: "Customizable pill for health",
+                paragraphs: [
+                    {
+                        id: 0,
+                        imageURL: "/portfolio/web/multiplylabs/1.jpg",
+                        imageClass: "forteen-forty",
+                        text: "",
+                    },
                 ]
             },
             {
