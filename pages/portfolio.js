@@ -7,7 +7,7 @@ export default function Work() {
         <div>
             <div>
             <Head>
-                <title>Adis Hasanic</title>
+                <title>Adis Hasanic - Designer</title>
                 <link rel="icon" href="/favicon.svg" />
 
                 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
