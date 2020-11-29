@@ -179,6 +179,12 @@ export const categories = [
                         text: "",
                     },
                     {
+                        id: 9,
+                        imageURL: "/portfolio/product/stacker/3/5.jpg",
+                        imageClass: "twelve-eighty",
+                        text: "",
+                    },
+                    {
                         id: 11,
                         imageURL: "/portfolio/product/stacker/4/1.jpg",
                         imageClass: "twelve-eighty",
