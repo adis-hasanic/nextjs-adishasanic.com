@@ -387,6 +387,32 @@ export const categories = [
                 description: "On-demand local delivery",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Teleport by ZITICITY",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "At a 3-day hackaton in Tallinn hosted by Garage48 and Superangel (a notable startup hub and VC in Estonia), I joined as a guest designer the CEO and CTO of ZITICITY, a delivery startup from Lithuania.",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "They already had an idea of which prototype to build — an `Uber for deliveries` type of service, targeting primarily people who sell stuff locally, and need it delivered fast. The way it works: the seller schedules a delivery, then sends a link to buyer, who schedules a drop-off, and someone from the ZITICITY fleet responds and delivers it. I suggested the name Teleport, and worked on the design of the coming-soon page, mobile-ready web app, marketing website and an ad.",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "More than 100 teams applied, 15 teams competed, we won. It led to Superangel investing in ZITICITY.",
+                    },
+                    {
+                        id: 0,
+                        imageURL: "/teleport-teamphoto.jpg",
+                        imageClass: "seven-twenty",
+                        text: "",
+                    },
+                    {
                         id: 0,
                         imageURL: "/portfolio/quick/teleport/schedule-delivery/1.jpg",
                         imageClass: "twelve-eighty",
