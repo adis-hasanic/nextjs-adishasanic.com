@@ -104,7 +104,7 @@ export const categories = [
                     {
                         id: 0,
                         imageURL: "/stacker-teamphoto.jpg",
-                        imageClass: "five-thirty",
+                        imageClass: "seven-twenty",
                         text: "",
                     },
                     {
