@@ -30,8 +30,9 @@ export default function Work() {
             <div className="top-menu">
                 <div class="top-menu-container">
                     <div class="pages">
-                        <Link href="/"><span>About</span></Link>
-                        <Link href="/portfolio"><span class="active">Portfolio</span></Link>
+                    <Link href="/"><span>About</span></Link>
+                        <Link href="/portfolio"><span class="active">Work</span></Link>
+                        <Link href="/references"><span>References</span></Link>
                     </div>
                     <div class="contact">
                         <a href="https://calendly.com/adishasanic/60min"><img src="calendly.svg"></img>Schedule a call</a>

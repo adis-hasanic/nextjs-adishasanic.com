@@ -259,7 +259,7 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
     margin-top: 8px;
 }
 
-.section.intro h1 {font-size: 24px; font-weight: 400; margin-bottom: 32px; line-height: 130%;}
+.section.intro h1 {font-size: 24px; font-weight: 400; margin-bottom: 24px; line-height: 130%;}
 .section.intro p {font-size: 17px; line-height: 140%;}
 
 @media (max-width: 800px){

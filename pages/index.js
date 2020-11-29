@@ -31,7 +31,8 @@ export default function Home() {
                 <div class="top-menu-container">
                     <div class="pages">
                         <Link href="/"><span class="active">About</span></Link>
-                        <Link href="/portfolio"><span>Portfolio</span></Link>
+                        <Link href="/portfolio"><span>Work</span></Link>
+                        <Link href="/references"><span>References</span></Link>
                     </div>
                     <div class="contact">
                         <a href="https://calendly.com/adishasanic/60min"><img src="calendly.svg"></img>Schedule a call</a>
