@@ -21,7 +21,7 @@ export const categories = [
                     {
                         id: 4,
                         textClass: "h3",
-                        text: "Mockups of the new version",
+                        text: "A few mockups of the new version",
                     },
                     {
                         id: 4,
@@ -1284,6 +1284,16 @@ export const categories = [
                 description: "Build teams using data",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Teamscope website design in 2020",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "It was mainly about redesigning the landing page into something that presents Teamscope as a decision tool for teambuilding and hiring, and in any organization, not just for executive search. Also, as most of the app's new design was in place, the intent was to bring the same styling from the product to the website. In 3 weeks, I led the process of complete redesign of home page (from content strategy to visual), visual restyling of other pages, and coded the HTML/CSS.",
+                    },
+                    {
                         id: 0,
                         imageURL: "/portfolio/web/teamscope-2020/home.jpg",
                         imageClass: "forteen-forty",
@@ -1320,6 +1330,16 @@ export const categories = [
                 id: "Teamscope '19",
                 description: "Data-driven executive search",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Teamscope website in 2019",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "The focus was on executive search. I designed entire website from scratch, while working with founders on content strategy and copy, as they were selling the product for a few years already. I also created all the visuals explaining the science of how Teamscope works, and coded HTML/CSS of all of it. Conversion rate increased from 5-10 bookings per month to 20-30 per month.",
+                    },
                     {
                         id: 0,
                         imageURL: "/portfolio/web/teamscope-2019/home.jpg",
