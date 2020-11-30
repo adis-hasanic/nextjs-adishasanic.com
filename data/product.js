@@ -1473,25 +1473,6 @@ export const categories = [
 
                 ]
             },
-            {
-                id: "Branded.me",
-                description: "Logo, business card",
-                paragraphs: [
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/visual/brandedme/businesscard-front.jpg",
-                        imageClass: "brandedme-businesscard",
-                        text: "",
-                    },
-                    {
-                        id: 0,
-                        imageURL: "/portfolio/visual/brandedme/businesscard-back.jpg",
-                        imageClass: "brandedme-businesscard",
-                        text: "",
-                    },
-
-                ]
-            },
         ]
     },
     {
