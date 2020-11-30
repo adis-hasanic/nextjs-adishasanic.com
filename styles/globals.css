@@ -36,7 +36,7 @@ body {
     text-decoration: none;
     font-size: 15px;
     display: block;
-    padding: 15px 0 7px 0;
+    padding: 15px 0 11px 0;
 }
 
 .contact a img {
@@ -137,6 +137,7 @@ body {
     float: left;
     width: 120px;
     margin-left: 8px;
+    color: #43739d;
 }
 
 .work-thumbnail .description {
@@ -191,8 +192,8 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
               user-select: none; /* Non-prefixed version, currently
                                     supported by Chrome, Edge, Opera and Firefox */}
 .top-menu-container {max-width: 800px; display: block; margin: 0 auto;     width: calc(100% - 40px);}
-.pages .active {border-bottom: solid 4px #191A1D;}
-.pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 15px 0 7px 0; border-bottom: solid 4px transparent;}
+.pages .active {border-bottom: solid 4px #ff3b00;}
+.pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 15px 0 8px 0; margin-bottom: -1px; border-bottom: solid 4px transparent;}
 
 .work-experience-row {
     display: block;
@@ -304,6 +305,7 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
         width: 100%;
         margin-left: 0;
         font-size: 15px;
+        
     }
     
     .work-thumbnail {
