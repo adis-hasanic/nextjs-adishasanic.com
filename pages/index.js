@@ -98,7 +98,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Tallinn, Estonia</div>
                                 </div>
                             </div>
-                            <div className="description"><span>I teamed up with CEO and CTO of ZITICITY, a delivery startup from Lithuania backed by The Startup Wiseguys, to build a working prototype in 3 days, at Base Camp hackathon organized by Garage 48 and Superangel, Estonia's leading startup hub and VC. More than 100 teams applied, 15 teams competed, we won.</span></div>
+                            <div className="description"><span>Winning prototype of a 3-day hackathon by Garage48 + Superangel VC. I worked with ZITICITY, Vilnius based startup backed by The Startup Wiseguys</span></div>
                         </div>
                     </div>
 
@@ -126,7 +126,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>Founder of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on a user-friendly cryptocurrency wallet and exchange platform.</span></div>
+                            <div className="description"><span>Fuel, a San Francisco based startup backed by 500 Startups, hired me to work on an all-in-one cryptocurrency management platform.</span></div>
                         </div>
                     </div>
 
