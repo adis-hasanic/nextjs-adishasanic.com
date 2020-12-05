@@ -140,7 +140,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>Founders of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on a platform that decentralizes health insurance using blockchain.</span></div>
+                            <div className="description"><span>Fuel, a San Francisco based startup backed by 500 Startups, hired me to work on a platform that decentralizes health insurance.</span></div>
                         </div>
                     </div>
 
@@ -168,7 +168,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>US based startup providing a platform that enables anyone to set up a custom online shop. I worked on redesigning the admin panel where data is tracked, inventory is managed and shop's pages are customized.</span></div>
+                            <div className="description"><span>US based startup providing a platform that enables anyone to set up a custom online shop without coding</span></div>
                         </div>
                     </div>
 
