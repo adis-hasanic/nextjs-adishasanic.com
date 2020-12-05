@@ -247,7 +247,7 @@ export default function Home() {
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based startup building a personal website builder. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon. Later became Remote.com</span></div>
+                            <div className="description"><span>San Francisco based startup building a personal website builder. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</span></div>
                         </div>
                     </div>
 

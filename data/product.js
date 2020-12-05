@@ -479,6 +479,16 @@ export const categories = [
                 description: "Car-search assistant",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Amigos",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "An iOS app that helps user find the car they want and can afford from a nearby dealership. Designed in 1 month. I was a sole designer on the project, but it was an iterative process of close discussions with founder of Amigos.",
+                    },
+                    {
                         id: 0,
                         imageURL: "/portfolio/product/amigos/1/2.png",
                         imageClass: "iphonex-portrait",
@@ -591,6 +601,16 @@ export const categories = [
                 description: "Crypto wallet and exchange",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Portal",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "Founders of Fuel, a San Francisco based digital-health startup backed by 500 Startups, hired me in 2018 to work on their new startup and product idea — an all-in-one platform for storing, transfering, exchanging and converting cryptocurrencies. Collaborating CEO and CTO, from June 2018 to Mar 2019, I designed the UI/UX of a Mac platform.",
+                    },
+                    {
                         id: 1,
                         imageURL: "/portfolio/product/portal/1/1.jpg",
                         imageClass: "twelve-eighty",
@@ -670,6 +690,16 @@ export const categories = [
                 description: "Booking a campervan",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "IndieCampers",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "In October 2018, as a part of a job application process to IndieCampers — a Lisbon based Europe's biggest campervan rental service — I was asked by IndieCampers to do a quick 1-week redesign of experience of booking a campervan via a mobile website. It led to an offer for a full-time role.",
+                    },
+                    {
                         id: 0,
                         imageURL: "/portfolio/quick/indiecampers/1.jpg",
                         imageClass: "three-twenty",
@@ -682,6 +712,16 @@ export const categories = [
                 id: "Engine",
                 description: "Admin panel of an online shop",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Engine",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "For a few months in 2017, as a freelancer, I worked on designing UX/UI of admin panel of Engine, a US based startup providing a platform that makes it easy for anyone to set up a custom online shop.",
+                    },
                     {
                         id: 1,
                         imageURL: "/portfolio/product/engine/1.jpg",
@@ -767,6 +807,16 @@ export const categories = [
                 id: "LiftIgniter",
                 description: "API for content recommendation",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "LiftIgniter",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "For several months during 2016 and 2017, as a freelancer, I designed an onboarding and parts of admin panel of LiftIgniter, a San Francisco based early-stage startup backed by YC, building a recommendation engine/API that integrates into apps to bring relevant content to each user.",
+                    },
                     {
                         id: 1,
                         imageURL: "/portfolio/product/liftigniter/4.jpg",
@@ -858,6 +908,16 @@ export const categories = [
                 id: "Typen",
                 description: "Distraction-free writing app",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Typen",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "In 2017, I founded and designed Typen, a writing app that helps the user focus on creative part of writing by removing distractions and providing customizable look of the app to suit any space, atmosphere, or time.",
+                    },
                     {
                         id: 1,
                         imageURL: "/portfolio/product/typen/1.png",
@@ -980,6 +1040,21 @@ export const categories = [
                 id: "Foodmunk",
                 description: "Find healthy meals nearby",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Foodmunk",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "Fuel, a San Francisco based digital-health startup backed by 500 Startups, was planning to create an app that will use machine learning to continually learn about the user, and use maps to find the restaurants and meals near the user, and based on the combination of those, suggest the best place to eat. Reporting to and collaborating with Fuel's CEO, for 7 months in 2016, I worked on the design of the user experience and UI of an iOS app. I also led the process of recruiting an illustrator and, collaborating with Fuel's CEO, directing illustration of the chipmunk character.",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "We started on a v2, which would include social features, such as challenges and races that help people stay on track, but the project Foodmunk was discontinued as the founders discontinued Fuel to focus on a new venture.",
+                    },
                     {
                         id: 1,
                         imageURL: "/portfolio/product/foodmunk/1/1.png",
@@ -1114,6 +1189,21 @@ export const categories = [
                 description: "Mobile games streaming",
                 paragraphs: [
                     {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Kamcord",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "In 2015, Kamcord was a Series-A startup with 40 people, backers including YC and Tencent Holdings, with offices in San Francisco, Japan and China. They were building a platform and tools for mobile gamers to record and share gameplays and livestreams.",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "On a contract basis, I worked for Kamcord for 4 months at Kamcord's San Francisco offices. First few weeks as a sole designer collaborating with founders, then reporting to a Senior Designer. In the 4 months of full-time dedication, I completed the scope of work which was expected of me for 8 months. I primarily worked on Kamcord's web and mobile product, improving visual UI and usability in lots of small ways, but I also worked on visual assets such as AppStore banners, landing pages, app icons, etc.",
+                    },
+                    {
                         id: 1,
                         imageURL: "/portfolio/product/kamcord/broadcasting/1.png",
                         imageClass: "android-landscape",
@@ -1222,6 +1312,16 @@ export const categories = [
                 id: "Branded.me",
                 description: "Personal website builder",
                 paragraphs: [
+                    {
+                        id: 4,
+                        textClass: "h2",
+                        text: "Branded.me",
+                    },
+                    {
+                        id: 4,
+                        textClass: "p",
+                        text: "For 9 months, I was a sole designer at Branded.me in San Francisco. We were creating a web platform that makes it quick and easy to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.",
+                    },
                     {
                         id: 1,
                         imageURL: "/portfolio/product/brandedme/1.jpg",
