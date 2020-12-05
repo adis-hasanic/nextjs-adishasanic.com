@@ -196,7 +196,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>A distraction-free, customizable, web-based writing app I designed and founded (recruited a developer and bootstrapped development). 2000 sign ups within 2 months of Facebook ads. Positive user feedback, low retention rate (safety concerns, lack of cross-platform support).</span></div>
+                            <div className="description"><span>Writing app I designed and founded (recruited a developer and bootstrapped development). 2000 sign ups within 2 months. Positive user feedback, low retention rate (safety concerns, lack of cross-platform support).</span></div>
                         </div>
                     </div>
 
@@ -252,7 +252,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based startup building a personal website builder. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</span></div>
+                            <div className="description"><span>San Francisco based startup. We build a personal website builder, more than 100k websites were created within 3 months of launch, and there was an offer for acquisition from Amazon.</span></div>
                         </div>
                     </div>
 
