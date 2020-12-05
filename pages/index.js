@@ -98,7 +98,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Tallinn, Estonia</div>
                                 </div>
                             </div>
-                            <div className="description"><span>Winning prototype of a 3-day hackathon by Garage48 + Superangel VC. I worked with ZITICITY, Vilnius based startup backed by The Startup Wiseguys</span></div>
+                            <div className="description"><span>Winning prototype of a 3-day hackathon by Garage48 + Superangel VC. I worked with ZITICITY, Vilnius based startup backed by The Startup Wiseguys.</span></div>
                         </div>
                     </div>
 
