@@ -48,7 +48,7 @@ export default function Home() {
                 
                         <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
                         <div className="section text">
-                            <h1>I'm Adis, a 24 y.o. digital product designer based in Bosnia. Designing UI, UX, web and visual past 9 years at startups (backers include YC, Sequoia, TechStars, etc.)</h1>
+                            <h1>I'm Adis, a 24-year-old product designer based in Bosnia. Designing UI, UX, web and visual past 9 years at startups (backers include YC, Sequoia, TechStars, etc.)</h1>
                             <p>Currently looking for a full-time role, preferably at a startup in Europe, as I'm also looking to relocate from Bosnia to more of a tech hub and work closely on building and selling great digital products.
 <br></br><br></br>
 Self-taught, started from practicing Photoshop and web design at age 13 and learned all I know through experience, practice, and choosing my own reading material. Used Sketch mostly, Figma lately. Some experience lately with design systems and learned a bit about how React works. I love designing for screen, structuring processes and information, and working in an agile way — mockups, discussing, iterating, launching. User research through surveys, interviews and testing is something I’d like to start practicing.</p>
