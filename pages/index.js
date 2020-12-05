@@ -55,6 +55,11 @@ export default function Home() {
                         </div>
                     </div>
 
+                    <div className="section work-experience-intro">
+                <h2>Experience</h2>
+                <span><a href="cv.pdf">Download CV</a></span>
+                    </div>
+
                     <div className="section work-experience-row">
                         <div className="type green"><span>Contract</span></div>
                         <div className="info">

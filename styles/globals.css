@@ -195,6 +195,27 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
 .pages .active {border-bottom: solid 4px #ff3b00;}
 .pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 15px 0 8px 0; margin-bottom: -1px; border-bottom: solid 4px transparent;}
 
+
+.work-experience-intro {
+    display: block;
+    width: 100%;
+    float: left;
+    margin-bottom: 16px;
+}
+
+.work-experience-intro h2 {
+    float: left;
+    font-size: 19px;
+    text-align: left;
+}
+
+.work-experience-intro span {
+    float: left;
+    margin-top: 4px;
+    font-size: 15px;
+    margin-left: 12px;
+}
+
 .work-experience-row {
     display: block;
     float: left;
@@ -311,6 +332,7 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
     .work-thumbnail {
         padding: 11px 0 8px 0;
     }
+
 
 
     .work-experience-row .type,
