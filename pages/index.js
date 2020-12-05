@@ -238,7 +238,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">San Francisco, CA</div>
                                 </div>
                             </div>
-                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos. Later, in 2017, was acquired by Lyft.</span></div>
+                            <div className="description"><span>San Francisco based Series-A startup, backed by YCombinator and Tencent, building a platform and tools for mobile games livestreams and videos.</span></div>
                         </div>
                     </div>
 
