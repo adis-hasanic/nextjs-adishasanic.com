@@ -196,11 +196,25 @@ img.brandedme-businesscard {max-width: 280px; box-shadow: 0 0 5px 2px #eee !impo
 .pages span {cursor: pointer; margin-right: 16px; font-size: 15px;  display: block; float: left; padding: 15px 0 8px 0; margin-bottom: -1px; border-bottom: solid 4px transparent;}
 
 
+
+
 .work-experience-intro {
     display: block;
     width: 100%;
     float: left;
     margin-bottom: 16px;
+}
+
+.outro {
+    padding-top: 40px;
+    display: block;
+    float: left;
+    border-top: solid 1px #eee;
+}
+
+.outro a {
+    margin-top: 20px;
+    display: block;
 }
 
 .work-experience-intro h2 {

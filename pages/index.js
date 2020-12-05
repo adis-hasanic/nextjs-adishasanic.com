@@ -312,6 +312,13 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                         </div>
                     </div>
 
+                    <div className="section outro">
+                        <div className="section text">
+                            <h3>Not every project was captured there, but that's basically the work history. It mostly consists of contract work I've done as a freelancer, working closely with the founders and PMs. Before 2011, I was just doing practice web and graphic design work and posting on DeviantART and Dribbble.</h3>
+                            <Link href="/portfolio"><h3><a href="/portfolio">See some mockups</a></h3></Link>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
