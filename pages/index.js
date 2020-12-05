@@ -210,7 +210,7 @@ Self-taught, started from practicing Photoshop and web design at age 13 and lear
                                     <div className="place">Remotely</div>
                                 </div>
                             </div>
-                            <div className="description"><span>Founders of Fuel, a digital health startup, based in San Francisco backed by 500 Startups, hired me to work on an iOS app that learns about user's lifestyle and suggests healthiest meals to nearby.</span></div>
+                            <div className="description"><span>Fuel, a San Francisco based startup backed by 500 Startups, hired me to work on an iOS app that helps users eat healthy.</span></div>
                         </div>
                     </div>
 
