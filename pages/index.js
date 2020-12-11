@@ -46,7 +46,7 @@ export default function Home() {
 
                     <div className="section intro">
                 
-                        <div className="section image"><img src="adis-hasanic.jpg" width="122"></img></div>
+                        <div className="section image"><img src="adis-hasanic.jpg" width="160"></img></div>
                         <div className="section text">
                             <h1>I'm Adis, a 24-year-old product designer based in Bosnia. Designing UI, UX, web and visual past 9 years at startups (backers include YC, Sequoia, TechStars, etc.)</h1>
                             <p>Currently looking for a full-time role, preferably at a startup in Europe, as I'm also looking to relocate from Bosnia to more of a tech hub and work closely on building digital products.
