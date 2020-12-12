@@ -69,6 +69,18 @@ a {
   width: 100%;
 }
 
+.menu .top .portrait {
+  display: block;
+  float: left;
+  margin-bottom: 16px;
+  margin-left: -20px;
+  width: 100%;
+}
+
+.menu .top .portrait img {
+  width: 160px;
+}
+
 .menu .top .name {
   font-size: 16px;
 }
@@ -83,7 +95,7 @@ a {
   display: block;
   float: left;
   width: 100%;
-  margin-top: 40px;
+  margin-top: 24px;
 }
 
 .menu .links div {
@@ -147,7 +159,7 @@ a {
   text-align: left;
 }
 
-img {
+.content img {
   width: 100%;
   margin-top: 40px;
 }
