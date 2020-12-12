@@ -12,6 +12,9 @@ export default function Home() {
           <p>For 9 months, I was a sole designer at Branded.me in San Francisco. We were creating a web platform that makes it quick and easy to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>
         </div>
         <div className="row">
+          <img src="/portfolio/web/brandedme/home.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
           <img src="/portfolio/product/brandedme/1.jpg" className="twelve-eighty"></img>
         </div>
         <div className="row">
