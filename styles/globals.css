@@ -164,6 +164,11 @@ a {
   margin-top: 40px;
 }
 
+.businesscards img {
+  margin: 60px 10px 30px 10px;
+  width: calc(50% - 20px);
+}
+
 img.border {
   box-shadow: 0 0 0 1px #f1f1f1;
 }
@@ -190,8 +195,16 @@ img.border {
   max-width: 864px;
 }
 
+img.two-eighty {
+  max-width: 280px;
+}
+
 img.three-twenty {
   max-width: 320px;
+}
+
+img.five-thirty {
+  max-width: 530px;
 }
 
 img.eight-hundred {

@@ -17,6 +17,10 @@ export default function Home() {
         <div className="row">
           <img src="/portfolio/product/teamscope/team-photo.jpg" className="twelve-eighty"></img>
         </div>
+        <div className="row businesscards">
+          <img src="/portfolio/visual/teamscope/businesscard-front.jpg" className="five-thirty border"></img>
+          <img src="/portfolio/visual/teamscope/businesscard-back.jpg" className="five-thirty border"></img>
+        </div>
         <div className="row">
           <img src="/portfolio/web/teamscope-2020/home.jpg" className="forteen-forty border"></img>
         </div>
