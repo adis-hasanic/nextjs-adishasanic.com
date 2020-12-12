@@ -9,7 +9,7 @@ export default function Home() {
           <h1>Helpjuice</h1>
         </div>
         <div className="row">
-          <p>For several months during 2016 and 2017, as a freelancer, I designed an onboarding and parts of admin panel of LiftIgniter, a San Francisco based early-stage startup backed by YC, building a recommendation engine/API that integrates into apps to bring relevant content to each user.</p>
+          <p>In 2016, I was hired by Helpjuice, TechStars-backed early-stage startup building a platform that enables businesses to build a knowledge-base for internal and external use (e.g. help-center page). For several months, I worked on the design of Helpjuice's admin panel, where users build and manage their knowledgebase.</p>
         </div>
         <div className="row">
           <img src="/portfolio/product/helpjuice/1.jpg" className="twelve-eighty border"></img>
