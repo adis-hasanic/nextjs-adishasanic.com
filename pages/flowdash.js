@@ -32,6 +32,18 @@ export default function Home() {
         <div className="row">
           <img src="/portfolio/product/flowdash/5.jpg" className="eleven-twenty border"></img>
         </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/6.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/7.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/8.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/9.jpg" className="eleven-twenty border"></img>
+        </div>
       </div>
     </div>
   )
