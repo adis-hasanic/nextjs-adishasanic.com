@@ -15,6 +15,9 @@ export default function Home() {
           <p>Reporting to and collaborating with Founders and Product Manager, I worked on a product, focusing on making it easy to gather data from surveys, learn about people and teams from their profiles, and learn about how candidates fit into the team in the hiring process. I also designed a marketing website (conversion rate increased from 5-10 bookings per month to 25-30) and various visual material for sales and presentations.</p>
         </div>
         <div className="row">
+          <img src="/portfolio/product/teamscope/team-photo.jpg" className="eight-hundred"></img>
+        </div>
+        <div className="row">
           <img src="/portfolio/web/teamscope-2020/home.jpg" className="forteen-forty border"></img>
         </div>
         <div className="row">
