@@ -18,6 +18,9 @@ export default function Home() {
           <p>More than 100 teams applied, 15 teams competed, we won. It led to Superangel investing in ZITICITY.</p>
         </div>
         <div className="row">
+          <img src="teleport-teamphoto.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
           <img src="/portfolio/web/teleport/1.jpg" className="twelve-eighty border"></img>
         </div>
         <div className="row">
