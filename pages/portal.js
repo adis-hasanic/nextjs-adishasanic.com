@@ -9,7 +9,7 @@ export default function Home() {
           <h1>Portal</h1>
         </div>
         <div className="row">
-          <p>Founders of Fuel, a San Francisco based digital-health startup backed by 500 Startups, hired me in 2018 to work on their new startup and product idea — an all-in-one platform for storing, transfering, exchanging and converting cryptocurrencies. Collaborating CEO and CTO, from June 2018 to Mar 2019, I designed the UI/UX of a Mac platform.</p>
+          <p>From June 2018 to Mar 2019, I was hired by Portal, a San Francisco based startup, to work on the design of an all-in-one platform for storing, transfering, exchanging and managing cryptocurrencies.</p>
         </div>
         <div className="row">
           <img src="/portfolio/product/portal/1/1.jpg" className="twelve-eighty"></img>
@@ -84,6 +84,9 @@ export default function Home() {
           <img src="/portfolio/product/portal/3/4.jpg" className="twelve-eighty"></img>
         </div>
         <div className="row">
+          <img src="/portfolio/product/portal/3/5.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
           <img src="/portfolio/product/portal/4/1.jpg" className="twelve-eighty"></img>
         </div>
         <div className="row">
@@ -94,6 +97,9 @@ export default function Home() {
         </div>
         <div className="row">
           <img src="/portfolio/product/portal/4/2.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/portal/4/3.jpg" className="twelve-eighty"></img>
         </div>
       </div>
     </div>
