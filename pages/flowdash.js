@@ -30,19 +30,34 @@ export default function Home() {
           <img src="/portfolio/product/flowdash/3.jpg" className="eleven-twenty border"></img>
         </div>
         <div className="row">
+          <img src="/portfolio/product/flowdash/4-1.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/4-2.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/7-1.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/7-2.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/flowdash/7-3.jpg" className="eleven-twenty border"></img>
+        </div>
+        <div className="row">
           <img src="/portfolio/product/flowdash/5.jpg" className="eleven-twenty border"></img>
         </div>
         <div className="row">
           <img src="/portfolio/product/flowdash/6.jpg" className="eleven-twenty border"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/product/flowdash/7.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-1.jpg" className="eleven-twenty border"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/product/flowdash/8.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-2.jpg" className="eleven-twenty border"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/product/flowdash/9.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-3.jpg" className="eleven-twenty border"></img>
         </div>
       </div>
     </div>
