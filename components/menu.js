@@ -39,7 +39,7 @@ const Menu = () => {
             </div>
             <div className="links">
             <a href="cv.pdf"><div>Download CV</div></a>
-                <a href="https://calendly.com/adishasanic/60min"><div>Schedule a call</div></a>
+                <a href="https://calendly.com/adishasanic/60min"><div>About me</div></a>
             </div>
         </div>
     )
