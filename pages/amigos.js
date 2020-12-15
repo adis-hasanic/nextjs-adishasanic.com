@@ -9,7 +9,7 @@ export default function Home() {
           <h1>Amigos</h1>
         </div>
         <div className="row">
-          <p>An iOS app that helps user find the car they want and can afford from a nearby dealership. Designed in 1 month. I was a sole designer on the project, but it was an iterative process of close discussions with founder of Amigos.</p>
+          <p>In September 2019, I was hired to design an app that helps anyone find the car they want, need, can afford, and is available for purchase at a nearby dealership. Designed in 1 month of part-time dedication.</p>
         </div>
         <div className="row">
           <div className="container">

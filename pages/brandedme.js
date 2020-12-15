@@ -9,7 +9,7 @@ export default function Home() {
           <h1>Branded.me</h1>
         </div>
         <div className="row">
-          <p>For 9 months, I was a sole designer at Branded.me in San Francisco. We were creating a web platform that makes it quick and easy to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>
+          <p>For about 9 months (Aug 2014 - Apr 2015), I was a sole designer at Branded.me in San Francisco. We were building a web platform that makes it quick and easy for anyone to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>
         </div>
         <div className="row businesscards">
           <img src="/portfolio/visual/brandedme/businesscard-front.jpg" className="two-eighty border"></img>
