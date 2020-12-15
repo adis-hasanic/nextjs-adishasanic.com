@@ -70,7 +70,7 @@ a {
 }
 
 .menu .top .portrait {
-  display: block;
+  display: none;
   float: left;
   margin-bottom: 16px;
   margin-left: -20px;
