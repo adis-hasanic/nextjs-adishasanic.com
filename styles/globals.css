@@ -36,7 +36,9 @@ img {
 
 img {
   min-height: 80px;
-  background: url(../public/loading.svg) no-repeat center #f0f0f0;
+  background-image: url(../public/loading.svg) no-repeat center;
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: 32px;
 }
 
@@ -178,6 +180,7 @@ a {
 
 img.border {
   box-shadow: 0 0 0 1px #f1f1f1;
+  background-color: #f1f1f1;
 }
 
 .content .iphone-x,
