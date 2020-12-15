@@ -34,6 +34,12 @@ img {
                                   supported by Chrome, Edge, Opera and Firefox */
 }
 
+img {
+  min-height: 40px;
+  background: url(../public/loading.svg) no-repeat center #f0f0f0;
+  background-size: 32px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
