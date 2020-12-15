@@ -36,7 +36,7 @@ img {
 
 img {
   min-height: 80px;
-  background-image: url(../public/loading.svg) no-repeat center;
+  background-image: url(../public/loading.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 32px;
