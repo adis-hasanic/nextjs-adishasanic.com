@@ -14,7 +14,7 @@ const Menu = () => {
 
     return (
         <div className="menu">
-            <Head><title>Adis Hasanic - UI/UX Designer</title></Head>
+            <Head><title>Adis Hasanic - UI/UX Designer</title><link rel="shortcut icon" href="favicon.ico" /></Head>
             <Link href="/"><div className="exit">Exit</div></Link>
             <div className="top">
                 <div className="name">Adis Hasanic</div>
