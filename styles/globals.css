@@ -35,7 +35,7 @@ img {
 }
 
 img {
-  min-height: 40px;
+  min-height: 60px;
   background: url(../public/loading.svg) no-repeat center #f0f0f0;
   background-size: 32px;
 }
