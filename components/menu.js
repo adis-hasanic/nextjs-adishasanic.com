@@ -17,7 +17,6 @@ const Menu = () => {
             <Head><title>Adis Hasanic - UI/UX Designer</title></Head>
             <Link href="/"><div className="exit">Exit</div></Link>
             <div className="top">
-            <div className="portrait"><img src="adis-hasanic.jpg"></img></div>
                 <div className="name">Adis Hasanic</div>
                 <div className="title">UI/UX Designer</div>
             </div>
