@@ -79,6 +79,7 @@ a {
 
 .menu .top .portrait img {
   width: 160px;
+  display: none;
 }
 
 .menu .top .name {
