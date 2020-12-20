@@ -109,7 +109,7 @@ a {
 
 .menu .links div {
   color: #A7A7A7;
-  line-height: 20px;
+  padding: 2px 0;
   cursor: pointer;
   display: block;
   float: left;
@@ -118,10 +118,24 @@ a {
 }
 
 .menu .links div:hover,
-.menu .links div.active {
+.menu .links div div.active {
   color: #272727;
 }
 
+.menu .links div .name {
+  float: left;
+  width: 100%;
+  line-height: 130%;
+}
+
+.menu .links div .description {
+  display: none;
+  float: left;
+  line-height: 130%;
+  color: #A7A7A7;
+  font-size: 14px;
+  margin-top: 2px;
+}
 
 .content {
   width: calc(100% - 160px);
@@ -284,8 +298,12 @@ img.forteen-forty {
     line-height: 56px;
     border-top: solid 1px #f0f0f0;
     width: calc(100%);
-    padding: 0 20px;
+    padding: 12px 20px;
     color: #272727;
+  }
+
+  .menu .links div .description {
+    display: block;
   }
 
 }
