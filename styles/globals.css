@@ -118,7 +118,7 @@ a {
 }
 
 .menu .links div:hover,
-.menu .links div div.active {
+.menu .links div.active {
   color: #272727;
 }
 
@@ -126,6 +126,7 @@ a {
   float: left;
   width: 100%;
   line-height: 130%;
+  color: inherit;
 }
 
 .menu .links div .description {
@@ -300,7 +301,13 @@ img.forteen-forty {
     width: calc(100%);
     padding: 12px 20px;
     color: #272727;
+    transition: background 0.2s;
   }
+
+  .menu .links div:hover,
+.menu .links div div.active {
+  background: #f9f9f9;
+}
 
   .menu .links div .description {
     display: block;
