@@ -38,7 +38,7 @@ const Menu = () => {
                 <Link href="/stacker"><div className={isActive('/stacker')}><span className="name">Stacker</span><span className="description">Turn spreadsheets into customizable apps.</span></div></Link>
                 <Link href="/teamscope"><div className={isActive('/teamscope')}><span className="name">Teamscope</span><span className="description">Analyze personality and values to build teams.</span></div></Link>
                 <Link href="/amigos"><div className={isActive('/amigos')}><span className="name">Amigos</span><span className="description">Car-search and marketplace for iOS.</span></div></Link>
-                <Link href="/teleport"><div className={isActive('/teleport')}><span className="name">Teleport</span><span className="description"><i>Uber</i> for deliveries (Garage48 hackathon winner)</span></div></Link>
+                <Link href="/teleport"><div className={isActive('/teleport')}><span className="name">Teleport</span><span className="description"><i>Uber</i> for delivery (hackathon winner in Tallinn)</span></div></Link>
                 <Link href="/portal"><div className={isActive('/portal')}><span className="name">Portal</span><span className="description">Cryptocurrency wallet and exchange.</span></div></Link>
                 <Link href="/indiecampers"><div className={isActive('/indiecampers')}><span className="name">IndieCampers</span><span className="description">Book a campervan using a mobile website.</span></div></Link>
                 <Link href="/engine"><div className={isActive('/engine')}><span className="name">Engine</span><span className="description">Build and manage a custom online shop.</span></div></Link>
