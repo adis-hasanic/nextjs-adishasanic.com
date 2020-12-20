@@ -256,6 +256,16 @@ img.forteen-forty {
   .content {
     width: 100%;
   }
+  
+  .content h1 {
+    font-size: 24px;
+    letter-spacing: -1px;
+    text-align: left;
+  }
+
+  .content p {
+    font-size: 16px;
+  }
 
   .menu {
     padding: 0;
