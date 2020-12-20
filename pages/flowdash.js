@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Flowdash</h1>
+          <h2>Build apps for team workflows without coding.</h2>
         </div>
         <div className="row">
           <p>Since August 2020, hired by Flowdash, a YC-backed San Francisco based startup, to work on the design of their product.</p>

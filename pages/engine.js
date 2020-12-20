@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Engine</h1>
+          <h2>Build and manage a custom online shop.</h2>
         </div>
         <div className="row">
           <p>For a few months in 2017, I worked on designing UX/UI of admin panel of Engine, a US based startup providing a platform that makes it easy for anyone to set up a custom online shop.</p>

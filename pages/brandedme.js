@@ -5,8 +5,9 @@ export default function Home() {
     <div>
       <Menu />
       <div className="content">
-        <div className="row">
+      <div className="row">
           <h1>Branded.me</h1>
+          <h2>Build your personal website without coding.</h2>
         </div>
         <div className="row">
           <p>For about 9 months (Aug 2014 - Apr 2015), I was a sole designer at Branded.me in San Francisco. We were building a web platform that makes it quick and easy for anyone to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>

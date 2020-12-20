@@ -5,8 +5,9 @@ export default function Home() {
     <div>
       <Menu />
       <div className="content">
-        <div className="row">
+      <div className="row">
           <h1>Teamscope</h1>
+          <h2>Analyze personality and values to build teams.</h2>
         </div>
         <div className="row">
           <p>From Oct 2018 to Jan 2020, I was a sole designer at Teamscope in Tallinn, Estonia. Teamscope is a startup building a talent-analytics platform that uses surveys and machine learning to collect data about people's personality, values and competencies, and then presents insights that help organizations build high-performing teams. Teamscope investors include TechStars, SAP, BlackPearls and Jaan Tallinn (co-founder of Skype).</p>

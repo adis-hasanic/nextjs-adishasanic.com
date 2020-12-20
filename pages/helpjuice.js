@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Helpjuice</h1>
+          <h2>Build and manage a knowledge-base.</h2>
         </div>
         <div className="row">
           <p>In 2016, I was hired by Helpjuice, TechStars-backed early-stage startup building a platform that enables businesses to build a knowledge-base for internal and external use (e.g. help-center page). For several months, I worked on the design of Helpjuice's admin panel, where users build and manage their knowledgebase.</p>

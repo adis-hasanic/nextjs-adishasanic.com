@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Portal</h1>
+          <h2>Cryptocurrency wallet and exchange.</h2>
         </div>
         <div className="row">
           <p>From June 2018 to Mar 2019, I was hired by Portal, a San Francisco based startup, to work on the design of an all-in-one platform for storing, transfering, exchanging and managing cryptocurrencies.</p>

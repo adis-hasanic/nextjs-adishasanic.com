@@ -5,8 +5,9 @@ export default function Home() {
     <div>
       <Menu />
       <div className="content">
-        <div className="row">
+      <div className="row">
           <h1>Kamcord</h1>
+          <h2>Mobile games gameplays and livestreams.</h2>
         </div>
         <div className="row">
           <p>In 2015, Kamcord was a Series-A startup with 40 people, backers including YC and Tencent Holdings, with offices in San Francisco, Japan and China. They were building a platform and tools for mobile gamers to record and share gameplays and livestreams.</p>

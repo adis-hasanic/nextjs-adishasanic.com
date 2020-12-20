@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Stacker</h1>
+          <h2>Turn spreadsheets into customizable apps.</h2>
         </div>
         <div className="row">
           <p>From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.</p>

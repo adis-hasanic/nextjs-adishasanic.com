@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content">
       <div className="row">
           <h1>Typen</h1>
+          <h2>Distraction-free writing app.</h2>
         </div>
         <div className="row">
           <p>In 2017, I founded and designed Typen, a writing app that helps the user focus on creative part of writing by removing distractions and providing customizable look of the app to suit any space, atmosphere, or time.</p>

@@ -7,6 +7,7 @@ export default function Home() {
       <div className="content iphone-5">
         <div className="row">
           <h1>Foodmunk</h1>
+          <h2>Find a perfect meal nearby, stay healthy and fit.</h2>
         </div>
         <div className="row">
           <p>Fuel, a San Francisco based digital-health startup backed by 500 Startups, was building an app that uses machine learning to continually learn about the user, and use maps to find the restaurants and meals near the user, and based on the combination of those, suggest the best place to eat. Reporting to and collaborating with Fuel's CEO, for 7 months in 2016, I worked on the design of the user experience and UI of an iOS app. I also led the process of recruiting an illustrator and, collaborating with Fuel's CEO, directing illustration of the chipmunk character.</p>
