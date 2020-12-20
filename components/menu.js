@@ -13,6 +13,8 @@ const Menu = () => {
         }
 
     return (
+        <div>
+        <Link href="/"><div className="exit">Exit</div></Link>
         <div className="menu">
             <Head><title>Adis Hasanic - UI/UX Designer</title><link rel="shortcut icon" href="favicon.jpg" />
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
@@ -27,7 +29,6 @@ const Menu = () => {
   `,
                     }}
                 /></Head>
-            <Link href="/"><div className="exit">Exit</div></Link>
             <div className="top">
                 <div className="name">Adis Hasanic</div>
                 <div className="title">UI/UX Designer</div>
@@ -52,6 +53,7 @@ const Menu = () => {
             <a href="cv.pdf"><div>Download CV</div></a>
                 <a href="https://calendly.com/adishasanic/60min"><div>About me</div></a>
             </div>
+        </div>
         </div>
     )
 }

@@ -63,12 +63,17 @@ a {
   color: #272727;
 }
 
-.menu .exit {
-  display: none;
+.exit {
+  display: block;
   cursor: pointer;
   position: absolute;
   right: 0;
   padding: 20px;
+  font-weight: bold;
+}
+
+.landing .exit {
+  display: none;
 }
 
 .menu .top {
