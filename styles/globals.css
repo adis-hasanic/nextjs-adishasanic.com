@@ -314,7 +314,6 @@ img.forteen-forty {
     transition: background 0.2s;
   }
 
-  .menu .links div:hover,
 .menu .links div div.active {
   background: #f9f9f9;
 }
