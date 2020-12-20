@@ -13,7 +13,8 @@ export default function Home() {
           <p>From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.</p>
         </div>
         <div className="row">
-          <img src="/portfolio/product/stacker/team-photo.jpg" className="eight-hundred"></img>
+          <img src="/portfolio/product/stacker/team-photo.jpg" className="eight-hundred"></img><br></br>
+          <span className="caption">Me (first from the right) with the rest of Stacker at a company retreat on January 2020 in Geneva, Switzerland.</span>
         </div>
         <div className="row">
           <img src="/portfolio/product/stacker/first-explorations/2.jpg" className="twelve-eighty"></img>

@@ -16,7 +16,8 @@ export default function Home() {
           <p>Reporting to and collaborating with Founders and Product Manager, I worked on a product, focusing on making it easy to gather data from surveys, learn about people and teams from their profiles, and learn about how candidates fit into the team in the hiring process. I also designed a marketing website (conversion rate increased from 5-10 bookings per month to 25-30) and various visual material for sales and presentations.</p>
         </div>
         <div className="row">
-          <img src="/portfolio/product/teamscope/team-photo.jpg" className="twelve-eighty"></img>
+          <img src="/portfolio/product/teamscope/team-photo.jpg" className="eight-hundred"></img><br></br>
+          <span className="caption">Me (first from the right) with the rest of Teamscope at headquarters on January 2019 in Tallinn, Estonia.</span>
         </div>
         <div className="row businesscards">
           <img src="/portfolio/visual/teamscope/businesscard-front.jpg" className="five-thirty border"></img>
