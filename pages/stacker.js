@@ -10,7 +10,10 @@ export default function Home() {
           <h2>Turn spreadsheets into customizable apps.</h2>
         </div>
         <div className="row">
-          <p>From Feb 2020 to May 2020, I was a sole designer at Stacker, a London based early-stage startup backed by YC and Pentech, building a no-code platform that makes it easy to create an app from existing spreadsheets and customize it without coding.</p>
+          <p>Stacker is an early-stage startup founded in 2018, based in London, backed by YCombinator, Initialized Capital, and Pentech. For 4 months (Feb - May 2020), I was a sole designer at Stacker, working remotely. Stacker was building a no-code app builder that enables anyone in any company to build an app around their team's data. By uploading existing spreadsheets, fields and records turn into customizable layouts and settings such as user roles for giving and restricting access.</p>
+        </div>
+        <div className="row">
+          <p>I worked on quick visual changes, design system from which apps are constructed, on new templates and widgets, on redesigning entire features and rethinking user journeys, and on designing a new version of the product that would be a lot more centered around workspaces rather than independent apps.</p>
         </div>
         <div className="row">
           <img src="/portfolio/product/stacker/team-photo.jpg" className="eight-hundred"></img><br></br>

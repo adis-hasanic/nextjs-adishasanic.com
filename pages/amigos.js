@@ -10,7 +10,7 @@ export default function Home() {
           <h2>Car-search and marketplace for iOS.</h2>
         </div>
         <div className="row">
-          <p>In September 2019, I was hired to design an app that helps anyone find the car they want, need, can afford, and is available for purchase at a nearby dealership. Designed in 1 month of part-time dedication.</p>
+          <p>My brother Dino, who runs a car delaership and writes code in San Jose, California, hired me in September 2019 to design an app that helps anyone find the car they want, need, can afford, and is available for purchase at a nearby dealership.</p>
         </div>
         <div className="row">
           <div className="container">
