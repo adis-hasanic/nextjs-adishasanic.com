@@ -10,10 +10,10 @@ export default function Home() {
           <h2>Build apps for team workflows without coding.</h2>
         </div>
         <div className="row">
-          <p>Since August 2020, hired by Flowdash, a YC-backed San Francisco based startup, to work on the design of their product.</p>
+          <p>Flowdash is an early-stage startup founded in 2019, based in San Francisco, backed by YCombinator. I was hired in August 2020 to work with Flowdash's founders, Nick and Omar, on product design. Flowdash was building a no-code app builder that enables anyone in any company to build an app around their team's workflow and business process, without coding.</p>
         </div>
         <div className="row">
-          <p>After 3 months of working closely with founders of Flowdash (Nick and Omar), new version of Flowdash was launched on ProductHunt: #2 product of the month, almost 3000 upvotes, positive feedback on product and design, and everyone who tried it went through the onboarding successfully.</p>
+          <p>After 4 months of working on making it easy for anyone to understand how to build a workflow in Flowdash and on new features and capabilities, the new version was launched and promoted on ProductHunt. It became #2 product of the month on ProductHunt, has almost 3000 upvotes, positive feedback on product and design, and everyone who tried it went through the onboarding successfully.</p>
         </div>
         <div className="row">
           <p><iframe className="producthunt" src="https://cards.producthunt.com/cards/posts/275215?v=1" height="512" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
