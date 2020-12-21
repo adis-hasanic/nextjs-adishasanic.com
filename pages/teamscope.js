@@ -39,9 +39,6 @@ export default function Home() {
           <img src="/portfolio/product/teamscope/2/1.jpg" className="twelve-eighty border"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/product/teamscope/2/1.jpg" className="twelve-eighty border"></img>
-        </div>
-        <div className="row">
           <img src="/portfolio/product/teamscope/3/2.jpg" className="twelve-eighty border"></img>
         </div>
         <div className="row">
