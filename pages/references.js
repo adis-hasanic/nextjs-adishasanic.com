@@ -11,6 +11,18 @@ export default function Home() {
         </div>
         <div className="row">
           <div className="reference">
+            <img src="/references/chandra-duggirala.jpg"></img>
+            <div className="text"><p>“Adis does top quality design work and is fast and very responsive to client's needs. I strongly recommend him without any reservations.”</p>
+              <div className="person">
+                <span className="name">Chandra Duggirala</span>
+                <a href="https://www.linkedin.com/in/csentropy" target="_blank"><img src="linkedin.svg"></img></a>
+                <span className="about">while co-founder/CEO at Portal in 2019</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="reference">
             <img src="/references/blake-puryear.jpg"></img>
             <div className="text"><p>"From day one, Adis was able to massively contribute to the UX of our platform. He thoughtfully approaches his design decisions and takes the time to understand the individual problems of each user flow. He is always quick to respond and has created a visual design for our product that we are extremely happy with!"</p>
               <div className="person">
@@ -64,7 +76,7 @@ export default function Home() {
               <div className="person">
                 <span className="name">Gordon Tindall</span>
                 <a href="https://www.linkedin.com/in/gordon-tindall-079b4416" target="_blank"><img src="linkedin.svg"></img></a>
-                <span className="about">while Senior Product Designer at Kamcord</span>
+                <span className="about">while Senior Product Designer at Kamcord in 2015</span>
               </div>
             </div>
           </div>
