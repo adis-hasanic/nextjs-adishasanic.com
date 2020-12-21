@@ -59,6 +59,18 @@ export default function Home() {
         </div>
         <div className="row">
           <div className="reference">
+            <img src="/references/gordon-tindall.jpg"></img>
+            <div className="text"><p>“Adis’ opus at Kamcord was establishing the user interface, visual design and interactions for the Android Broadcasting app. He communicates his thought process well and continually strives to better understand his users.”</p>
+              <div className="person">
+                <span className="name">Gordon Tindall</span>
+                <a href="https://www.linkedin.com/in/gordon-tindall-079b4416" target="_blank"><img src="linkedin.svg"></img></a>
+                <span className="about">while Senior Product Designer at Kamcord</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="reference">
             <img src="/references/stan-janssen.jpg"></img>
             <div className="text"><p>“We set up and worked on an online writing platform for professionals. Adis came up with good ideas, maintained contact with our focus group and was timely with his deadlines.”</p>
               <div className="person">
