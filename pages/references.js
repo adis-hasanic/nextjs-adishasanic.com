@@ -59,12 +59,36 @@ export default function Home() {
         </div>
         <div className="row">
           <div className="reference">
+            <img src="/references/stan-janssen.jpg"></img>
+            <div className="text"><p>“We set up and worked on an online writing platform for professionals. Adis came up with good ideas, maintained contact with our focus group and was timely with his deadlines.”</p>
+              <div className="person">
+                <span className="name">Stan Janssen</span>
+                <a href="https://www.linkedin.com/in/janssenstan" target="_blank"><img src="linkedin.svg"></img></a>
+                <span className="about">while freelance developer in 2014</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="reference">
             <img src="/references/dawson-whitfield.jpg"></img>
             <div className="text"><p>"Adis was always able to deliver something new and supremely beautiful. He was key in exploring new UIs and visual designs for our 10M+ users. A true pleasure to work with (and you get kickass designs too).”</p>
               <div className="person">
                 <span className="name">Dawson Whitfield</span>
                 <a href="https://ca.linkedin.com/in/dawsonwhitfield" target="_blank"><img src="linkedin.svg"></img></a>
-                <span className="about">while designer at Weebly in 2012</span>
+                <span className="about">while designer at Weebly in 2013</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="reference">
+            <img src="/references/sandro-dzneladze.jpg"></img>
+            <div className="text"><p>“I consider two aspects important when working on a website design - communication and precision. Adis excelled at both. He always responded in a timely manner, and the final work was more than I expected.”</p>
+              <div className="person">
+                <span className="name">Sandro Dzneladze</span>
+                <a href="https://www.linkedin.com/in/sandro-dzneladze-a51b84a0" target="_blank"><img src="linkedin.svg"></img></a>
+                <span className="about">while freelance developer and photographer in 2012</span>
               </div>
             </div>
           </div>
