@@ -173,7 +173,7 @@ a {
   max-width: 680px;
   font-size: 32px;
   letter-spacing: -1px;
-  line-height: 150%;
+  line-height: 130%;
   font-weight: bold;
   display: inline-block;
   text-align: center;
@@ -283,6 +283,62 @@ img.forteen-forty {
   max-width: 1440px;
 }
 
+.reference {
+  display: inline-block;
+  margin: 0;
+  max-width: 800px;
+  width: 100%;
+  border-top: solid 1px #f0f0f0;
+  padding: 40px 0;
+}
+
+.reference > img {
+  width: 96px; 
+  background: none;
+  float: left;
+  margin: 0;
+}
+.reference p {
+  font-size: 18px;
+  float: left;
+  margin: 0;
+  width: 100%;
+}
+.reference .text {
+  float: left;
+  display: block;
+  width: calc(100% - 180px);
+  margin-left: 40px;
+}
+.reference .person {
+  float: left;
+  margin-top: 16px;
+  width: 100%;
+}
+.reference .person img {
+  width: 14px; 
+  background: none;
+  margin: 0;
+  min-height: 0;
+  float: left;
+  margin-left: 8px;
+  opacity: 0.3;
+}
+.reference .person .name {
+  float: left;
+  font-weight: bold;
+  font-size: 16px;
+}
+.reference .person .about {
+  float: left;
+  width: 100%;
+  font-weight: bold;
+  color: #A7A7A7;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 3px;
+}
+
 @media (max-width: 720px){
 
   .content {
@@ -358,6 +414,14 @@ img.forteen-forty {
 
   .menu .links div .description {
     display: block;
+  }
+
+  .reference .text {
+    float: left;
+    display: block;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 32px;
   }
 
 }
