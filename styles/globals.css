@@ -24,7 +24,8 @@ body {
 }
 
 .menu *,
-img {
+img,
+.button  {
   -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
      -khtml-user-select: none; /* Konqueror HTML */
@@ -297,12 +298,14 @@ img.forteen-forty {
   background: none;
   float: left;
   margin: 0;
+  border-radius: 3px;
 }
 .reference p {
-  font-size: 18px;
+  font-size: 19px;
   float: left;
   margin: 0;
   width: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .reference .text {
   float: left;
@@ -337,6 +340,47 @@ img.forteen-forty {
   font-size: 14px;
   text-align: left;
   margin-top: 3px;
+  margin-bottom: 0;
+}
+
+.about {
+  text-align: left;
+  display: block;
+  margin: 0 auto;
+  max-width: 680px;
+  margin-bottom: 60px;
+}
+
+.about p {
+  text-align: left;
+  font-size: 16px;
+}
+
+.about img {
+  background: none;
+  max-width: 300px;
+  margin-bottom: 32px;
+  margin-top: 0;
+}
+
+.about .about-row {
+  margin-bottom: 32px;
+}
+
+.button {
+  box-shadow: 0 0 0 1px #e6e6e6;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  padding: 13px 0 11px 0;
+  cursor: pointer;
+  margin-bottom: 11px;
+  border-radius: 3px;
+}
+
+.button:active {
+  background: #fcfcfc;
 }
 
 @media (max-width: 720px){
