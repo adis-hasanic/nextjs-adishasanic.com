@@ -51,7 +51,7 @@ const Menu = () => {
                 </div>
                 <div className="links">
                     <Link href="/references"><div className={isActive('/references')}>References</div></Link>
-                    <Link href="/about"><div className={isActive('/about')}><span className="name">About</span></div></Link>
+                    <Link href="/about"><div className={isActive('/about')}>About</div></Link>
                 </div>
             </div>
         </div>
