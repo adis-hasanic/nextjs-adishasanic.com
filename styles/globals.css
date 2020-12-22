@@ -472,6 +472,12 @@ img.forteen-forty {
     font-size: 14px;
   }
 
+  .about img {
+    max-width: 240px;
+    margin-bottom: 32px;
+    margin-top: 24px;
+  }
+
 }
 
 .producthunt {
