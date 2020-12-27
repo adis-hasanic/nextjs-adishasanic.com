@@ -171,10 +171,9 @@ a {
 
 .content h1 {
   width: 100%;
-  max-width: 680px;
-  font-size: 32px;
-  letter-spacing: -1px;
-  line-height: 130%;
+  font-size: 48px;
+  letter-spacing: -2px;
+  line-height: 120%;
   font-weight: bold;
   display: inline-block;
   text-align: center;
@@ -184,7 +183,6 @@ a {
 
 .content h2 {
   width: 100%;
-  max-width: 680px;
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 120%;
@@ -193,7 +191,19 @@ a {
   text-align: center;
   color: #A7A7A7;
   margin: 0;
-  margin-bottom: 32px;
+  margin-bottom: 24px;
+}
+
+.content h3 {
+  width: 100%;
+  max-width: 680px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 140%;
+  display: inline-block;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 0;
 }
 
 .content p {
@@ -400,6 +410,11 @@ img.forteen-forty {
   .content h2 {
     font-size: 18px;
     letter-spacing: 0;
+    text-align: left;
+  }
+
+  .content h3 {
+    font-size: 20px;
     text-align: left;
   }
 
