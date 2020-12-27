@@ -19,10 +19,19 @@ export default function Home() {
           <img src="teleport-teamphoto.jpg" className="twelve-eighty"></img>
         </div>
         <div className="row">
+          <h3>Day 1</h3>
+        </div>
+        <div className="row">
+          <p>I designed a coming-soon page, which also helped us figure out the process quickly in the simplest way possible, and based on that also created wireframes of the product.</p>
+        </div>
+        <div className="row">
           <img src="/portfolio/web/teleport/1.jpg" className="twelve-eighty border"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/web/teleport/2.jpg" className="eleven-twenty border"></img>
+          <h3>Day 2</h3>
+        </div>
+        <div className="row">
+          <p>Based on wireframes, I designed a product, that is the process scheduling a delivery, that the CTO could build quickly. We had to move fast, so I skipped design software and just designed while coding it in HTML/CSS.</p>
         </div>
         <div className="row">
           <img src="/portfolio/quick/teleport/schedule-delivery/1.jpg" className="twelve-eighty border"></img>
@@ -47,6 +56,15 @@ export default function Home() {
         </div>
         <div className="row">
           <img src="/portfolio/quick/teleport/schedule-dropoff/5.jpg" className="twelve-eighty border"></img>
+        </div>
+        <div className="row">
+          <h3>Day 3</h3>
+        </div>
+        <div className="row">
+          <p>While CTO was building the product, CEO and myself were working on a new version of the landing page that explained the product entirely and focused on sellers.</p>
+        </div>
+        <div className="row">
+          <img src="/portfolio/web/teleport/2.jpg" className="eleven-twenty border"></img>
         </div>
       </div>
     </div>

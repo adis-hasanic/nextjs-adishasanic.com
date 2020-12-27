@@ -10,7 +10,7 @@ export default function Home() {
           <h2>Cryptocurrency wallet and exchange.</h2>
         </div>
         <div className="row">
-          <p>From June 2018 to Mar 2019, I was hired by Portal, a San Francisco based startup, to work on the design of an all-in-one platform for storing, transfering, exchanging and managing cryptocurrencies.</p>
+          <p>Portal was a San Francisco based startup building an all-in-one platform to store, transfer and exchange cryptocurrencies. The goal was to replace the process of having to use multiple apps to manage everything related cryptocurrencies. From June 2018 to March 2019, I worked on UX and UI of Portal's Mac app.</p>
         </div>
         <div className="row">
           <img src="/portfolio/product/portal/1/1.jpg" className="twelve-eighty"></img>
