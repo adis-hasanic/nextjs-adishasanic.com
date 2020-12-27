@@ -1,0 +1,55 @@
+import Menu from '../components/menu'
+
+export default function Home() {
+  return (
+    <div>
+      <Menu />
+      <div className="content">
+      <div className="row">
+          <h1>Branded.me</h1>
+          <h2>Build your personal website without coding.</h2>
+        </div>
+        <div className="row">
+          <p>For 10 months (Aug 2014 - Apr 2015), I was a sole designer at Branded.me in San Francisco. We were building a web platform that makes it quick and easy for anyone to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>
+        </div>
+        <div className="row businesscards">
+          <img src="/portfolio/visual/brandedme/businesscard-front.jpg" className="two-eighty border"></img>
+          <img src="/portfolio/visual/brandedme/businesscard-back.jpg" className="two-eighty border"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/web/brandedme/home.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/1.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/2.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/3.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/4.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/5.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/6.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/7.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/8.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/9.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/10.jpg" className="twelve-eighty"></img>
+        </div>
+      </div>
+    </div>
+  )
+}
