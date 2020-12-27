@@ -365,7 +365,8 @@ img.forteen-forty {
 
 .about p {
   text-align: left;
-  font-size: 18px;
+  font-size: 21px;
+  letter-spacing: -0.2px;
 }
 
 .about p a {
