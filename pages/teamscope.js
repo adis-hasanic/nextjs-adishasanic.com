@@ -17,7 +17,7 @@ export default function Home() {
           <span className="caption">Me (first from the right) with the rest of Teamscope at headquarters on January 2019 in Tallinn, Estonia.</span>
         </div>
         <div className="row">
-          <h3>Product</h3>
+          <h3>Product design</h3>
         </div>
         <div className="row">
           <p>Reporting to and collaborating with Founders and Product Manager, I worked on a product, focusing on making it easy to gather data from surveys, learn about people and teams from their profiles, and learn about how candidates fit into the team in the hiring process.</p>
