@@ -31,7 +31,7 @@ const Menu = () => {
                     /></Head>
                 <div className="top">
                     <div className="name">Adis Hasanic</div>
-                    <div className="title">UI/UX Designer</div>
+                    <div className="title">UI/UX, Web, Visual</div>
                 </div>
                 <div className="links">
                     <Link href="/flowdash"><div className={isActive('/flowdash')} ><span className="name">Flowdash</span><span className="description">Build apps for team workflows without coding.</span></div></Link>
