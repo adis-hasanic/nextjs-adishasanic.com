@@ -6,10 +6,6 @@ export default function Home() {
       <Menu />
       <div className="content">
         <div className="row">
-          <h1>References</h1>
-          <h2>Words of people I worked with directly.</h2>
-        </div>
-        <div className="row">
           <div className="reference">
             <img src="/references/chandra-duggirala.jpg"></img>
             <div className="text"><p>“Adis does top quality design work and is fast and very responsive to client's needs. I strongly recommend him without any reservations.”</p>
