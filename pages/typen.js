@@ -22,9 +22,6 @@ export default function Home() {
           <img src="/portfolio/product/typen/3.png" className="eleven-ninetysix"></img>
         </div>
         <div className="row">
-          <img src="/portfolio/product/typen/4.png" className="eleven-ninetysix border"></img>
-        </div>
-        <div className="row">
           <img src="/portfolio/product/typen/5.png" className="eleven-ninetysix"></img>
         </div>
       </div>
