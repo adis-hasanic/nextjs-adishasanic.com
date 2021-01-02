@@ -69,8 +69,9 @@ a {
   cursor: pointer;
   position: absolute;
   right: 0;
-  padding: 20px;
+  padding: 16px;
   font-weight: bold;
+  font-size: 14px;
 }
 
 .landing .exit {
