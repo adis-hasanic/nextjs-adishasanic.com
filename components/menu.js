@@ -16,7 +16,7 @@ const Menu = () => {
         <div>
             <Link href="/"><div className="exit">Exit</div></Link>
             <div className="menu">
-                <Head><title>Adis Hasanic - Product Designer</title><link rel="shortcut icon" href="favicon.jpg" />
+                <Head><title>Adis Hasanic - UI, UX, Web, Visual</title><link rel="shortcut icon" href="favicon.jpg" />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
                     <script
                         dangerouslySetInnerHTML={{
@@ -31,7 +31,7 @@ const Menu = () => {
                     /></Head>
                 <div className="top">
                     <div className="name">Adis Hasanic</div>
-                    <div className="title">Product Designer</div>
+                    <div className="title">UI UX Web Visual</div>
                 </div>
                 <div className="links">
                     <Link href="/flowdash"><div className={isActive('/flowdash')} ><span className="name">Flowdash</span><span className="description">Build apps for team workflows without coding.</span></div></Link>
