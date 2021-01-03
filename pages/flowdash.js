@@ -13,7 +13,7 @@ export default function Home() {
           <p>Flowdash is a YC-backed early-stage startup, based in San Francisco, building a platform that makes it easy to build custom apps for team workflows, without coding. A workflow in Flowdash can be anything from sales team onboarding customers to engineering team tracking bugs.</p>
         </div>
         <div className="row">
-          <p>Since August 2020, on a contract basis, I've designing at Flowdash. I've been working closely with founders of Flowdash, Nick and Omar, on visual interface and user experience, focusing primarily on making it easy for non-tech people to understand how to build a workflow in Flowdash, and to discover all the features and capabilities that they can configure to make any business process run smoothly.</p>
+          <p>Since August 2020, on a contract basis remotely, I've designing at Flowdash. I've been working closely with founders of Flowdash, Nick and Omar, on visual interface and user experience, focusing primarily on making it easy for non-tech people to understand how to build a workflow in Flowdash, and to discover all the features and capabilities that they can configure to make any business process run smoothly.</p>
         </div>
         <div className="row">
           <p>In November 2020, we launched a completely redesigned version of product, with some new features, and posted it on ProductHunt: it became #2 product of the month, received 2900+ upvotes, positive feedback on product's design, and everyone who tried it was able to go through onboarding and build a workflow on their own.</p>
