@@ -10,10 +10,13 @@ export default function Home() {
           <h2>Build apps for team workflows without coding.</h2>
         </div>
         <div className="row">
-          <p>Flowdash is an early-stage startup founded in 2019, based in San Francisco, backed by YCombinator. For 4 months and ongoing (since August 2020), I've been working with Flowdash's founders, Nick and Omar, on product design. Flowdash was building a no-code app builder that enables anyone in any company to build an app around their team's workflow and business process.</p>
+          <p>Flowdash is a YC-backed early-stage startup, based in San Francisco, building a platform that makes it easy to build workflows for teams. A workflow in Flowdash can be anything from sales team onboarding customers to engineering team tracking bugs.</p>
         </div>
         <div className="row">
-          <p>After 4 months of working on making it easy for anyone to understand how to build a workflow in Flowdash and on new features and capabilities, the new version was launched and promoted on ProductHunt. It became #2 product of the month on ProductHunt, has almost 3000 upvotes, positive feedback on product and design, and everyone who tried it went through the onboarding successfully.</p>
+          <p>Since August 2020, on a contract basis, I've designing at Flowdash. I've been working closely with founders of Flowdash, Nick and Omar, on visual interface and user experience, focusing primarily on making it easy for non-tech people to understand how to build a workflow in Flowdash, and to discover all the features and capabilities that they can use to make sure their business processes and team collaborations are running smoothly.</p>
+        </div>
+        <div className="row">
+          <p>In November 2020, we launched a completely redesigned version of product, with some new features, and posted it on ProductHunt: it became #2 product of the month, received 2900+ upvotes, positive feedback on product's design, and everyone who tried it was able to go through onboarding and build a workflow on their own.</p>
         </div>
         <div className="row">
           <p><iframe className="producthunt" src="https://cards.producthunt.com/cards/posts/275215?v=1" height="512" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
