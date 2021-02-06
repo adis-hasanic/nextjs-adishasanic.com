@@ -51,7 +51,7 @@ const Menu = () => {
                 </div>
                 <div className="links">
                     <Link href="/references"><div className={isActive('/references')}>References</div></Link>
-                    <div><a href="mailto:adishasanic96@gmail.com">Email</a></div>
+                    <a href="mailto:adishasanic96@gmail.com"></a><div>Email</div></a>
                 </div>
             </div>
         </div>
