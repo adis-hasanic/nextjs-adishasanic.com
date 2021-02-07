@@ -41,6 +41,7 @@ const Menu = () => {
                     <Link href="/teleport"><div className={isActive('/teleport')}><span className="name">Teleport</span><span className="description"><i>Uber</i> for delivery (hackathon winner in Tallinn)</span></div></Link>
                     <Link href="/portal"><div className={isActive('/portal')}><span className="name">Portal</span><span className="description">Cryptocurrency wallet and exchange.</span></div></Link>
                     <Link href="/indiecampers"><div className={isActive('/indiecampers')}><span className="name">IndieCampers</span><span className="description">Book a campervan using a mobile website.</span></div></Link>
+                    <Link href="/tides"><div className={isActive('/tides')}><span className="name">Tides</span><span className="description">Health insurance decentralized via blockchain.</span></div></Link>
                     <Link href="/engine"><div className={isActive('/engine')}><span className="name">Engine</span><span className="description">Build and manage a custom online shop.</span></div></Link>
                     <Link href="/liftigniter"><div className={isActive('/liftigniter')}><span className="name">LiftIgniter</span><span className="description">API for content recommendations.</span></div></Link>
                     <Link href="/typen"><div className={isActive('/typen')}><span className="name">Typen</span><span className="description">Distraction-free writing app.</span></div></Link>
