@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: Acumin-Pro;
-  src: url("../public/font/AcuminPro-Medium.otf") format("opentype");
+  src: url("../public/font/AcuminPro-Regular.otf") format("opentype");
 }
 
 @font-face {
@@ -211,7 +211,7 @@ a {
 .content p {
   width: 100%;
   max-width: 680px;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 140%;
   display: inline-block;
   text-align: left;
@@ -299,7 +299,7 @@ img.forteen-forty {
 .reference {
   display: inline-block;
   margin: 0;
-  max-width: 800px;
+  max-width: 720px;
   width: 100%;
   padding: 40px 0;
 }
@@ -312,11 +312,10 @@ img.forteen-forty {
   min-height: 0;
 }
 .reference p {
-  font-size: 19px;
+  font-size: 17px;
   float: left;
   margin: 0;
   width: 100%;
-  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .reference .text {
   float: left;
@@ -365,7 +364,7 @@ img.forteen-forty {
 
 .about p {
   text-align: left;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .about p a {
@@ -374,16 +373,24 @@ img.forteen-forty {
 
 .about img {
   background: none;
-  max-width: 300px;
+  max-width: 136px;
   margin-bottom: 32px;
   margin-top: 0;
   min-height: 0;
 }
 
-.about .about-row {
-  margin-bottom: 32px;
+.about .about-text {
+  max-width: 576px;
 }
 
+
+.about .about-text p a {
+  text-decoration: none;
+  border-bottom: solid 1px #000;
+  cursor: pointer;
+  margin-top: 6px;
+  display: inline-block;
+}
 .button {
   box-shadow: 0 0 0 1px #e6e6e6;
   display: block;
