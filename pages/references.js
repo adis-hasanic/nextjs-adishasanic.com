@@ -55,7 +55,7 @@ export default function Home() {
         </div>
         <div className="row">
           <div className="reference">
-            <img src="/references/indraneel-mukherjee.jpg"></img>
+            <img src="/references/satyam-singh.jpg"></img>
             <div className="text"><p>“Adis hired me as a developer for his product "Typen". He communicated very well and co-ordinated with me whenever needed. He has good design skills that helped us in building the application. I really liked working with him and would be happy to work with him again."</p>
               <div className="person">
                 <span className="name">Satyam Singh</span>
