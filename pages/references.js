@@ -55,6 +55,17 @@ export default function Home() {
         </div>
         <div className="row">
           <div className="reference">
+            <img src="/references/indraneel-mukherjee.jpg"></img>
+            <div className="text"><p>“Adis hired me as a developer for his product "Typen". He communicated very well and co-ordinated with me whenever needed. He has good design skills that helped us in building the application. I really liked working with him and would be happy to work with him again."</p>
+              <div className="person">
+                <span className="name">Satyam Singh</span>
+                <span className="about">while full-stack developer on Typen in 2016</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="reference">
             <img src="/references/tiffany-kuo.jpg"></img>
             <div className="text"><p>“Adis is easy to work with and fast. After sharing who our target customers are, a sketch of our landing page, and our copy, he was able to make suggestions to our original thinking and create a beautiful [landing page] design in just three days.”</p>
               <div className="person">
