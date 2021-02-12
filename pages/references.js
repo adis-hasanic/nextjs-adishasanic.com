@@ -12,7 +12,7 @@ export default function Home() {
               <div className="person">
                 <span className="name">Chandra Duggirala</span>
                 <a href="https://www.linkedin.com/in/csentropy" target="_blank"><img src="linkedin.svg"></img></a>
-                <span className="about">while co-founder/CEO at Portal in 2019</span>
+                <span className="about">co-founder/CEO of Portal (2019), Tides (2018) and Foodmunk (2016)</span>
               </div>
             </div>
           </div>
