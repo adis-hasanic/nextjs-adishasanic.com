@@ -51,6 +51,7 @@ const Menu = () => {
                     <Link href="/brandedme"><div className={isActive('/brandedme')}><span className="name">Branded.me</span><span className="description">Build your personal website without coding.</span></div></Link>
                 </div>
                 <div className="links">
+                    <Link href="/resume"><div className={isActive('/resume')}>Timeline</div></Link>
                     <Link href="/references"><div className={isActive('/references')}>References</div></Link>
                     <Link href="/about"><div className={isActive('/about')}>About</div></Link>
                 </div>
