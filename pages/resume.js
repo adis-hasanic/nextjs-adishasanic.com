@@ -197,7 +197,7 @@ export default function Home() {
               <div className="role">UI, Web</div>
             </div>
 
-            <div className="experience text last">I started when I was 13 by posting my work of web design, graphic design and visual art on DeviantART and Dribbble, which led to freelance work, one of which was an early-stage startup, and I mostly continued working at startups, mostly on UX/UI of digital products (web and mobile platforms/apps).</div>
+            <div className="experience text last">I started when I was 13 by posting my work of web design, graphic design and visual art on DeviantART and Dribbble, which led to freelance work, one of which was an early-stage startup, and I mostly continued working at startups, mostly on UX/UI of digital products (web and mobile platforms/apps).<br></br><br></br>Born and raised in Zavidovici, Bosnia and Herzegovina.</div>
 
           </div>
         </div>
