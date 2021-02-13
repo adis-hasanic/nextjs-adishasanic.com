@@ -37,7 +37,7 @@ export default function Home() {
             </div>
 
             <div className="experience">
-              <div>Was supposed to move to London and join Stacker as employee, but work moved too fast at the time for my goals and expectations then. Then everything shut down due to covid. So I continued with job-search again.</div>
+              <div>Was supposed join Stacker as employee and move to London, but expectations on design process from the founders at the time did not align at all with my goals and expectations then, and visa process was made impossible by Covid-19. So, I continued with job-search again and freelancing remotely.</div>
             </div>
 
             <div className="experience">
