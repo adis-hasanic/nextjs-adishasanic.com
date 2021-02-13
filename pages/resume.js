@@ -49,7 +49,7 @@ export default function Home() {
             </div>
 
             <div className="experience">
-              <div>The subject of people-analytics in the context hiring and teambuilding turned out not as interesting to me as I thought it'd be.</div>
+              <div>The subject of people-analytics in the context of hiring and team-building turned out not as interesting to me as I thought it'd be.</div>
             </div>
 
             <div className="experience">
