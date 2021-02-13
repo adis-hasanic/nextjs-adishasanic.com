@@ -64,7 +64,7 @@ export default function Home() {
               <div className="type">Employee</div>
               <div className="spacetime">1 year (Jan 2019 – Jan 2020) · Tallinn, Estonia</div>
               <div className="name">Teamscope</div>
-              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
+              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> People-analytics (personality, etc.) for hiring and team-building.</div>
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
@@ -72,7 +72,7 @@ export default function Home() {
               <div className="type">Freelance</div>
               <div className="spacetime">2 months (Nov 2019 – Dec 2020) · Remote</div>
               <div className="name">Teamscope</div>
-              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
+              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> People-analytics (personality, etc.) for hiring and team-building.</div>
               <div className="role">UX/UI</div>
             </div>
 
