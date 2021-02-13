@@ -17,7 +17,7 @@ export default function Home() {
               <div className="spacetime">Ongoing (since Feb 2021) · Remote</div>
               <div className="name"><a href="https://stackerhq.com" target="_blank">Stacker</a></div>
               <div>Early-stage 12-person startup based in London. Backed by YC, Initialized Capital, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
-              <div className="role">UX, UI, Web, Visual</div>
+              <div className="role">UX/UI</div>
             </div>
 
             <div className="experience">
