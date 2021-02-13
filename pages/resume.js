@@ -83,7 +83,7 @@ export default function Home() {
             <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">9 months (Jul 2018 – Mar 2019) · Remote</div>
-              <div className="name"><a href="https://getportal.co/" target="_blank">Portal</a></div>
+              <div className="name"><a href="https://getportal.co/" target="_blank">Portal</a> by Fuel</div>
               <div>Early-stage 3-person startup based in San Francisco. Pre-seed.<br></br> Cryptocurrency wallet, transfering, exchange and conversion — all-in-one, for everyone.</div>
               <div className="role">UX/UI, Web, Visual</div>
             </div>
