@@ -90,7 +90,7 @@ export default function Home() {
 
             <div className="experience">
               <div className="type">Freelance</div>
-              <div className="spacetime">3 months (Nov 2017 – Dec 2017) · Remote</div>
+              <div className="spacetime">2 months (Nov 2017 – Dec 2017) · Remote</div>
               <div className="name">Tides by <a href="https://www.crunchbase.com/organization/fuel-5" target="_blank">Fuel</a></div>
               <div>Early-stage 3-person startup based in San Francisco. Pre-seed.<br></br> Decentralizing health insurance using blockchain technology.</div>
               <div className="role">Landing page, business card</div>
