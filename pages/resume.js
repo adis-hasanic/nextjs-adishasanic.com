@@ -186,7 +186,7 @@ export default function Home() {
               <div className="spacetime">1 year (Jul 2011 – Jul 2012) · Remote</div>
               <div className="name">Playmonks</div>
               <div>Early-stage startup based in Chicago. Backed by The Brandery.<br></br> Find new PC/console games based on what you and your friends played.</div>
-              <div className="role">UX/UI, Web, Visual</div>
+              <div className="role">UI, Web</div>
             </div>
 
             <div>I started when I was 13 by posting my work of web design, graphic design and visual art on DeviantART and Dribbble, which led to freelance work, one of which was an early-stage startup, and I mostly continued working with startups.</div>
