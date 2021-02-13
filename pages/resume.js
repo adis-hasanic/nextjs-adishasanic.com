@@ -9,6 +9,10 @@ export default function Home() {
           <div className="about">
 
             <div className="experience">
+              <div>Currently looking for a full-time role, while freelancing.</div>
+            </div>
+
+            <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">Ongoing (since Feb 2021) · Remote</div>
               <div className="name">Stacker</div>
@@ -33,11 +37,19 @@ export default function Home() {
             </div>
 
             <div className="experience">
+              <div>Was supposed to move to London and join Stacker as employee, but work moved too fast at the time for my goals and expectations then. Then everything shut down due to covid. So I continued with job-search again.</div>
+            </div>
+
+            <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">4 months (Feb 2020 – May 2020) · Remote</div>
               <div className="name">Stacker</div>
               <div>Early-stage 6-person startup based in London. Backed by Pentech.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
               <div className="role">UX/UI, Web, Visual</div>
+            </div>
+
+            <div className="experience">
+              <div>The subject of people-analytics in the context HR/job-hunting turned out not as interesting to me as I thought it'd be.</div>
             </div>
 
             <div className="experience">
@@ -52,15 +64,27 @@ export default function Home() {
               <div className="type">Employee</div>
               <div className="spacetime">1 year (Jan 2019 – Jan 2020) · Tallinn, Estonia</div>
               <div className="name">Teamscope</div>
-              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
+              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
               <div className="role">UX/UI, Web, Visual</div>
+            </div>
+
+            <div className="experience">
+              <div className="type">Freelance</div>
+              <div className="spacetime">2 months (Nov 2019 – Dec 2020) · Remote</div>
+              <div className="name">Teamscope</div>
+              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
+              <div className="role">UX/UI</div>
+            </div>
+
+            <div className="experience">
+              <div>Started searching for full-time role in mid 2018. Got an offer from IndieCampers, Lisbon-based biggest campervan rental provider in Europe. Then an offer from Teamscope, after which I moved to Tallinn, Estonia.</div>
             </div>
 
             <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">9 months (Jul 2018 – Mar 2019) · Remote</div>
               <div className="name">Portal</div>
-              <div>Early-stage 3-person startup based in San Francisco. Backed by 500 Startups.<br></br> Cryptocurrency wallet, transfering, exchange and conversion — all-in-one, for everyone.</div>
+              <div>Early-stage 3-person startup based in San Francisco. Pre-seed.<br></br> Cryptocurrency wallet, transfering, exchange and conversion — all-in-one, for everyone.</div>
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
@@ -106,19 +130,31 @@ export default function Home() {
             </div>
 
             <div className="experience">
+              <div>Difficulties obtaining visa to stay in US. Also, thought about studying Industrial Design, but after preparing and taking drawing classes, I realized I don't wish to move away from screen, images and digital. So, I just continued freelancing remotely for 3 years from Sarajevo, Bosnia and Herzegovina.</div>
+            </div>
+
+            <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">4 months (Jun 2015 – Sep 2015) · San Francisco, CA</div>
               <div className="name">Kamcord</div>
-              <div>Series-A 40-person startup based in San Francisco. Backed by YC, Tencent, etc.<br></br> Watch and record gameplays and livestreams of mobile games</div>
+              <div>Series-A 40-person startup based in San Francisco. Backed by YC, Tencent, etc.<br></br> Watch and record gameplays and livestreams of mobile games.</div>
               <div className="role">UX/UI, Web, Visual</div>
+            </div>
+
+            <div className="experience">
+              <div>Disagreements with CEO that Branded.me should become a social network for professionals. Branded.me had 100k signups within 3 months of launch, and talks of acquisition from Amazon.</div>
             </div>
 
             <div className="experience">
               <div className="type">Employee</div>
               <div className="spacetime">9 months (Sep 2014 – May 2015) · San Francisco, CA</div>
               <div className="name">Branded.me</div>
-              <div>Early-stage 5-person startup based in San Francisco. Pre-seed.<br></br> Create a mobile version of the website from your existing website.</div>
+              <div>Early-stage 5-person startup based in San Francisco. Pre-seed.<br></br> Create a personal website from scratch or using LinkedIn profile data.</div>
               <div className="role">UX/UI, Web, Visual</div>
+            </div>
+
+            <div className="experience">
+              <div>High-school ended, I moved to San Francisco to work closely on Branded.me, the new venture of founder of Mobiley.</div>
             </div>
 
             <div className="experience">
