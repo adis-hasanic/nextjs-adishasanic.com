@@ -432,13 +432,14 @@ img.forteen-forty {
   font-size: 17px;
   margin-top: 5px;
   margin-bottom: 5px;
+  font-weight: bold;
 }
 
 .about .experience div.role {
   font-size: 13px;
   color: rgb(255, 17, 0);
   margin-top: 4px;
-
+  font-weight: bold;
 }
 
 @media (max-width: 720px){
