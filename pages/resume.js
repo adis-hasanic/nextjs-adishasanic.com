@@ -93,7 +93,7 @@ export default function Home() {
               <div className="spacetime">3 months (Nov 2017 – Dec 2017) · Remote</div>
               <div className="name">Tides</div>
               <div>Early-stage 3-person startup based in San Francisco. Pre-seed.<br></br> Decentralizing health insurance using blockchain technology.</div>
-              <div className="role">Web (coming-soon page), Visual (business card)</div>
+              <div className="role">Landing page, business card</div>
             </div>
 
             <div className="experience">
