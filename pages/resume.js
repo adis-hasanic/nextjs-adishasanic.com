@@ -153,7 +153,7 @@ export default function Home() {
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
-            <div>I started when I was 13 by posting my fictional work of web design, graphic design and visual art on DeviantART and Dribbble, which led to freelance work, one of which was an early-stage startup, and I mostly continued working with startups.</div>
+            <div>I started when I was 13 by posting my work of web design, graphic design and visual art on DeviantART and Dribbble, which led to freelance work, one of which was an early-stage startup, and I mostly continued working with startups.</div>
 
           </div>
         </div>
