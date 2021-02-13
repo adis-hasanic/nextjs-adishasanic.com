@@ -56,7 +56,7 @@ export default function Home() {
               <div className="type">Hackathon</div>
               <div className="spacetime">3 days (Jun 2019) · Tallinn, Estonia</div>
               <div className="name">Teleport</div>
-              <div>BaseCamp Spring 2019 was a 3-day hackathon hosted by <a href="https://garage48.org/" target="_blank">Garage48</a> and <a href="https://www.superangel.io/" target="_blank">Superangel</a>.<br></br> I joined CEO and CTO of <a href="http://ziticity.com/" target="_blank">ZITICITY</a>, we won with "Uber for deliveries" prototype.</div>
+              <div>BaseCamp was a weekend hackathon hosted by <a href="https://garage48.org/" target="_blank">Garage48</a> and <a href="https://www.superangel.io/" target="_blank">Superangel</a>.<br></br> I joined CEO and CTO of <a href="http://ziticity.com/" target="_blank">ZITICITY</a>, we won with "Uber for deliveries" prototype.</div>
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
