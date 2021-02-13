@@ -108,7 +108,7 @@ export default function Home() {
               <div className="type">Freelance</div>
               <div className="spacetime">3 months (Feb 2017 – Apr 2017) · Remote</div>
               <div className="name">Engine eCommerce</div>
-              <div>Early-stage startup based in US. Backed by fund for Arkansas' Future<br></br> Create and manage a custom online shop.
+              <div>Early-stage startup based in US. Backed by fund for Arkansas' Future.<br></br> Create and manage a custom online shop.
 </div>
               <div className="role">UX/UI (admin panel)</div>
             </div>
