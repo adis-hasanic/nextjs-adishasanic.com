@@ -130,6 +130,14 @@ export default function Home() {
             </div>
 
             <div className="experience">
+              <div className="type">Freelance</div>
+              <div className="spacetime">1 week (Oct 2015) · Remote</div>
+              <div className="name">MultiplyLabs</div>
+              <div>Early-stage startup based in San Francisco, CA. Backed by YC, Pegasus Tech Ventures, etc.<br></br> Order a customizable pill with supplements for energy and health.</div>
+              <div className="role">Landing page</div>
+            </div>
+
+            <div className="experience">
               <div>Difficulties obtaining visa to stay in US. Also, thought about studying Industrial Design, but after preparing and taking drawing classes, I realized I don't wish to move away from screen, images and digital. So, I just continued freelancing remotely for 3 years from Sarajevo, Bosnia and Herzegovina.</div>
             </div>
 
