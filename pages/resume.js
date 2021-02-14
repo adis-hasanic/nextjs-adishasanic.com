@@ -22,14 +22,6 @@ export default function Home() {
 
             <div className="experience">
               <div className="type">Freelance</div>
-              <div className="spacetime">1 month (Jan 2021) · Remote</div>
-              <div className="name"><a href="https://gigapay.co" target="_blank">GigaPay</a></div>
-              <div>Early-stage 10-person startup based in Stockholm. Pre-seed.<br></br> Send a payment as a fully compliant salary for gig work and similar.</div>
-              <div className="role">UX/UI, Web, Visual</div>
-            </div>
-
-            <div className="experience">
-              <div className="type">Freelance</div>
               <div className="spacetime">4 months (Aug 2020 – Dec 2020) · Remote</div>
               <div className="name"><a href="https://flowdash.com" target="_blank">Flowdash</a></div>
               <div>Early-stage 2-person startup based in San Francisco. Backed by YC.<br></br> Create apps for team workflows and business processes.</div>
