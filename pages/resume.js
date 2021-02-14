@@ -24,12 +24,8 @@ export default function Home() {
               <div className="type">Freelance</div>
               <div className="spacetime">4 months (Aug 2020 – Dec 2020) · Remote</div>
               <div className="name"><a href="https://flowdash.com" target="_blank">Flowdash</a></div>
-              <div>Early-stage 2-person startup based in San Francisco. Backed by YC.<br></br> Create apps for team workflows and business processes.</div>
+              <div>Early-stage 2-person startup based in San Francisco. Backed by YC.<br></br> Prepare workflows for teams and business processes.</div>
               <div className="role">UX/UI</div>
-            </div>
-
-            <div className="experience text">
-              <div>Was supposed join Stacker as employee and move to London, but expectations on design process from the founders at the time did not align at all with my goals, preferences and expectations. Then visa process was made impossible by COVID-19. So, I continued with job-search again and freelancing remotely.</div>
             </div>
 
             <div className="experience">
@@ -38,10 +34,6 @@ export default function Home() {
               <div className="name"><a href="https://stackerhq.com" target="_blank">Stacker</a></div>
               <div>Early-stage 6-person startup based in London. Backed by Pentech.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
               <div className="role">UX/UI, Web, Visual</div>
-            </div>
-
-            <div className="experience text">
-              <div>The subject of people-analytics in the context of hiring and team-building turned out not as interesting to me as I thought it'd be.</div>
             </div>
 
             <div className="experience">
