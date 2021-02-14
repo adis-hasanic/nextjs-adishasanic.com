@@ -17,7 +17,7 @@ export default function Home() {
               <div className="spacetime">Ongoing (since Feb 2021) · Remote</div>
               <div className="name"><a href="https://stackerhq.com" target="_blank">Stacker</a></div>
               <div>Early-stage 12-person startup based in London. Backed by YC, Initialized Capital, etc.<br></br> Create apps, without coding, using data in Airtable, Google Sheets, etc.</div>
-              <div className="role">UX/UI</div>
+              <div className="role">UX/UI, Web, Visual</div>
             </div>
 
             <div className="experience">
@@ -25,7 +25,7 @@ export default function Home() {
               <div className="spacetime">4 months (Aug 2020 – Dec 2020) · Remote</div>
               <div className="name"><a href="https://flowdash.com" target="_blank">Flowdash</a></div>
               <div>Early-stage 2-person startup based in San Francisco. Backed by YC.<br></br> Prepare workflows for teams and business processes.</div>
-              <div className="role">UX/UI</div>
+              <div className="role">UX/UI, Web, Visual</div>
             </div>
 
             <div className="experience">
