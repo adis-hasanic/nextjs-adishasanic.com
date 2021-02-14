@@ -36,6 +36,10 @@ export default function Home() {
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
+            <div className="experience text">
+              <div>Left Teamscope, because what they were working on and generally how they went and thought about it, turned out not as interesting and inspiring to me as I thought it'd be. </div>
+            </div>
+
             <div className="experience">
               <div className="type">Hackathon</div>
               <div className="spacetime">3 days (Jun 2019) · Tallinn, Estonia</div>
@@ -46,18 +50,10 @@ export default function Home() {
 
             <div className="experience">
               <div className="type">Employee</div>
-              <div className="spacetime">1 year (Jan 2019 – Jan 2020) · Tallinn, Estonia</div>
+              <div className="spacetime">1 year 2 months (Nov 2018 – Jan 2020) · Tallinn, Estonia</div>
               <div className="name"><a href="https://teamscope.io/" target="_blank">Teamscope</a></div>
               <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> People-analytics (personality, etc.) for hiring and team-building.</div>
               <div className="role">UX/UI, Web, Visual</div>
-            </div>
-
-            <div className="experience">
-              <div className="type">Freelance</div>
-              <div className="spacetime">2 months (Nov 2019 – Dec 2020) · Remote</div>
-              <div className="name"><a href="https://teamscope.io/" target="_blank">Teamscope</a></div>
-              <div>Early-stage 6-person startup based in Tallinn. Backed by TechStars, SAP, Jaan Tallinn, etc.<br></br> People-analytics (personality, etc.) for hiring and team-building.</div>
-              <div className="role">UX/UI</div>
             </div>
 
             <div className="experience text">
