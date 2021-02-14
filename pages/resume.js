@@ -9,7 +9,7 @@ export default function Home() {
           <div className="about">
 
             <div className="experience text">
-              <div>Currently looking for a full-time role, while freelancing.</div>
+              <div>Currently based in Bosnia and Herzegovina, looking for a full-time role, while freelancing remotely.</div>
             </div>
 
             <div className="experience">
