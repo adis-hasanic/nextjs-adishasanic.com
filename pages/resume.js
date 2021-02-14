@@ -37,7 +37,7 @@ export default function Home() {
             </div>
 
             <div className="experience text">
-              <div>Left Teamscope, because what they were working on and generally how they went and thought about it, turned out not as interesting and inspiring to me as I thought it'd be. </div>
+              <div>Left Teamscope, because what they were working on and generally how they went and thought about it, turned out not as interesting and inspiring to me as I thought it'd be. Moved back to Bosnia and Herzegovina and continued with job-search and freelancing.</div>
             </div>
 
             <div className="experience">
