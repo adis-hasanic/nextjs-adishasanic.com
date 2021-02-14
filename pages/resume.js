@@ -28,6 +28,10 @@ export default function Home() {
               <div className="role">UX/UI, Web, Visual</div>
             </div>
 
+            <div className="experience text">
+              <div>Was supposed to join Stacker as employee and move to London, but expectations and preferences on design process did not align at the time. Then visa process was made impossible by COVID-19. I moved back to Bosnia and Herzegovina and continued with job-search.</div>
+            </div>
+
             <div className="experience">
               <div className="type">Freelance</div>
               <div className="spacetime">4 months (Feb 2020 – May 2020) · Remote</div>
@@ -37,7 +41,7 @@ export default function Home() {
             </div>
 
             <div className="experience text">
-              <div>Left Teamscope, because what they were working on and generally how they went and thought about it, turned out not as interesting and inspiring to me as I thought it'd be. Moved back to Bosnia and Herzegovina and continued with job-search and freelancing.</div>
+              <div>Left Teamscope, because what they were working on and generally how they went and thought about it, turned out not as interesting and inspiring to me as I thought it'd be.</div>
             </div>
 
             <div className="experience">
