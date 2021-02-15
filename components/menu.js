@@ -16,7 +16,7 @@ const Menu = () => {
         <div>
             <Link href="/"><div className="exit">Exit</div></Link>
             <div className="menu">
-                <Head><title>Adis Hasanic - UI, UX, Web, Visual</title><link rel="shortcut icon" href="favicon.jpg" />
+                <Head><title>Adis Hasanic - UI/UX Designer</title><link rel="shortcut icon" href="favicon.jpg" />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
                     <script
                         dangerouslySetInnerHTML={{
