@@ -190,7 +190,7 @@ export default function Home() {
         <div className="work-line no-link">
           <div className="name">Mobiley</div>
           <div className="description">Mobile website builder</div>
-          <div className="time">Jun 2012 – Jul 2013</div>
+          <div className="time">Jun 2013 – Jul 2014</div>
           <div className="role">UX / UI, Web, Visual</div>
         </div>
 
