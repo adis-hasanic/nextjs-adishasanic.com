@@ -586,6 +586,22 @@ img.forteen-forty {
   background: #fcfcfc;
 }
 
+.landing .outro div {
+  float: left;
+  text-align: left;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 150%;
+  margin-left: 20px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  max-width: 680px;
+}
+
+.landing .outro div a {
+  text-decoration: underline;
+}
+
 @media (max-width: 920px){
 
   .landing .top .name {
@@ -602,6 +618,11 @@ img.forteen-forty {
     width: calc(100% - 40px);
     margin-bottom: 40px;
     margin-top: 20px;
+  }
+
+  .landing .outro div {
+    font-size: 13px;
+    width: calc(100% - 40px);
   }
 
   .landing .work-line {
