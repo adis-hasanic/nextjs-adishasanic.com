@@ -1,10 +1,12 @@
 import Menu from '../components/menu'
+import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 export default function Home() {
   return (
     <div>
-      <Menu />
-      <div className="content">
+      <Link href="/"><div className="exit">←</div></Link>
+      <div className="content references">
         <div className="row">
           <div className="about">
             <img src="/references/adis-hasanic.jpg"></img>

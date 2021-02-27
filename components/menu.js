@@ -14,9 +14,8 @@ const Menu = () => {
 
     return (
         <div>
-            <Link href="/"><div className="exit">Exit</div></Link>
             <div className="menu">
-                <Head><title>Adis Hasanic - UI/UX Designer</title><link rel="shortcut icon" href="favicon.jpg" />
+                <Head><title>Adis Hasanic - UX / UI, Web and Visual Designer</title><link rel="shortcut icon" href="favicon.jpg" />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
                     <script
                         dangerouslySetInnerHTML={{
@@ -30,8 +29,7 @@ const Menu = () => {
                         }}
                     /></Head>
                 <div className="top">
-                    <div className="name">Adis Hasanic</div>
-                    <div className="title">UI/UX Designer</div>
+                <Link href="/"><div>←</div></Link>
                 </div>
                 <div className="links">
                     <Link href="/flowdash"><div className={isActive('/flowdash')} ><span className="name">Flowdash</span><span className="description">Build apps for team workflows without coding.</span></div></Link>
@@ -49,11 +47,6 @@ const Menu = () => {
                     <Link href="/foodmunk"><div className={isActive('/foodmunk')}><span className="name">Foodmunk</span><span className="description">Find a perfect meal nearby, stay healthy and fit.</span></div></Link>
                     <Link href="/kamcord"><div className={isActive('/kamcord')}><span className="name">Kamcord</span><span className="description">Mobile games gameplays and livestreams.</span></div></Link>
                     <Link href="/brandedme"><div className={isActive('/brandedme')}><span className="name">Branded.me</span><span className="description">Build your personal website without coding.</span></div></Link>
-                </div>
-                <div className="links">
-                    <Link href="/resume"><div className={isActive('/resume')}>Timeline</div></Link>
-                    <Link href="/references"><div className={isActive('/references')}>References</div></Link>
-                    <Link href="/about"><div className={isActive('/about')}>About</div></Link>
                 </div>
             </div>
         </div>
