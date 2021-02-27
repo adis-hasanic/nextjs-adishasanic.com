@@ -180,6 +180,15 @@ export default function Home() {
 
         <Link href="/kamcord">
           <div className="work-line">
+            <div className="name">MultiplyLabs</div>
+            <div className="description">Customizable pill for health and energy</div>
+            <div className="time">Oct 2015 (1 week)</div>
+            <div className="role">Web</div>
+          </div>
+        </Link>
+
+        <Link href="/kamcord">
+          <div className="work-line">
             <div className="name">Kamcord</div>
             <div className="description">Share videos or livestreams of mobile gaming</div>
             <div className="time">May 2015 – Sep 2015</div>
