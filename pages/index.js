@@ -160,6 +160,15 @@ export default function Home() {
           </div>
         </Link>
 
+        <Link href="/liftigniter">
+          <div className="work-line">
+            <div className="name">Helpjuice</div>
+            <div className="description">Build a knowledgebase</div>
+            <div className="time">Jun 2016 - Aug 2016</div>
+            <div className="role">UX / UI</div>
+          </div>
+        </Link>
+
         <Link href="/foodmunk">
           <div className="work-line">
             <div className="name">Foodmunk</div>
