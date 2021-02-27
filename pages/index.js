@@ -178,7 +178,7 @@ export default function Home() {
           </div>
         </Link>
 
-        <Link href="/kamcord">
+        <Link href="/multiplylabs">
           <div className="work-line">
             <div className="name">MultiplyLabs</div>
             <div className="description">Customizable pill for health and energy</div>
