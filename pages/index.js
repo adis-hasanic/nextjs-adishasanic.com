@@ -121,7 +121,7 @@ export default function Home() {
           <div className="work-line">
             <div className="name">Tides</div>
             <div className="description">Decentralized health insurance via blockchain</div>
-            <div className="time">Nov 2018 - Dec 2018</div>
+            <div className="time">Nov 2017 - Dec 2017</div>
             <div className="role">Web</div>
           </div>
         </Link>
