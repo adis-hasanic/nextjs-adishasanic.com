@@ -181,10 +181,9 @@ a {
 
 .content h1 {
   width: 100%;
-  font-size: 48px;
-  letter-spacing: -2px;
-  line-height: 120%;
-  font-weight: bold;
+  font-size: 35px;
+  line-height: 140%;
+  font-weight: normal;
   display: inline-block;
   text-align: center;
   margin: 0;
@@ -193,15 +192,13 @@ a {
 
 .content h2 {
   width: 100%;
-  font-size: 24px;
-  letter-spacing: -1px;
+  font-size: 21px;
   line-height: 120%;
-  font-weight: bold;
+  font-weight: normal;
   display: inline-block;
   text-align: center;
-  color: #A7A7A7;
   margin: 0;
-  margin-bottom: 24px;
+  margin-bottom: 36px;
 }
 
 .content h3 {

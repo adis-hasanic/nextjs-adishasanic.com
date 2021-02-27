@@ -45,7 +45,7 @@ const Menu = () => {
                     <Link href="/typen"><div className={isActive('/typen')}><span className="name">Typen</span><span className="description">Distraction-free writing app.</span></div></Link>
                     <Link href="/helpjuice"><div className={isActive('/helpjuice')}><span className="name">Helpjuice</span><span className="description">Build and manage a knowledge-base.</span></div></Link>
                     <Link href="/foodmunk"><div className={isActive('/foodmunk')}><span className="name">Foodmunk</span><span className="description">Find a perfect meal nearby, stay healthy and fit.</span></div></Link>
-                    <Link href="/multiplylabs"><div className={isActive('/multiplylabs')}><span className="name">Kamcord</span><span className="description">Customizable pill.</span></div></Link>
+                    <Link href="/multiplylabs"><div className={isActive('/multiplylabs')}><span className="name">MultiplyLabs</span><span className="description">Customizable pill.</span></div></Link>
                     <Link href="/kamcord"><div className={isActive('/kamcord')}><span className="name">Kamcord</span><span className="description">Mobile games gameplays and livestreams.</span></div></Link>
                     <Link href="/brandedme"><div className={isActive('/brandedme')}><span className="name">Branded.me</span><span className="description">Build your personal website without coding.</span></div></Link>
                 </div>
