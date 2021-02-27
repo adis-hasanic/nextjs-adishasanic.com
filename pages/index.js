@@ -99,7 +99,7 @@ export default function Home() {
           </div>
         </Link>
 
-        <Link href="/portal">
+        <Link href="/indiecampers">
           <div className="work-line">
             <div className="name">IndieCampers</div>
             <div className="description">Book a campervan on a mobile website</div>
@@ -160,7 +160,7 @@ export default function Home() {
           </div>
         </Link>
 
-        <Link href="/liftigniter">
+        <Link href="/helpjuice">
           <div className="work-line">
             <div className="name">Helpjuice</div>
             <div className="description">Build a knowledgebase</div>
