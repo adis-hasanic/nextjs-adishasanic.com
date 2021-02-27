@@ -210,6 +210,21 @@ export default function Home() {
 
       </div></div>
 
+      <div className="row"><div className="landing-content">
+        <div className="outro">
+          <div>
+          In mid 2012 I saw a job ad by Weebly that they were looking for web designers to design their official web themes to be offered to millions of their users. I got accepted to be among 10 web designers out of 250+ that applied. Until mid 2013, reporting to an in-house designer at Weebly, I designed more than 15 mobile-ready web themes that Weebly included in their official offering. It was incredible to see that it's possible to work with a company like that and provide something useful to millions of people, while going to high school and working from a bedroom. That's when I saw the power of internet and software.
+            <br></br><br></br>
+            In 2010, I started posting my work on DeviantART. It was mostly web design, graphic design and visual art, based on my fictional ideas for practice purposes. I started getting freelance work, won a few online design contests on 99designs. Then in 2011, I posted <Link href="/woodfolio"><a href="/woodfolio">Woodfolio</a></Link>, a website design of a fictional creative agency. It got featured in a Daily Deviation of DeviantART, a section reserved for a few selected artworks of the day deemed as great by the moderators, and quickly got thousands of views. That got me an offer from the founder of Playmonks, a Chicago based early stage startup, to design UI of a web platform that makes it easy to discover new video games based on what you and your friends played. I was 15.
+          <br></br><br></br>
+          During 2000s I was spending a lot of time playing PC games (CS, DotA, WoW), and in 2008, on an online forum for gamers, I saw people posting logos and visual art in Art & Design section. I downloaded Photoshop to try making an image myself, and after playing with it a bit and making something abstract, I thought "This is it. This is what I want to do for a living." I couldn't stop myself from using Photoshop every day after that.
+          <br></br><br></br>
+          Born on 26 March 1996, a few months after the end of <a href="https://en.wikipedia.org/wiki/Bosnian_War">Bosnian War</a>.
+          </div>
+    
+        </div>
+      </div></div>
+
     </div>
   )
 }
