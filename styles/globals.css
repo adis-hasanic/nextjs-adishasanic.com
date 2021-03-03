@@ -559,6 +559,10 @@ img.forteen-forty {
   text-align: left;
 }
 
+.landing .work-line.no-link .name a {
+    text-decoration: underline;
+}
+
 .landing .work-line .description {
   float: left;
   font-size: 15px;
