@@ -41,14 +41,14 @@ export default function Home() {
       <div className="row"><div className="landing-content">
 
         <div className="work-line no-link">
-          <div className="name">Stacker</div>
+          <div className="name"><a href="http://stackerhq.com/">Stacker</a></div>
           <div className="description">No-code app builder for data-based workspaces</div>
           <div className="time">Feb 2021 - present</div>
           <div className="role">UX / UI</div>
         </div>
 
         <div className="work-line no-link">
-          <div className="name">GigaPay</div>
+          <div className="name"><a href="http://gigapay.co/">GigaPay</a></div>
           <div className="description">Send any payment as a salary (tax, insurance, etc.)</div>
           <div className="time">Jan 2021 (1 month)</div>
           <div className="role">UX / UI</div>
@@ -136,7 +136,7 @@ export default function Home() {
         </Link>
 
         <div className="work-line no-link">
-          <div className="name">Meitu</div>
+          <div className="name"><a href="https://www.crunchbase.com/organization/meitu">Meitu</a></div>
           <div className="description">Mobile photo editing apps</div>
           <div className="time">Jun 2017 – Jul 2017</div>
           <div className="role">Visual (infographics)</div>
