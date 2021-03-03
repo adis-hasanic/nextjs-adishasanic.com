@@ -207,20 +207,20 @@ export default function Home() {
 
         <div className="work-line no-link">
           <div className="name">Mobiley</div>
-          <div className="description">Mobile website builder</div>
+          <div className="description">Mobile website builder, became Branded.me</div>
           <div className="time">Jun 2013 – Jul 2014</div>
           <div className="role">UX / UI, Web, Visual</div>
         </div>
 
         <div className="work-line no-link">
-          <div className="name">Weebly</div>
-          <div className="description">Official web themes for 10M+ users</div>
+          <div className="name"><a href="https://www.weebly.com/">Weebly</a></div>
+          <div className="description">Website builder</div>
           <div className="time">Jun 2012 – Jun 2013</div>
-          <div className="role">Web</div>
+          <div className="role">Web (themes)</div>
         </div>
 
         <div className="work-line no-link last">
-          <div className="name">Playmonks</div>
+          <div className="name"><a href="https://www.crunchbase.com/organization/turbobotz">TurboBotz</a></div>
           <div className="description">Discover new PC/console games</div>
           <div className="time">Jun 2011 – Jun 2012</div>
           <div className="role">UX / UI, Web, Visual</div>
