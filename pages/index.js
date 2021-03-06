@@ -1,4 +1,3 @@
-
 import Head from 'next/head'
 
 export default function Home() {
@@ -19,8 +18,11 @@ export default function Home() {
           }}
         /></Head>
 
-        <div>
-          Adis Hasanic<br></br><a href="https://adishasanic.com/Adis-resume.pdf">Download CV</a></div>
+        <div className="content">
+          <h1>Adis Hasanic</h1>
+          <h2>Product Designer (UI/UX)</h2>
+          <a href="adishasanic96@gmail.com">Email</a>
+          <a href="https://adishasanic.com/Adis-resume.pdf">Resume</a></div>
 
       </div>
   )
