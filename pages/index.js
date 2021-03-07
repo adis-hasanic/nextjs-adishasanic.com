@@ -90,14 +90,15 @@ export default function Home() {
 
         <div className="row live">
           <h1>Foodmunk</h1><br></br>
-          <p>Nutrition assistant that makes sure that the user's next meal is the best that provides health and variety (based on their previous meals).</p><br></br>
+          <p>Nutrition assistant that learns about user to ensure that each next meal is the best choice for health and variety (based on their previous meals).</p><br></br>
           <Link href="/foodmunk"><a href="/foodmunk">See more</a></Link><br></br>
           <img src="/portfolio/product/foodmunk/3/1.png" className="iphone-five"></img><br></br>
         </div>
 
-        <div className="row">
+        <div className="row live">
           <h1>Kamcord Livestream Broadcasting</h1><br></br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><br></br>
+          <p>The solution that didn't exist until then — ability to host a livestream of a mobile game, using only a phone while playing a mobile game on it.</p><br></br>
+          <Link href="/kamcord-livestream-broadcasting"><a href="/kamcord-livestream-broadcasting">See more</a></Link><br></br>
           <img src="/portfolio/product/kamcord/broadcasting/4.png" className="android-landscape"></img><br></br>
         </div>
 
