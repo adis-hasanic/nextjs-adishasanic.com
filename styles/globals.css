@@ -132,7 +132,7 @@ div.presentation .row.no-vh img {
     object-fit: fill;
   }
 
-  .content.index div.row img.iphone-x { width: 50%; }
-  .content.index div.row img.iphone-five { width: 50%; }
+  .content.index div.row img.iphone-x { width: 42%; }
+  .content.index div.row img.iphone-five { width: 42%; }
 
 }
