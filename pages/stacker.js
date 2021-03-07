@@ -5,7 +5,7 @@ export default function Home() {
   return (
 
     <div>
-      <Head><title>Flowdash - Adis Hasanic - Product Designer (UI/UX)</title><link rel="shortcut icon" href="favicon.jpg" />
+      <Head><title>Stacker - Adis Hasanic - Product Designer (UI/UX)</title><link rel="shortcut icon" href="favicon.jpg" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
