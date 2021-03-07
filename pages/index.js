@@ -57,9 +57,10 @@ export default function Home() {
           <img src="/portfolio/product/amigos/2/1.png" className="iphone-x"></img><br></br>
         </div>
 
-        <div className="row">
+        <div className="row live">
           <h1>Portal</h1><br></br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><br></br>
+          <p>Mac app that makes it easy for anyone to store, transfer, exchange and convert cryptocurrencies, and helps trade and withdraw on time.</p><br></br>
+          <Link href="/portal"><a href="/portal">See more</a></Link><br></br>
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
 

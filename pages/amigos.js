@@ -145,6 +145,10 @@ export default function Home() {
           <img src="/portfolio/product/amigos/8/3.png" className="iphone-x"></img>
         </div>
 
+        <div className="row">
+          <img src="/portfolio/product/amigos/8/1.png" className="iphone-x"></img>
+        </div>
+
       </div>
 
     </div>

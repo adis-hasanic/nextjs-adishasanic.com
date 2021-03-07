@@ -38,10 +38,6 @@ export default function Home() {
         </div>
 
         <div className="row">
-          <img src="/portfolio/product/flowdash/dashboard.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row">
           <img src="/portfolio/product/flowdash/table-1.jpg" className="eleven-twenty border"></img>
         </div>
 
