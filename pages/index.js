@@ -64,9 +64,10 @@ export default function Home() {
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
 
-        <div className="row">
+        <div className="row live">
           <h1>Typen</h1><br></br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><br></br>
+          <p>Web-based writing app that helps focus on writing by providing text storage, customizable look, distraction-free mode.</p><br></br>
+          <Link href="/typen"><a href="/typen">See more</a></Link><br></br>
           <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img><br></br>
         </div>
 
