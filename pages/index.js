@@ -53,7 +53,7 @@ export default function Home() {
         <div className="row live">
           <h2>Thrive</h2><br></br>
           <p>Vehicle marketplace focusing on helping the customer find the car they want and which is available at a nearby dealership.</p><br></br>
-          <Link href="/amigos"><a href="/amigos">See more</a></Link><br></br>
+          <Link href="/thrive"><a href="/thrive">See more</a></Link><br></br>
           <img src="/portfolio/product/amigos/2/1.png" className="iphone-x"></img><br></br>
         </div>
 
