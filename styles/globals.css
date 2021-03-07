@@ -1,38 +1,135 @@
 
+
+img {
+  width: 100%;
+}
+
 * {
   margin: 0;
 }
 
 body {
   font-family: sans-serif;
+  width: 90%;
+  margin: 0 5%;
 }
 
 h1 {
-  font-size: 19px;
+  font-size: 20px;
   font-weight: normal;
-  line-height: 25px;
+  line-height: 28px;
+  display: inline-block;
+  margin-top: 20px;
 }
 
 h2 {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 100%;
   font-weight: normal;
   line-height: 22px;
+  max-width: 560px;
+  display: inline-block;
+}
+
+h3 {
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: normal;
+  line-height: 22px;
+  max-width: 560px;
+  display: inline-block;
+}
+
+p {
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: normal;
+  line-height: 20px;
   margin-bottom: 12px;
+  max-width: 480px;
+  display: inline-block;
+  margin-top: 12px;
 }
 
 a {
-  font-size: 13px;
+  font-size: 14px;
   line-height: 100%;
-  float: left;
-  margin-right: 12px;
+  margin: 0 6px;
+  margin-top: 12px;
   text-decoration: none;
   color: #000;
   padding-bottom: 2px;
   border-bottom: solid 1px #000;
+  display: inline-block;
 }
 
 div.content {
-  margin: 20px 24px;
   float: left;
+  width: 100%;
+  text-align: center;
+}
+
+div.row {
+  margin: 0 0 160px 0;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+div.row a {
+  margin-bottom: 48px;
+}
+
+img {max-height: 96vh; object-fit: contain;}
+div.row img.border { box-shadow: 0 0 0 1px #eaeaea; }
+div.row img.personal-photo { max-width: 138px; margin-top: 20px;}
+div.row img.eleven-twenty { max-width: 1120px; }
+div.row img.eleven-ninetysix { max-width: 1196px; }
+div.row img.twelve-eighty { max-width: 1280px; }
+div.row img.iphone-x { max-width: 432px; }
+div.row img.iphone-five { max-width: 370px; }
+div.row img.android-landscape { max-width: 801px; }
+
+div.presentation .row {
+  line-height: 100vh;
+  margin-bottom: 160px;
+}
+
+div.presentation .row img {
+  vertical-align: middle;
+}
+
+div.presentation .row.no-vh {
+  line-height: 100%;
+}
+
+div.presentation .row.no-vh img {
+  max-height: none;
+  object-fit: fill;
+}
+
+.content.index .row {
+  display: none;
+}
+
+.content.index .row.live {
+  display: block;
+}
+
+@media (max-width: 640px){ 
+
+  div.presentation {
+    margin-bottom: 60px;
+  }
+
+  div.presentation .row {
+    line-height: 100%;
+    margin: 60px 0 0 0
+  }
+  
+  div.presentation .row img {
+    max-height: none;
+    object-fit: fill;
+  }
+
 }
