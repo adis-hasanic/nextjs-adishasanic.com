@@ -71,9 +71,10 @@ export default function Home() {
           <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img><br></br>
         </div>
 
-        <div className="row">
-          <h1>Engine</h1><br></br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><br></br>
+        <div className="row live">
+          <h2>Engine</h2><br></br>
+          <p>Admin panel of a web platform that enables anyone to set up and run an online store, independently on a custom domain.</p><br></br>
+          <Link href="/engine"><a href="/engine">See more</a></Link><br></br>
           <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img><br></br>
         </div>
 
