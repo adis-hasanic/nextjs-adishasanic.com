@@ -50,9 +50,10 @@ export default function Home() {
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
         </div>
 
-        <div className="row">
-          <h1>Amigos</h1><br></br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><br></br>
+        <div className="row live">
+          <h2>Amigos</h2><br></br>
+          <p>Vehicle marketplace focusing on helping the customer find the car they want and which is available at a nearby dealership.</p><br></br>
+          <Link href="/amigos"><a href="/amigos">See more</a></Link><br></br>
           <img src="/portfolio/product/amigos/2/1.png" className="iphone-x"></img><br></br>
         </div>
 

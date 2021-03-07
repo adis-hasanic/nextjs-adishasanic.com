@@ -19,7 +19,6 @@ h1 {
   font-weight: normal;
   line-height: 28px;
   display: inline-block;
-  margin-top: 20px;
 }
 
 h2 {
@@ -80,13 +79,13 @@ div.row a {
   margin-bottom: 48px;
 }
 
-img {max-height: 96vh; object-fit: contain;}
-div.row img.border { box-shadow: 0 0 0 1px #eaeaea; }
+div.row img.border { border: solid 1px #eaeaea; }
 div.row img.personal-photo { max-width: 138px; margin-top: 20px;}
 div.row img.eleven-twenty { max-width: 1120px; }
 div.row img.eleven-ninetysix { max-width: 1196px; }
 div.row img.twelve-eighty { max-width: 1280px; }
 div.row img.iphone-x { max-width: 432px; }
+div.row img.iphone-x-landscape { max-width: 864px; }
 div.row img.iphone-five { max-width: 370px; }
 div.row img.android-landscape { max-width: 801px; }
 
