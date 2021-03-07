@@ -36,9 +36,9 @@ export default function Home() {
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img><br></br>
         </div>
 
-        <div className="row">
+        <div className="row live">
           <h2>Stacker</h2><br></br>
-          <p>No-code app builder enabling anyone to build internal apps for their team tasks, funnels, workflows and business processes.</p><br></br>
+          <p>No-code app builder focusing on quickly converting and combining spreadsheets into customizable apps and workspaces.</p><br></br>
           <Link href="/stacker"><a href="/stacker">See more</a></Link><br></br>
           <img src="/portfolio/product/stacker/7/2.jpg" className="twelve-eighty"></img><br></br>
         </div>
