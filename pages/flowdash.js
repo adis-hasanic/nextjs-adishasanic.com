@@ -117,6 +117,14 @@ export default function Home() {
           <img src="/portfolio/product/flowdash/timers-1.jpg" className="eleven-twenty border"></img>
         </div>
 
+        <div className="row no-vh">
+          <img src="/portfolio/product/flowdash/analytics.jpg" className="eleven-twenty border"></img>
+        </div>
+
+        <div className="row no-vh">
+          <img src="/portfolio/product/flowdash/notifications-1.jpg" className="eleven-twenty border"></img>
+        </div>
+
       </div>
 
     </div>
