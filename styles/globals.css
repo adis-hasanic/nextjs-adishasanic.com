@@ -81,6 +81,7 @@ div.row a {
 
 div.row img.border { border: solid 1px #eaeaea; }
 div.row img.personal-photo { max-width: 138px; margin-top: 20px;}
+div.row img.three-twenty { max-width: 320px; }
 div.row img.eleven-twenty { max-width: 1120px; }
 div.row img.eleven-ninetysix { max-width: 1196px; }
 div.row img.twelve-eighty { max-width: 1280px; }
@@ -113,6 +114,10 @@ div.presentation .row.no-vh img {
 
 .content.index .row.live {
   display: block;
+}
+
+div.presentation.indiecampers .row {
+  margin-bottom: 0;
 }
 
 @media (max-width: 960px){ 
