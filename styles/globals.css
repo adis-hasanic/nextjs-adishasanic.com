@@ -91,6 +91,10 @@ div.intro h1 {
   line-height: 100vh;
 }
 
+div.intro h1 br {
+  display: none;
+}
+
 div.intro h1 a {
   margin: 0;
   font-size: inherit;
@@ -176,5 +180,18 @@ div.presentation.indiecampers .row {
 
   .content.index div.row img.iphone-x { width: 42%; }
   .content.index div.row img.iphone-five { width: 42%; }
+
+}
+
+@media (max-width: 600px){ 
+
+div.intro h1 {
+  line-height: 180%;
+  margin-top: 200px;
+}
+
+div.intro h1 br {
+  display: inline-block;
+}
 
 }
