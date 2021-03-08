@@ -127,6 +127,7 @@ div.row img.three-twenty { max-width: 320px; }
 div.row img.eleven-twenty { max-width: 1120px; }
 div.row img.eleven-ninetysix { max-width: 1196px; }
 div.row img.twelve-eighty { max-width: 1280px; }
+div.row img.forteen-forty { max-width: 1440px; }
 div.row img.iphone-x { max-width: 432px; }
 div.row img.iphone-x-landscape { max-width: 864px; }
 div.row img.iphone-five { max-width: 370px; }
@@ -143,6 +144,10 @@ div.presentation .row img {
 
 div.presentation .row.no-vh {
   line-height: 100%;
+}
+
+div.presentation .row.no-vh.first {
+  margin-top: 40px;
 }
 
 div.presentation .row.no-vh img {
