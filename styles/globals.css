@@ -73,7 +73,7 @@ div a {
   color: #aaa;
   border-bottom: solid 2px #eee;
   margin: 0 3px;
-  transition: all 0.3s;
+  transition: color 0.3s;
 }
 
 div a:hover {
@@ -101,7 +101,7 @@ div.intro h1 a {
   color: #aaa;
   border-bottom: solid 2px #eee;
   margin: 0 3px;
-  transition: opacity 0.3s;
+  transition: color 0.3s;
 }
 
 div.intro h1 a:hover {
