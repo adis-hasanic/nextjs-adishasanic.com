@@ -21,24 +21,20 @@ export default function Home() {
 
       <div className="content index">
 
-        <div className="row live">
-          <img src="/adis-hasanic.jpg" className="personal-photo"></img><br></br><br></br>
-          <h1>Adis Hasanic</h1><br></br>
-          <h3>Product Designer (UI/UX)</h3><br></br>
-          <a href="mailto:adishasanic96@gmail.com">Email</a>
-          <a href="https://adishasanic.com/Adis-resume.pdf">Resume</a>
+        <div className="row live intro">
+          <h1>Visual UI and UX. Web, mobile. Early-stage startups. <a href="/Adis-resume.pdf">Resume</a> <a href="mailto:adishasanic96@gmail.com">Email</a></h1><br></br>
         </div>
 
         <div className="row live">
           <h2>Flowdash</h2><br></br>
-          <p>No-code app builder enabling anyone to build internal apps for their team tasks, funnels, workflows and business processes.</p><br></br>
+          <p>Create web apps, without coding, for team workflows</p><br></br>
           <Link href="/flowdash"><a href="/flowdash">See more</a></Link><br></br>
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img><br></br>
         </div>
 
         <div className="row live">
           <h2>Stacker</h2><br></br>
-          <p>No-code app builder focusing on quickly converting and combining spreadsheets into customizable apps and workspaces.</p><br></br>
+          <p>Create web apps, without coding, from spreadsheets</p><br></br>
           <Link href="/stacker"><a href="/stacker">See more</a></Link><br></br>
           <img src="/portfolio/product/stacker/7/2.jpg" className="twelve-eighty"></img><br></br>
         </div>

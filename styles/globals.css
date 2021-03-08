@@ -1,4 +1,8 @@
 
+@font-face {
+  font-family: Acumin-Pro;
+  src: url("../public/font/AcuminPro-Medium.otf") format("opentype");
+}
 
 img {
   width: 100%;
@@ -6,26 +10,28 @@ img {
 
 * {
   margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Acumin-Pro, sans-serif;
   width: 90%;
   margin: 0 5%;
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: normal;
   line-height: 28px;
   display: inline-block;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 100%;
   font-weight: normal;
-  line-height: 22px;
+  line-height: 24px;
   max-width: 560px;
   display: inline-block;
 }
@@ -40,26 +46,39 @@ h3 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 100%;
   font-weight: normal;
   line-height: 20px;
   margin-bottom: 12px;
   max-width: 480px;
   display: inline-block;
-  margin-top: 12px;
+  margin-top: 5px;
 }
 
 a {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 100%;
   margin: 0 6px;
-  margin-top: 12px;
+  margin-top: 8px;
   text-decoration: none;
   color: #000;
   padding-bottom: 2px;
   border-bottom: solid 1px #000;
   display: inline-block;
+}
+
+div a {
+  margin: 0;
+  color: #aaa;
+  border-bottom: solid 2px #eee;
+  margin: 0 3px;
+  transition: all 0.3s;
+}
+
+div a:hover {
+  color: #777;
+  border-bottom: solid 2px #eee;
 }
 
 div.content {
@@ -68,8 +87,27 @@ div.content {
   text-align: center;
 }
 
+div.intro h1 {
+  line-height: 100vh;
+}
+
+div.intro h1 a {
+  margin: 0;
+  font-size: inherit;
+  color: #aaa;
+  border-bottom: solid 2px #eee;
+  margin: 0 3px;
+  transition: all 0.3s;
+}
+
+div.intro h1 a:hover {
+  color: #777;
+  border-bottom: solid 2px #eee;
+}
+
+
 div.row {
-  margin: 0 0 160px 0;
+  margin: 0 0 200px 0;
   float: left;
   width: 100%;
   text-align: center;
