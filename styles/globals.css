@@ -194,8 +194,9 @@ div.intro h1 br {
   display: inline-block;
 }
 
-div a {
-  transition: none;
+div a,
+div.intro h1 a {
+  transition: none !important;
 }
 
 }
