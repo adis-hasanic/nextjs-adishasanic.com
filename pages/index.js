@@ -27,14 +27,14 @@ export default function Home() {
 
         <div className="row live">
           <h2>Flowdash</h2><br></br>
-          <p>Create web apps, without coding, for team workflows</p><br></br>
+          <p>Create web apps, without coding, for team workflows.</p><br></br>
           <Link href="/flowdash"><a href="/flowdash">See more</a></Link><br></br>
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img><br></br>
         </div>
 
         <div className="row live">
           <h2>Stacker</h2><br></br>
-          <p>Create web apps, without coding, from spreadsheets</p><br></br>
+          <p>Create web apps, without coding, from spreadsheets.</p><br></br>
           <Link href="/stacker"><a href="/stacker">See more</a></Link><br></br>
           <img src="/portfolio/product/stacker/7/2.jpg" className="twelve-eighty"></img><br></br>
         </div>
