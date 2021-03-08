@@ -121,7 +121,7 @@ div.row a {
   margin-bottom: 48px;
 }
 
-div.row img.border { border: solid 1px #eaeaea; }
+div.row img.border { border: solid 1px #d2d2d2; }
 div.row img.personal-photo { max-width: 138px; margin-top: 20px;}
 div.row img.three-twenty { max-width: 320px; }
 div.row img.eleven-twenty { max-width: 1120px; }
