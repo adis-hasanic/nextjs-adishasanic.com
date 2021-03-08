@@ -41,7 +41,7 @@ export default function Home() {
 
         <div className="row live">
           <h2>Teamscope</h2><br></br>
-          <p>Learn about personality and values to build teams.</p><br></br>
+          <p>Analyze personality and values to build teams.</p><br></br>
           <Link href="/teamscope"><a href="/teamscope">See more</a></Link><br></br>
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
         </div>
