@@ -21,6 +21,10 @@ export default function Home() {
 
       <div className="content presentation">
 
+      <div className="row no-vh first">
+          <img src="/portfolio/web/brandedme/home.jpg" className="forteen-forty"></img>
+        </div>
+
         <div className="row">
           <img src="/portfolio/product/brandedme/1.jpg" className="eleven-twenty"></img>
         </div>

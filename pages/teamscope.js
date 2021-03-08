@@ -21,6 +21,10 @@ export default function Home() {
 
       <div className="content presentation">
 
+      <div className="row no-vh first">
+          <img src="/portfolio/web/teamscope-2020/home.jpg" className="forteen-forty border"></img>
+        </div>
+
         <div className="row">
           <img src="/portfolio/product/teamscope/1/1.jpg" className="twelve-eighty border"></img>
         </div>
