@@ -101,7 +101,7 @@ div.intro h1 a {
   color: #aaa;
   border-bottom: solid 2px #eee;
   margin: 0 3px;
-  transition: all 0.3s;
+  transition: opacity 0.3s;
 }
 
 div.intro h1 a:hover {
@@ -183,7 +183,7 @@ div.presentation.indiecampers .row {
 
 }
 
-@media (max-width: 600px){ 
+@media (max-width: 640px){ 
 
 div.intro h1 {
   line-height: 180%;
@@ -192,6 +192,10 @@ div.intro h1 {
 
 div.intro h1 br {
   display: inline-block;
+}
+
+div a {
+  transition: none;
 }
 
 }
