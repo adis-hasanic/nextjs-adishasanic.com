@@ -22,7 +22,7 @@ export default function Home() {
       <div className="content index">
 
         <div className="row live intro">
-          <h1>Visual UI and UX. Web, mobile. Figma. <br></br><a href="/Adis-resume.pdf">Resume</a> <a href="mailto:adishasanic96@gmail.com">Email</a></h1><br></br>
+          <h1>I design digital product UI and UX. <br></br><a href="/Adis-resume.pdf">Resume</a> <a href="mailto:adishasanic96@gmail.com">Email</a></h1><br></br>
         </div>
 
         <div className="row live">
