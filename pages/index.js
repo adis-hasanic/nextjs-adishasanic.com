@@ -76,6 +76,7 @@ export default function Home() {
         <div className="row live">
           <h2>Engine</h2><br></br>
           <p>Manage an online store.</p><br></br>
+          <p>Engine was a US-based 5-person startup. I worked with Engine for several months during 2017, working closely with PM/co-founder to design UI and UX of an admin panel where Engine users can manage, track and run their custom online store.</p>
           <Link href="/engine"><a href="/engine">See more</a></Link><br></br>
           <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img><br></br>
         </div>
@@ -115,6 +116,7 @@ export default function Home() {
         <div className="row live">
           <h2>Kamcord Livestream</h2><br></br>
           <p>Watch a livestream of a mobile game.</p><br></br>
+          <p>Kamcord was San Francisco based startup with more than 40 people, backed by YC, Tencent, etc. I was working on Kamcord Livestream for 2-3 weeks (mid 2015), under a Senior Designer, who defined product requirements with PM and founders, and assigned me to design UI and UX.</p><br></br>
           <Link href="/kamcord-livestream-watching"><a href="/kamcord-livestream-watching">See more</a></Link><br></br>
           <img src="/portfolio/product/kamcord/livestream/2.png" className="iphone-five"></img><br></br>
         </div>
