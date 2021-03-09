@@ -50,8 +50,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Thrive</h2><br></br>
-          <p>Buy a car you want at a dealership nearby.</p><br></br>
+          <h1>Thrive</h1><br></br>
+          <h2>Buy a car you want at a dealership nearby.</h2><br></br>
+          <p>Entire app designed in about 1 month. Started with only the idea from the founder that it should be a marketplace designed as a social network that allows you to like, revisit, check comments and talk to dealerships. Result was a car-search focused platform designed as a funnel from exploration to narrowing down to favorites to talking with dealerships in purchasing.</p><br></br>
           <Link href="/thrive"><a href="/thrive">See more</a></Link><br></br>
           <img src="/portfolio/product/thrive/2/1.png" className="iphone-x"></img><br></br>
         </div>
