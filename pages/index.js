@@ -33,8 +33,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Stacker</h2><br></br>
-          <p>Create web apps, without coding, from spreadsheets.</p><br></br>
+          <h1>Stacker</h1><br></br>
+          <h2>Create web apps, without coding, from spreadsheets.</h2><br></br>
+          <p>Stacker was a 5-person startup. I was designing at Stacker for 4 months, starting from making quick visual changes to their current UI, to making the editor easy to use, setup easy to understand, and to designing a new version of the product that focuses on workspaces and end-user productivity more than stand-alone apps.</p><br></br>
           <Link href="/stacker"><a href="/stacker">See more</a></Link><br></br>
           <img src="/portfolio/product/stacker/7/2.jpg" className="twelve-eighty"></img><br></br>
         </div>
