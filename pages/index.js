@@ -42,14 +42,6 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h1>Teamscope</h1><br></br>
-          <h2>Analyze personality and values to build teams.</h2><br></br>
-          <p>Teamscope was a Tallin based 6-person startup, backed by TechStars. I was a sole designer at Teamscope for 1 year (Nov 2018 - Jan 2020), working most closely with CEO and PM to design a product which presents an easy-to-follow process to the employees and candidates who will take the tests, as well as team builders and hiring managers to understand data via visualizations and find applicable insights.</p><br></br>
-          <Link href="/teamscope"><a href="/teamscope">See more</a></Link><br></br>
-          <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
-        </div>
-
-        <div className="row live">
           <h1>Thrive</h1><br></br>
           <h2>Buy a car you want at a dealership nearby.</h2><br></br>
           <p>Entire app designed in about 1 month (Sep 2019). Started with only the idea from the founder that it should be a marketplace designed as a social network that allows you to like, revisit, check comments and talk to dealerships. Result was a car-search focused platform designed as a funnel from exploration to narrowing down to favorites to talking with dealerships in purchasing.</p><br></br>
@@ -58,11 +50,11 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h1>Portal</h1><br></br>
-          <h2>Store, transfer and exchange cryptocurrencies.</h2><br></br>
-          <p>Portal was a San Francisco based 3-person startup. Founders' previous venture was backed by 500 Startups. I was designing Portal for 9 months (mid 2018 - early 2019), working closely with CEO and CTO to understand the complex processes of working with cryptocurrencies and designing a single app where user can track and manage all their crypto finances and crypto related activities.</p><br></br>
-          <Link href="/portal"><a href="/portal">See more</a></Link><br></br>
-          <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img><br></br>
+          <h1>Teamscope</h1><br></br>
+          <h2>Analyze personality and values to build teams.</h2><br></br>
+          <p>Teamscope was a Tallin based 6-person startup, backed by TechStars. I was a sole designer at Teamscope for 1 year (Nov 2018 - Jan 2020), working most closely with CEO and PM to design a product which presents an easy-to-follow process to the employees and candidates who will take the tests, as well as team builders and hiring managers to understand data via visualizations and find applicable insights.</p><br></br>
+          <Link href="/teamscope"><a href="/teamscope">See more</a></Link><br></br>
+          <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
         </div>
 
         <div className="row live">
@@ -74,11 +66,11 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h1>Typen</h1><br></br>
-          <h2>Focus on writing.</h2><br></br>
-          <p>Typen was a personal project. Frustrated by the lack of proper writing apps that make it easy to store text and customize the look without showing a bunch of toolbars during creative process, I designed UI and UX of Typen, bootstrapped and recruited developer, and designed website and created Facebook ads. Within 2 months of launch, more than 2000 signups, and positive feedback on design sent by amateur novelists as well as a professional dramaturge. I learned a lot about process of launching a product and difficulties of finding the marketing message after the product has been built.</p><br></br>
-          <Link href="/typen"><a href="/typen">See more</a></Link><br></br>
-          <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img><br></br>
+          <h1>Portal</h1><br></br>
+          <h2>Store, transfer and exchange cryptocurrencies.</h2><br></br>
+          <p>Portal was a San Francisco based 3-person startup. Founders' previous venture was backed by 500 Startups. I was designing Portal for 9 months (mid 2018 - early 2019), working closely with CEO and CTO to understand the complex processes of working with cryptocurrencies and designing a single app where user can track and manage all their crypto finances and crypto related activities.</p><br></br>
+          <Link href="/portal"><a href="/portal">See more</a></Link><br></br>
+          <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
 
         <div className="row live">
@@ -94,6 +86,14 @@ export default function Home() {
           <p>LiftIgniter was a San Francisco based 8-person startup, backed by YC. I worked with LiftIgniter for several months during 2017, working closely with CEO and CTO to design UI and UX of process of customer integrating LiftIgniter's API into their app and then using LiftIgniter's admin panel to track data and make modification to API settings to be more suitable to their needs.</p><br></br>
           <Link href="/liftigniter"><a href="/liftigniter">See more</a></Link><br></br>
           <img src="/portfolio/product/liftigniter/4.jpg" className="twelve-eighty"></img><br></br>
+        </div>
+
+        <div className="row live">
+          <h1>Typen</h1><br></br>
+          <h2>Focus on writing.</h2><br></br>
+          <p>Typen was a personal project. Frustrated by the lack of proper writing apps that make it easy to store text and customize the look without showing a bunch of toolbars during creative process, in 4 months (late 2016 - early 2017) I designed UI and UX of Typen, bootstrapped and recruited developer, and designed website and created Facebook ads. Within 2 months of launch, more than 2000 signups, and positive feedback on design sent by amateur novelists as well as a professional dramaturge. I learned a lot about process of launching a product and difficulties of finding the marketing message after the product has been built.</p><br></br>
+          <Link href="/typen"><a href="/typen">See more</a></Link><br></br>
+          <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img><br></br>
         </div>
 
         <div className="row live">
