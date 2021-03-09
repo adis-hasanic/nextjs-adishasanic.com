@@ -195,6 +195,7 @@ div.presentation.indiecampers .row {
 div.intro h1 {
   line-height: 180%;
   margin-top: 200px;
+  margin-bottom: 0;
 }
 
 div.intro h1 br {
