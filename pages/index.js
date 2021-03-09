@@ -127,7 +127,7 @@ export default function Home() {
         <div className="row live">
           <h1>Branded.me</h1><br></br>
           <h2>Create a personal website, without coding, in minutes.</h2><br></br>
-          <p>Branded.me was a 5-person startup. The product was a result of 2 years of collaboration, where in the first year it was called Mobiley and was a mobile website builder, but it was discontinued. Then we designed and built Branded.me, a personal website builder, in 6 months. Within 3 months of launching the product, there was more than 300k websites created by users.</p><br></br>
+          <p>Branded.me was a 5-person startup. The product was a result of 2 years (2013 - 2015) of collaboration, where in the first year it was called Mobiley and was a mobile website builder, but it was discontinued. Then we designed and built Branded.me, a personal website builder, in 6 months. Within 3 months of launching the product, there was more than 300k websites created by users.</p><br></br>
           <Link href="/brandedme"><a href="/brandedme">See more</a></Link><br></br>
           <img src="/portfolio/product/brandedme/1.jpg" className="eleven-twenty"></img><br></br>
         </div>
