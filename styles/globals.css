@@ -100,7 +100,7 @@ div.intro h1 a {
   font-size: inherit;
   color: #aaa;
   border-bottom: solid 2px #eee;
-  margin: 0 3px;
+  margin: 0 0 0 3px;
   transition: color 0.3s;
 }
 
