@@ -42,19 +42,19 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h1>Thrive</h1><br></br>
-          <h2>Buy a car you want at a dealership nearby.</h2><br></br>
-          <p>Entire app designed in about 1 month (Sep 2019). Started with only the idea from the founder that it should be a marketplace designed as a social network that allows you to like, revisit, check comments and talk to dealerships. Result was a car-search focused platform designed as a funnel from exploration to narrowing down to favorites to talking with dealerships in purchasing.</p><br></br>
-          <Link href="/thrive"><a href="/thrive">See more</a></Link><br></br>
-          <img src="/portfolio/product/thrive/2/1.png" className="iphone-x"></img><br></br>
-        </div>
-
-        <div className="row live">
           <h1>Teamscope</h1><br></br>
           <h2>Analyze personality and values to build teams.</h2><br></br>
           <p>Teamscope was a Tallin based 6-person startup, backed by TechStars. I was a sole designer at Teamscope for 1 year (Nov 2018 - Jan 2020), working most closely with CEO and PM to design a product which presents an easy-to-follow process to the employees and candidates who will take the tests, as well as team builders and hiring managers to understand data via visualizations and find applicable insights.</p><br></br>
           <Link href="/teamscope"><a href="/teamscope">See more</a></Link><br></br>
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
+        </div>
+
+        <div className="row live">
+          <h1>Thrive</h1><br></br>
+          <h2>Buy a car you want at a dealership nearby.</h2><br></br>
+          <p>Entire app designed in about 1 month (Sep 2019). Started with only the idea from the founder that it should be a marketplace designed as a social network that allows you to like, revisit, check comments and talk to dealerships. Result was a car-search focused platform designed as a funnel from exploration to narrowing down to favorites to talking with dealerships in purchasing.</p><br></br>
+          <Link href="/thrive"><a href="/thrive">See more</a></Link><br></br>
+          <img src="/portfolio/product/thrive/2/1.png" className="iphone-x"></img><br></br>
         </div>
 
         <div className="row live">
