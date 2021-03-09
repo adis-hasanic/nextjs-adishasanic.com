@@ -28,7 +28,7 @@ export default function Home() {
         <div className="row live">
           <h1>Flowdash</h1><br></br>
           <h2>Create web apps, without coding, for team workflows.</h2><br></br>
-          <p>Flowdash was a San Francsico based 2-person startup, backed by YC. I was designing at Flowdash for 4 months (Aug 2020 - Dec 2020), making it easy to build and use workflows in Flowdash, as well as designing new features and capabilities into the product. After 4 months since I started, new version of Flowdash was posted on ProductHunt and it became #2 product of the month with more than 2000 upvotes.</p><br></br>
+          <p>Flowdash was a San Francisco based 2-person startup, backed by YC. I was designing at Flowdash for 4 months (Aug 2020 - Dec 2020), making it easy to build and use workflows in Flowdash, as well as designing new features and capabilities into the product. After 4 months since I started, new version of Flowdash was posted on ProductHunt and it became #2 product of the month with more than 2000 upvotes.</p><br></br>
           <Link href="/flowdash"><a href="/flowdash">See more</a></Link><br></br>
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img><br></br>
         </div>
