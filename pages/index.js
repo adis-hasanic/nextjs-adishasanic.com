@@ -76,7 +76,7 @@ export default function Home() {
         <div className="row live">
           <h1>Typen</h1><br></br>
           <h2>Focus on writing.</h2><br></br>
-          <p>Typen was a personal project. Frustrated by the lack of proper writing apps that enable customizing the look without showing a bunch of toolbars, I designed UI and UX of Typen, bootstrapped and recruited developer, and designed website and created Facebook ads. Within 2 months of launch, more than 2000 signups, and positive feedback on design sent by amateur novelists as well as a professional dramaturge. I learned a lot about process of launching a product and difficulties of finding the marketing message after the product has been built.</p><br></br>
+          <p>Typen was a personal project. Frustrated by the lack of proper writing apps that make it easy to store text and customize the look without showing a bunch of toolbars during creative process, I designed UI and UX of Typen, bootstrapped and recruited developer, and designed website and created Facebook ads. Within 2 months of launch, more than 2000 signups, and positive feedback on design sent by amateur novelists as well as a professional dramaturge. I learned a lot about process of launching a product and difficulties of finding the marketing message after the product has been built.</p><br></br>
           <Link href="/typen"><a href="/typen">See more</a></Link><br></br>
           <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img><br></br>
         </div>
