@@ -94,11 +94,8 @@ div.content {
 }
 
 div.intro h1 {
-  line-height: 100vh;
-}
-
-div.intro h1 br {
-  display: none;
+  line-height: 120%;
+  margin: 40vh 0;
 }
 
 div.intro h1 a {
@@ -201,7 +198,7 @@ div.intro h1 {
 }
 
 div.intro h1 br {
-  display: inline-block;
+  display: none;
 }
 
 div a,
