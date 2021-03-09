@@ -22,7 +22,7 @@ export default function Home() {
       <div className="content index">
 
         <div className="row live intro">
-          <h1>UI and UX. Web and mobile. Past 10 years at startups. <br></br><a href="/Adis-resume.pdf">Resume</a> <a href="mailto:adishasanic96@gmail.com">Email</a></h1><br></br>
+          <h1>UI and UX. Web and mobile. <br></br>Past 10 years at startups. <br></br><a href="/Adis-resume.pdf">Resume</a> <a href="mailto:adishasanic96@gmail.com">Email</a></h1><br></br>
         </div>
 
         <div className="row live">
