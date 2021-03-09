@@ -58,8 +58,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Portal</h2><br></br>
-          <p>Store, transfer and exchange cryptocurrencies.</p><br></br>
+          <h1>Portal</h1><br></br>
+          <h2>Store, transfer and exchange cryptocurrencies.</h2><br></br>
+          <p>Portal was a 3-person startup. I was designing Portal for 9 months, working closely with CEO and CTO to understand the complex processes of working with cryptocurrencies and designing a single app where user can track and manage all their crypto finances and crypto related activities.</p><br></br>
           <Link href="/portal"><a href="/portal">See more</a></Link><br></br>
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
