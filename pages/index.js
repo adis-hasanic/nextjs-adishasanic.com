@@ -40,8 +40,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Teamscope</h2><br></br>
-          <p>Analyze personality and values to build teams.</p><br></br>
+          <h1>Teamscope</h1><br></br>
+          <h2>Analyze personality and values to build teams.</h2><br></br>
+          <p>Teamscope was a 6-person startup. I was a sole designer at Teamscope for 1 year, working most closely with CEO and PM to design a product which presents an easy-to-follow process to the employees who will take the tests, as well as managers and everyone else to understand data via visualizations and find applicable insights.</p><br></br>
           <Link href="/teamscope"><a href="/teamscope">See more</a></Link><br></br>
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
         </div>
