@@ -88,8 +88,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>LiftIgniter</h2><br></br>
-          <p>Setup API for content recommendations.</p><br></br>
+          <h1>LiftIgniter</h1><br></br>
+          <h2>Setup API for content recommendations.</h2><br></br>
+          <p>LiftIgniter was a San Francisco based 8-person startup, backed by YC. I worked with LiftIgniter for several months, working closely with CEO and CTO to design UI and UX of process of customer integrating LiftIgniter's API into their app and then using LiftIgniter's admin panel to track data and make modification to API settings to be more suitable to their needs.</p><br></br>
           <Link href="/liftigniter"><a href="/liftigniter">See more</a></Link><br></br>
           <img src="/portfolio/product/liftigniter/4.jpg" className="twelve-eighty"></img><br></br>
         </div>
