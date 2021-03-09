@@ -87,8 +87,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>IndieCampers Booking</h2><br></br>
-          <p>Book a campervan via mobile website.</p><br></br>
+          <h1>IndieCampers Booking</h1><br></br>
+          <h2>Book a campervan via mobile website.</h2><br></br>
+          <p>IndieCampers was a startup, and biggest campervan rental service in Europe. I was given 1 week to design UI and UX of a lengthy process of booking a campervan via mobile website. I turned 5 pages into 1, simplified steps and language, and created a new visual style. CEO and PM were impressed and offered me a full-time role at IndieCampers.</p><br></br>
           <Link href="/indiecampers"><a href="/indiecampers">See more</a></Link><br></br>
           <img src="/portfolio/product/indiecampers/preview.png" className="iphone-five"></img><br></br>
         </div>
