@@ -114,8 +114,8 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Kamcord Livestream</h2><br></br>
-          <p>Watch a livestream of a mobile game.</p><br></br>
+          <h1>Kamcord Livestream</h1><br></br>
+          <h2>Watch a livestream of a mobile game.</h2><br></br>
           <p>Kamcord was San Francisco based startup with more than 40 people, backed by YC, Tencent, etc. I was working on Kamcord Livestream for 2-3 weeks (mid 2015), under a Senior Designer, who defined product requirements with PM and founders, and assigned me to design UI and UX.</p><br></br>
           <Link href="/kamcord-livestream-watching"><a href="/kamcord-livestream-watching">See more</a></Link><br></br>
           <img src="/portfolio/product/kamcord/livestream/2.png" className="iphone-five"></img><br></br>
