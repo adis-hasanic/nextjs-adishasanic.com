@@ -103,7 +103,7 @@ export default function Home() {
         <div className="row live">
           <h1>Kamcord Broadcasting</h1><br></br>
           <h2>Host a livestream while playing a mobile game.</h2><br></br>
-          <p>Kamcord was Series A startup with more than 40 people. I was working on Kamcord Broadcasting for 3 weeks, under a Senior Designer, who distilled product requirements from PM and founders, and assigned me to design UI and UX, providing only the idea/direction that it could work similarly to Messenger floating avatars as a proven interaction pattern that helps in multitasking on mobile.</p><br></br>
+          <p>Kamcord was Series A startup with more than 40 people. I was working on Kamcord Broadcasting for 3 weeks, under a Senior Designer, who defined product requirements with PM and founders, and assigned me to design UI and UX, providing only the idea/direction that it could work similarly to Messenger floating avatars as a proven interaction pattern that helps in multitasking on mobile.</p><br></br>
           <Link href="/kamcord-livestream-broadcasting"><a href="/kamcord-livestream-broadcasting">See more</a></Link><br></br>
           <img src="/portfolio/product/kamcord/broadcasting/4.png" className="android-landscape"></img><br></br>
         </div>
