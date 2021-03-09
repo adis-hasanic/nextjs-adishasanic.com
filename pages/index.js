@@ -26,8 +26,9 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Flowdash</h2><br></br>
-          <p>Create web apps, without coding, for team workflows.</p><br></br>
+          <h1>Flowdash</h2><br></br>
+          <h2>Create web apps, without coding, for team workflows.</h2><br></br>
+          <p>Flowdash was a 2-person startup (software engineers who are also building the product). I was designing at Flowdash for 4 months, making it easy to build and use workflows in Flowdash, as well as designing new features and capabilities into the product. New version launched on ProducHunt after 4 months was #2 product of the month with more than 2000 upvotes.</p><br></br>
           <Link href="/flowdash"><a href="/flowdash">See more</a></Link><br></br>
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img><br></br>
         </div>
