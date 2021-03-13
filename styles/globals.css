@@ -12,13 +12,6 @@ img {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  -webkit-touch-callout: none; /* iOS Safari */
-  -webkit-user-select: none; /* Safari */
-   -khtml-user-select: none; /* Konqueror HTML */
-     -moz-user-select: none; /* Old versions of Firefox */
-      -ms-user-select: none; /* Internet Explorer/Edge */
-          user-select: none; /* Non-prefixed version, currently
-                                supported by Chrome, Edge, Opera and Firefox */
 }
 
 body {
@@ -28,14 +21,16 @@ body {
 }
 
 h1 {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 28px;
   display: inline-block;
+    text-align: left;
+    max-width: 620px;
 }
 
 h2 {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 100%;
   font-weight: normal;
   line-height: 24px;
@@ -57,10 +52,10 @@ p {
   line-height: 100%;
   font-weight: normal;
   line-height: 22px;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
   max-width: 520px;
   display: inline-block;
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 a {
@@ -93,9 +88,14 @@ div.content {
   text-align: center;
 }
 
+div.intro h1 img {
+    max-width: 256px;
+    margin-bottom: 40px;
+    margin-top: 40px
+}
+
 div.intro h1 {
-  line-height: 150%;
-  margin: 45vh 0;
+    text-align: left
 }
 
 div.intro h1 a {
@@ -194,13 +194,9 @@ div.presentation.indiecampers .row {
 
 div.intro h1 {
   line-height: 180%;
-  margin-top: 200px;
   margin-bottom: 0;
 }
 
-div.intro h1 br {
-  display: none;
-}
 
 div a,
 div.intro h1 a {
