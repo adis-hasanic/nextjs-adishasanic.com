@@ -75,8 +75,8 @@ export default function Home() {
         </div>
 
         <div className="row live">
-          <h2>Engine</h2><br></br>
-          <p>Manage an online store.</p><br></br>
+          <h1>Engine</h1><br></br>
+          <h2>Manage an online store.</h2><br></br>
           <p>Engine was a US-based 5-person startup. I worked with Engine for several months during 2017, working closely with PM/co-founder to design UI and UX of an admin panel where Engine users can manage, track and run their custom online store.</p><br></br>
           <Link href="/engine"><a href="/engine">See more</a></Link><br></br>
           <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img><br></br>
