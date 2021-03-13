@@ -193,8 +193,9 @@ div.presentation.indiecampers .row {
 @media (max-width: 640px){ 
 
 div.intro h1 {
-  line-height: 180%;
+  line-height: 150%;
   margin-bottom: 0;
+    font-size: 16px
 }
 
 
