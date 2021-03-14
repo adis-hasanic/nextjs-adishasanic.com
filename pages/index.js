@@ -50,6 +50,14 @@ export default function Home() {
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty border"></img><br></br>
         </div>
 
+<div className="row live">
+          <h1>Teleport by ZITICITY</h1><br></br>
+          <h2>"Uber for deliveries" prototype for a weekend hackathon.</h2><br></br>
+          <p>On June 2019, I joined CEO and CTO of ZITICITY, a startup from Lithuania offering platform and service for fast local deliveries, at a weekend hackathon in Tallinn, hosted by Garage48 and Superangel, prominent startup hub and VC in Estonia. More than 100 teams applied, 15 teams competed, we won. It led to Superangel investing in ZITICITY.</p><br></br>
+          <Link href="/teleport"><a href="/teleport">See more</a></Link><br></br>
+          <img src="/portfolio/product/teleport/schedule-dropoff/4.jpg" className="twelve-eighty border"></img><br></br>
+        </div>
+
         <div className="row live">
           <h1>Thrive</h1><br></br>
           <h2>Buy a car you want at a dealership nearby.</h2><br></br>
