@@ -89,10 +89,9 @@ div.content {
 }
 
 div.intro h1 img {
-    max-width: 160px;
-    width: 160px;
-    margin-bottom: 40px;
-    margin-top: 40px
+    width: 138px;
+    margin-bottom: 32px;
+    margin-top: 48px
 }
 
 div.intro h1 {
