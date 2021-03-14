@@ -130,9 +130,10 @@ export default function Home() {
           <img src="/portfolio/product/kamcord/livestream/2.png" className="iphone-five"></img><br></br>
         </div>
 
-        <div className="row">
+        <div className="row live">
           <h1>Kamcord.com</h1><br></br>
-          <p>Find gameplays and livestreams, and discover new games.</p><br></br>
+          <h2>Watch gameplays, livestreams and discover new mobile games.</h2><br></br>
+          <p>Kamcord was San Francisco based startup with more than 40 people, backed by YC, Tencent, etc. I was working on Kamcord.com over a period of 4 months (Jun 2015 - Sep 2015), first closely with founders, then under a Senior Designer, who defined product requirements with PM and founders, and assigned me to design UI and UX.</p><br></br>
           <Link href="/kamcord-website"><a href="/kamcord-livestream-watching">See more</a></Link><br></br>
           <img src="/portfolio/product/kamcord/website/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
@@ -142,7 +143,7 @@ export default function Home() {
           <h2>Create a personal website, without coding, in minutes.</h2><br></br>
           <p>Branded.me was a 5-person startup. The product was a result of 2 years (2013 - 2015) of collaboration. In the first year it was called Mobiley and was a mobile website builder, but it was discontinued. Then we designed and built Branded.me, a personal website builder, in 6 months. Within 3 months of launching the product, there was more than 300k websites created by users.</p><br></br>
           <Link href="/brandedme"><a href="/brandedme">See more</a></Link><br></br>
-          <img src="/portfolio/product/brandedme/1.jpg" className="eleven-twenty"></img><br></br>
+          <img src="/portfolio/product/brandedme/1.jpg" className="twelve-eighty"></img><br></br>
         </div>
 
       </div>
