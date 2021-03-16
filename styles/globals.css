@@ -284,20 +284,7 @@ div .row.intro {
 
   .content.index div.row img.iphone-x { width: 42%; }
   .content.index div.row img.iphone-five { width: 42%; }
-
-}
-
-@media (max-width: 640px){ 
-
-div.intro h1 {
-  margin-bottom: 0;
-}
-
-
-div a,
-div.intro h1 a {
-  transition: none !important;
-}
+    
     
     div.first h1 {
     line-height: 150%;
@@ -327,5 +314,20 @@ div.intro h1 a {
     background: #fff;
     font-size: 17px;
 }
+
+}
+
+@media (max-width: 640px){ 
+
+div.intro h1 {
+  margin-bottom: 0;
+}
+
+
+div a,
+div.intro h1 a {
+  transition: none !important;
+}
+    
 
 }
