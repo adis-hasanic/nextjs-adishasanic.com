@@ -21,7 +21,7 @@ export default function Home() {
 
       <div className="content index">
 
-        <div className="first"><h1>I design visual UI and UX within web and mobile.</h1></div>
+        <div className="first"><h1>I design visual UI and UX <br></br>within web and mobile.</h1></div>
         <div className="nav">
             <Link href="/portfolio"><a href="/portfolio">Portfolio</a></Link>
             <Link href="/references"><a href="/references">References</a></Link> 

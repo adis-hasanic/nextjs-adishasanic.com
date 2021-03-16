@@ -167,42 +167,6 @@ div.presentation.indiecampers .row {
 }
 
 
-
-@media (max-width: 960px){ 
-
-  div.presentation {
-    margin-bottom: 60px;
-  }
-
-  div.presentation .row {
-    line-height: 100%;
-    margin: 60px 0 0 0
-  }
-  
-  div.presentation .row img {
-    max-height: none;
-    object-fit: fill;
-  }
-
-  .content.index div.row img.iphone-x { width: 42%; }
-  .content.index div.row img.iphone-five { width: 42%; }
-
-}
-
-@media (max-width: 640px){ 
-
-div.intro h1 {
-  margin-bottom: 0;
-}
-
-
-div a,
-div.intro h1 a {
-  transition: none !important;
-}
-
-}
-
 .references {
     margin-top: 0px;
     margin-bottom: 80px;
@@ -279,6 +243,10 @@ div.first h1 {
     font-size: 19px;
 }
 
+div.first h1 br {
+    display: none;
+}
+
 .nav {
     position: fixed;
     bottom: 0;
@@ -294,4 +262,70 @@ div.first h1 {
 
 div .row.intro {
     margin-top: 0 !important;
+}
+
+
+
+@media (max-width: 960px){ 
+
+  div.presentation {
+    margin-bottom: 60px;
+  }
+
+  div.presentation .row {
+    line-height: 100%;
+    margin: 60px 0 0 0
+  }
+  
+  div.presentation .row img {
+    max-height: none;
+    object-fit: fill;
+  }
+
+  .content.index div.row img.iphone-x { width: 42%; }
+  .content.index div.row img.iphone-five { width: 42%; }
+
+}
+
+@media (max-width: 640px){ 
+
+div.intro h1 {
+  margin-bottom: 0;
+}
+
+
+div a,
+div.intro h1 a {
+  transition: none !important;
+}
+    
+    div.first h1 {
+    line-height: 150%;
+    font-size: 21px;
+        margin-top: 40px;
+        width: 100%;
+}
+    
+    div.first h1 br {
+        display: inline-block;
+    }
+    
+    .nav {
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    z-index: 2;
+}
+
+.nav a {
+    border: none;
+    padding: 0;
+    width: 90%;
+    text-align: left;
+    padding: 22px 5%;
+    border-top: solid 1px #eee;
+    background: #fff;
+    font-size: 17px;
+}
+
 }
