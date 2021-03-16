@@ -291,6 +291,8 @@ div .row.intro {
     font-size: 21px;
         margin-top: 40px;
         width: 100%;
+        display: block;
+        float: left;
 }
     
     div.first h1 br {
