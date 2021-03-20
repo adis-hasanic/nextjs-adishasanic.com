@@ -25,7 +25,7 @@ export default function Home() {
         <div className="nav">
             <Link href="/portfolio"><a href="/portfolio">Portfolio</a></Link>
             <Link href="/references"><a href="/references">References</a></Link> 
-<a href="adishasanic.com/adis-resume.pdf">Resume</a>
+<a href="adis-resume.pdf">Resume</a>
 <a href="https://www.linkedin.com/in/adis-hasanic-3381ab1b8/">LinkedIn</a>
                 <a href="https://adishasanic96.typeform.com/to/IVmKhGC5">Email</a>
                     
