@@ -193,16 +193,18 @@ div.presentation.indiecampers .row {
   min-height: 0;
 }
 .reference p {
-  font-size: 15px;
+  font-size: 19px;
   float: left;
   margin: 0;
   width: 100%;
-    text-align: left
+    text-align: left;
+    line-height: 26px;
+    max-width: 100%;
 }
 .reference .text {
   float: left;
   display: block;
-  width: calc(100% - 180px);
+  width: calc(100% - 140px);
   margin-left: 40px;
 }
 .reference .person {
@@ -225,16 +227,17 @@ div.presentation.indiecampers .row {
   margin-left: 8px;
   opacity: 0.3;
   min-height: 0;
+    margin-top: -1px;
 }
 .reference .person .name {
   float: left;
-  font-size: 15px;
+  font-size: 17px;
 }
 .reference .person .about {
   float: left;
   width: 100%;
   color: #A7A7A7;
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
   margin-top: 5px;
   margin-bottom: 0;
