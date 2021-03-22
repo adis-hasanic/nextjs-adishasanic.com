@@ -86,7 +86,7 @@ div.content {
 }
 
 div.intro h1 img {
-    width: 300px;
+    width: 240px;
     margin-bottom: 32px;
     margin-top: 48px
 }
@@ -186,7 +186,7 @@ div.presentation.indiecampers .row {
 }
 
 .reference > img {
-  width: 96px; 
+  width: 150px; 
   background: none;
   float: left;
   margin: 0;
@@ -204,7 +204,7 @@ div.presentation.indiecampers .row {
 .reference .text {
   float: left;
   display: block;
-  width: calc(100% - 140px);
+  width: calc(100% - 190px);
   margin-left: 40px;
 }
 .reference .person {
