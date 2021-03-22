@@ -26,7 +26,7 @@ export default function Home() {
             <Link href="/portfolio"><a href="/portfolio">Portfolio</a></Link>
             <Link href="/references"><a href="/references">References</a></Link> 
 <a href="Adis-resume.pdf">Resume</a>
-<a href="https://www.linkedin.com/in/adis-hasanic-3381ab1b8/">LinkedIn</a>
+<Link href="/about"><a href="/about">About</a></Link>
                 <a href="https://adishasanic96.typeform.com/to/IVmKhGC5">Email</a>
                     
             </div>
