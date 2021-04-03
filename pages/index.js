@@ -21,12 +21,9 @@ export default function Home() {
 
       <div className="content index">
 
-        <div className="first"><h1>I design visual UI and UX <br></br>within web and mobile.</h1></div>
+        <div className="first"></div>
         <div className="nav">
-            <Link href="/portfolio"><a href="/portfolio">Portfolio</a></Link>
-            <Link href="/references"><a href="/references">References</a></Link> 
-                <Link href="/about"><a href="/about">About</a></Link>
-<a href="Adis-resume.pdf">Resume</a>
+            <Link href="https://www.linkedin.com/in/adis-hasanic/"><a href="/portfolio">LinkedIn</a></Link>
                 <a href="https://adishasanic96.typeform.com/to/IVmKhGC5">Contact</a>
                     
             </div>
