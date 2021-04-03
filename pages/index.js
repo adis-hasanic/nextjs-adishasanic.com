@@ -21,13 +21,6 @@ export default function Home() {
 
       <div className="content index">
 
-        <div className="first"></div>
-        <div className="nav">
-            <Link href="https://www.linkedin.com/in/adis-hasanic/"><a href="/portfolio">LinkedIn</a></Link>
-                <a href="https://adishasanic96.typeform.com/to/IVmKhGC5">Contact</a>
-                    
-            </div>
-
       </div>
 
     </div>
