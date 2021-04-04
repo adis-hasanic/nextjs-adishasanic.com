@@ -1,44 +1,30 @@
-import Head from 'next/head'
-import Link from 'next/link'
+import Menu from '../components/menu'
 
 export default function Home() {
   return (
-
     <div>
-      <Head><title>Typen - Adis Hasanic - Product Designer (UI/UX)</title><link rel="shortcut icon" href="favicon.jpg" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121629290-2');
-  `,
-          }}
-        /></Head>
-
-      <div className="content presentation">
-
+      <Menu />
+      <div className="content">
+      <div className="row">
+          <h1>Typen</h1>
+          <h2>Distraction-free writing app.</h2>
+        </div>
+        <div className="row">
+          <p>In 2017, I founded and designed Typen, a writing app that helps the user focus on creative part of writing by removing distractions and providing customizable look of the app to suit any space, atmosphere, or time.</p>
+        </div>
         <div className="row">
           <img src="/portfolio/product/typen/1.png" className="eleven-ninetysix"></img>
         </div>
-
         <div className="row">
           <img src="/portfolio/product/typen/2.png" className="eleven-ninetysix"></img>
         </div>
-
         <div className="row">
           <img src="/portfolio/product/typen/3.png" className="eleven-ninetysix"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/typen/4.png" className="eleven-ninetysix border"></img>
+          <img src="/portfolio/product/typen/5.png" className="eleven-ninetysix"></img>
         </div>
-
       </div>
-
     </div>
   )
 }

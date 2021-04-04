@@ -1,72 +1,55 @@
-import Head from 'next/head'
-import Link from 'next/link'
+import Menu from '../components/menu'
 
 export default function Home() {
   return (
-
     <div>
-      <Head><title>Branded.me - Adis Hasanic - Product Designer (UI/UX)</title><link rel="shortcut icon" href="favicon.jpg" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121629290-2');
-  `,
-          }}
-        /></Head>
-
-      <div className="content presentation">
-
-      <div className="row no-vh first">
-          <img src="/portfolio/web/brandedme/home.jpg" className="forteen-forty"></img>
+      <Menu />
+      <div className="content">
+      <div className="row">
+          <h1>Branded.me</h1>
+          <h2>Build your personal website without coding.</h2>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/1.jpg" className="eleven-twenty"></img>
+          <p>For 10 months (Aug 2014 - Apr 2015), I was a sole designer at Branded.me in San Francisco. We were building a web platform that makes it quick and easy for anyone to build a personal website. After 6 months of building the product, within 3 months of launch, more than 100k websites were generated and there was an offer for acquisition from Amazon.</p>
         </div>
-
+        <div className="row businesscards">
+          <img src="/portfolio/visual/brandedme/businesscard-front.jpg" className="two-eighty border"></img>
+          <img src="/portfolio/visual/brandedme/businesscard-back.jpg" className="two-eighty border"></img>
+        </div>
         <div className="row">
-          <img src="/portfolio/product/brandedme/2.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/web/brandedme/home.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/3.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/1.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/4.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/2.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/5.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/3.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/6.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/4.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/7.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/5.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/8.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/6.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/9.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/7.jpg" className="twelve-eighty"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/brandedme/10.jpg" className="eleven-twenty"></img>
+          <img src="/portfolio/product/brandedme/8.jpg" className="twelve-eighty"></img>
         </div>
-
+        <div className="row">
+          <img src="/portfolio/product/brandedme/9.jpg" className="twelve-eighty"></img>
+        </div>
+        <div className="row">
+          <img src="/portfolio/product/brandedme/10.jpg" className="twelve-eighty"></img>
+        </div>
       </div>
-
     </div>
   )
 }

@@ -1,152 +1,72 @@
-import Head from 'next/head'
-import Link from 'next/link'
+import Menu from '../components/menu'
 
 export default function Home() {
   return (
-
     <div>
-      <Head><title>Flowdash - Adis Hasanic - Product Designer (UI/UX)</title><link rel="shortcut icon" href="favicon.jpg" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121629290-2');
-  `,
-          }}
-        /></Head>
-
-      <div className="content presentation">
-
+      <Menu />
+      <div className="content">
+      <div className="row">
+          <h1>Flowdash</h1>
+          <h2>Build apps for team workflows without coding.</h2>
+        </div>
         <div className="row">
-          <img src="/portfolio/product/flowdash/signup-1.jpg" className="eleven-twenty border"></img>
+          <p>Flowdash is a YC-backed early-stage startup, based in San Francisco, building a platform that makes it easy to build custom apps for team workflows, without coding. A workflow in Flowdash can be anything from sales team onboarding customers to engineering team tracking bugs.</p>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/signup-2.jpg" className="eleven-twenty border"></img>
+          <p>Since August 2020, on a contract basis remotely, I've designing at Flowdash. I've been working closely with founders of Flowdash, Nick and Omar, on visual interface and user experience, focusing primarily on making it easy for non-tech people to understand how to build a workflow in Flowdash, and to discover all the features and capabilities that they can configure to make any business process run smoothly.</p>
         </div>
-        
         <div className="row">
-          <img src="/portfolio/product/flowdash/signup-3.jpg" className="eleven-twenty border"></img>
+          <p>In November 2020, we launched a completely redesigned version of product, with some new features, and posted it on ProductHunt: it became #2 product of the month, received 2900+ upvotes, positive feedback on product's design, and everyone who tried it was able to go through onboarding and build a workflow on their own.</p>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/dashboard.jpg" className="eleven-twenty border"></img>
+          <p><iframe className="producthunt" src="https://cards.producthunt.com/cards/posts/275215?v=1" height="512" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/table-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/4.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/table-2.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/1.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/table-3.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/2.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/table-4.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/3.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/comments-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/4-1.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/comments-2.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/4-2.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/filters-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/7-1.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/detail-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/7-2.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/detail-2.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/7-3.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/flow-0-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/8.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/flow-0-2.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/5.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/flow-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-1.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/flow-3.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-2.jpg" className="eleven-twenty border"></img>
         </div>
-
         <div className="row">
-          <img src="/portfolio/product/flowdash/settings-1.jpg" className="eleven-twenty border"></img>
+          <img src="/portfolio/product/flowdash/6-3.jpg" className="eleven-twenty border"></img>
         </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/settings-2.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/settings-3.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/collaborators-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/permissions-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/timers-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/analytics.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/notifications-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/allassigned-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/allassigned-2.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/errors-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/trial-expired-1.jpg" className="eleven-twenty border"></img>
-        </div>
-
-        <div className="row no-vh">
-          <img src="/portfolio/product/flowdash/trial-expired-2.jpg" className="eleven-twenty border"></img>
-        </div>
-
       </div>
-
     </div>
   )
 }
