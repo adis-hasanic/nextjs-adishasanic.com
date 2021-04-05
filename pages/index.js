@@ -70,9 +70,13 @@ export default function Home() {
           <img src="/portfolio/product/teleport/schedule-dropoff/1.jpg" className="twelve-eighty"></img>
         </div>
 
-        <div className="row">
-          <img src="/portfolio/product/thrive/5/1.png" className="iphone-x"></img>
-        </div>
+        <Link href="thrive">
+          <a href="thrive">
+            <div className="row">
+              <img src="/portfolio/product/thrive/5/1.png" className="iphone-x"></img>
+            </div>
+          </a>
+        </Link>
 
         <div className="row">
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
