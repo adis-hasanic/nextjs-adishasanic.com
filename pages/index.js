@@ -84,10 +84,10 @@ export default function Home() {
 
         <Link href="portal">
           <a href="portal">
-        <div className="row">
-          <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
-        </div>
-        </a>
+            <div className="row">
+              <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
         </Link>
 
         <Link href="indiecampers">
@@ -98,9 +98,13 @@ export default function Home() {
           </a>
         </Link>
 
-        <div className="row">
-          <img src="/portfolio/web/tides/preview.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="tides">
+          <a href="tides">
+            <div className="row">
+              <img src="/portfolio/web/tides/preview.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
         <div className="row">
           <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img>
