@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-       <Head><title>Adis Hasanic - Interface Designer</title>
+      <Head><title>Adis Hasanic - Interface Designer</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -25,28 +25,44 @@ export default function Home() {
             <div className="name">Adis Hasanić</div>
             <div className="about">Interface Designer</div>
             <div className="icons-container">
-            <div className="icons">
-              <a href="https://www.linkedin.com/in/adis-hasanic/" className="linkedin"><img src="linkedin.svg"></img></a>
-              <a href="https://adishasanic96.typeform.com/to/IVmKhGC5" className="message"><img src="message.svg"></img></a>
-            </div>
+              <div className="icons">
+                <a href="https://www.linkedin.com/in/adis-hasanic/" className="linkedin"><img src="linkedin.svg"></img></a>
+                <a href="https://adishasanic96.typeform.com/to/IVmKhGC5" className="message"><img src="message.svg"></img></a>
+              </div>
             </div>
           </div>
         </div>
 
+        <Link href="flowdash">
+          <a href="flowdash">
         <div className="row">
           <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty"></img>
         </div>
-
-          <Link href="teamscope-website-2020">
-            <a href="teamscope-website-2020">
-        <div className="row">
-          <img src="/portfolio/web/teamscope-2020/preview.jpg" className="twelve-eighty"></img>
-        </div>
-           </a>
+        </a>
         </Link>
 
         <div className="row">
-          <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty"></img>
+          <img src="/portfolio/product/stacker/3/2.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <Link href="teamscope-website-2020">
+          <a href="teamscope-website-2020">
+            <div className="row">
+              <img src="/portfolio/web/teamscope-2020/preview.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
+
+        <div className="row">
+          <img src="/portfolio/product/teamscope/preview.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/teleport/schedule-dropoff/1.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/thrive/5/1.png" className="iphone-x"></img>
         </div>
 
         <div className="row">
@@ -54,7 +70,39 @@ export default function Home() {
         </div>
 
         <div className="row">
+          <img src="/portfolio/product/indiecampers/preview.png" className="iphone-5"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/web/tides/preview.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
           <img src="/portfolio/product/liftigniter/8.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/typen/2.png" className="eleven-ninetysix"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/foodmunk/3/1.png" className="iphone-5"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/kamcord/livestream/3.png" className="iphone-5"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/kamcord/broadcasting/4.png" className="android-landscape"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/brandedme/2.jpg" className="twelve-eighty"></img>
         </div>
 
       </div>
