@@ -75,7 +75,7 @@ export default function Home() {
         </div>
 
         <div className="row">
-          <img src="/portfolio/product/portal/1/1.jpg" className="twelve-eighty"></img>
+          <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
         </div>
 
         <div className="row">
