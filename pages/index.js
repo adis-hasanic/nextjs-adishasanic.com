@@ -35,15 +35,20 @@ export default function Home() {
 
         <Link href="flowdash">
           <a href="flowdash">
-        <div className="row">
-          <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty"></img>
-        </div>
-        </a>
+            <div className="row">
+              <img src="/portfolio/product/flowdash/flow-2.jpg" className="eleven-twenty"></img>
+            </div>
+          </a>
         </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/stacker/1/4.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="stacker">
+          <a href="stacker">
+            <div className="row">
+              <img src="/portfolio/product/stacker/1/4.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
+
 
         <Link href="teamscope-website-2020">
           <a href="teamscope-website-2020">
