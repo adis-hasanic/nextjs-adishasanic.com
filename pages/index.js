@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className="row intro">
           <div>
-            <div className="name">Adis Hasanic</div>
+            <div className="name">Adis Hasanić</div>
             <div className="about">Interface Designer</div>
             <div className="icons-container">
             <div className="icons">
