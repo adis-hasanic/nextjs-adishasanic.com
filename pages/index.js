@@ -42,7 +42,7 @@ export default function Home() {
         </Link>
 
         <div className="row">
-          <img src="/portfolio/product/stacker/3/2.jpg" className="twelve-eighty"></img>
+          <img src="/portfolio/product/stacker/1/4.jpg" className="twelve-eighty"></img>
         </div>
 
         <Link href="teamscope-website-2020">
@@ -91,6 +91,10 @@ export default function Home() {
 
         <div className="row">
           <img src="/portfolio/product/foodmunk/3/1.png" className="iphone-5"></img>
+        </div>
+
+        <div className="row">
+          <img src="/portfolio/product/kamcord/website/1.jpg" className="twelve-eighty"></img>
         </div>
 
         <div className="row">
