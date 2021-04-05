@@ -37,6 +37,10 @@ export default function Home() {
         </div>
 
         <div className="row">
+          <img src="/portfolio/web/teamscope-2020/preview.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
           <img src="/portfolio/product/teamscope/1/2.jpg" className="twelve-eighty"></img>
         </div>
 

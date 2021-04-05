@@ -45,13 +45,15 @@ a {
   width: 100%;
   text-align: center;
   float: left;
-  height: 112vh;
+  margin-bottom: 320px;
 }
 
 .content .row.intro {
   display: block;
   float: left;
   width: 100%;
+  height: 100vh;
+  margin-bottom: 80px;
 }
 
 .content .row.intro > div {
@@ -196,6 +198,12 @@ img.forteen-forty {
   .content .row {
     height: auto;
     margin-top: 80px;
+    margin-bottom: 0;
+  }
+
+  .content .row.intro {
+    height: auto;
+    margin-bottom: 0;
   }
 
   .content .row.intro > div {
