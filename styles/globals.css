@@ -40,12 +40,17 @@ a {
   float: right;
 }
 
+.content link img {
+  cursor: pointer;
+}
+
 .content .row {
   display: block;
   width: 100%;
   text-align: center;
   float: left;
-  margin-bottom: 320px;
+  margin-bottom: 240px;
+  margin-top: 80px;
 }
 
 .content .row.intro {
