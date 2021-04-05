@@ -86,9 +86,13 @@ export default function Home() {
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
         </div>
 
-        <div className="row">
-          <img src="/portfolio/product/indiecampers/preview.png" className="iphone-5"></img>
-        </div>
+        <Link href="indiecampers">
+          <a href="indiecampers">
+            <div className="row">
+              <img src="/portfolio/product/indiecampers/preview.png" className="iphone-5"></img>
+            </div>
+          </a>
+        </Link>
 
         <div className="row">
           <img src="/portfolio/web/tides/preview.jpg" className="twelve-eighty"></img>
