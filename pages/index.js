@@ -66,9 +66,13 @@ export default function Home() {
           </a>
         </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/teleport/schedule-dropoff/1.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="teleport">
+          <a href="teleport">
+            <div className="row">
+              <img src="/portfolio/product/teleport/schedule-dropoff/1.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
         <Link href="thrive">
           <a href="thrive">
