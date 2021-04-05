@@ -82,9 +82,13 @@ export default function Home() {
           </a>
         </Link>
 
+        <Link href="portal">
+          <a href="portal">
         <div className="row">
           <img src="/portfolio/product/portal/2/1.jpg" className="twelve-eighty"></img>
         </div>
+        </a>
+        </Link>
 
         <Link href="indiecampers">
           <a href="indiecampers">
