@@ -33,14 +33,6 @@ export default function Home() {
           </div>
         </div>
 
-        <Link href="impruva">
-          <a href="impruva">
-            <div className="row">
-              <img src="/portfolio/web/impruva/1.jpg" className="twelve-eighty"></img>
-            </div>
-          </a>
-        </Link>
-
         <Link href="flowdash">
           <a href="flowdash">
             <div className="row">
