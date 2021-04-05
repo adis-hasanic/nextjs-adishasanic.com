@@ -90,6 +90,10 @@ export default function Home() {
         </div>
 
         <div className="row">
+          <img src="/portfolio/product/helpjuice/4.jpg" className="twelve-eighty"></img>
+        </div>
+
+        <div className="row">
           <img src="/portfolio/product/foodmunk/3/1.png" className="iphone-5"></img>
         </div>
 
