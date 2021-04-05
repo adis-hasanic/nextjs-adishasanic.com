@@ -58,9 +58,13 @@ export default function Home() {
           </a>
         </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/teamscope/preview.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="teamscope">
+          <a href="teamscope">
+            <div className="row">
+              <img src="/portfolio/product/teamscope/preview.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
         <div className="row">
           <img src="/portfolio/product/teleport/schedule-dropoff/1.jpg" className="twelve-eighty"></img>
