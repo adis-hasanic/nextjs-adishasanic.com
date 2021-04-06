@@ -125,9 +125,13 @@ export default function Home() {
           <img src="/portfolio/product/kamcord/website/1.jpg" className="twelve-eighty"></img>
         </div>
 
-        <div className="row">
-          <img src="/portfolio/product/kamcord/livestream/3.png" className="iphone-5"></img>
-        </div>
+        <Link href="kamcord-livestream-watching">
+          <a href="kamcord-livestream-watching">
+            <div className="row">
+              <img src="/portfolio/product/kamcord/livestream/3.png" className="iphone-5"></img>
+            </div>
+          </a>
+        </Link>
 
         <Link href="kamcord-livestream-broadcasting">
           <a href="kamcord-livestream-broadcasting">
