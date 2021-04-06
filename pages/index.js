@@ -89,17 +89,29 @@ export default function Home() {
           </a>
         </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="engine">
+          <a href="engine">
+            <div className="row">
+              <img src="/portfolio/product/engine/2.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/liftigniter/8.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="liftigniter">
+          <a href="liftigniter">
+            <div className="row">
+              <img src="/portfolio/product/liftigniter/8.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/typen/2.png" className="eleven-ninetysix"></img>
-        </div>
+        <Link href="typen">
+          <a href="typen">
+            <div className="row">
+              <img src="/portfolio/product/typen/2.png" className="eleven-ninetysix"></img>
+            </div>
+          </a>
+        </Link>
 
         <div className="row">
           <img src="/portfolio/product/helpjuice/4.jpg" className="twelve-eighty"></img>
@@ -117,13 +129,21 @@ export default function Home() {
           <img src="/portfolio/product/kamcord/livestream/3.png" className="iphone-5"></img>
         </div>
 
-        <div className="row">
-          <img src="/portfolio/product/kamcord/broadcasting/4.png" className="android-landscape"></img>
-        </div>
+        <Link href="kamcord-livestream-broadcasting">
+          <a href="kamcord-livestream-broadcasting">
+            <div className="row">
+              <img src="/portfolio/product/kamcord/broadcasting/4.png" className="android-landscape"></img>
+            </div>
+          </a>
+        </Link>
 
-        <div className="row">
-          <img src="/portfolio/product/brandedme/2.jpg" className="twelve-eighty"></img>
-        </div>
+        <Link href="brandedme">
+          <a href="brandedme">
+            <div className="row">
+              <img src="/portfolio/product/brandedme/2.jpg" className="twelve-eighty"></img>
+            </div>
+          </a>
+        </Link>
 
       </div>
     </div>
