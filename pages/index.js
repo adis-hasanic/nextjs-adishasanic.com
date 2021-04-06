@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <Head><title>Adis Hasanic - Interface Designer</title>
+      <Head><title>Adis Hasanic - Product Designer</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -22,8 +22,8 @@ export default function Home() {
 
         <div className="row intro">
           <div>
-            <div className="name">Adis Hasanić</div>
-            <div className="about">Interface Designer</div>
+            <div className="name">Adis Hasanic</div>
+            <div className="about">Product Designer</div>
             <div className="icons-container">
               <div className="icons">
                 <a href="https://www.linkedin.com/in/adis-hasanic/" className="linkedin"><img src="linkedin.svg"></img></a>
@@ -45,15 +45,6 @@ export default function Home() {
           <a href="stacker">
             <div className="row">
               <img src="/portfolio/product/stacker/1/4.jpg" className="twelve-eighty"></img>
-            </div>
-          </a>
-        </Link>
-
-
-        <Link href="teamscope-website-2020">
-          <a href="teamscope-website-2020">
-            <div className="row">
-              <img src="/portfolio/web/teamscope-2020/preview.jpg" className="twelve-eighty"></img>
             </div>
           </a>
         </Link>
@@ -94,14 +85,6 @@ export default function Home() {
           <a href="indiecampers">
             <div className="row">
               <img src="/portfolio/product/indiecampers/preview.png" className="iphone-5"></img>
-            </div>
-          </a>
-        </Link>
-
-        <Link href="tides">
-          <a href="tides">
-            <div className="row">
-              <img src="/portfolio/web/tides/preview.jpg" className="twelve-eighty"></img>
             </div>
           </a>
         </Link>
