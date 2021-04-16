@@ -134,6 +134,10 @@ div {
   opacity: 0.6;
 }
 
+.work .arrows div.active img:hover {
+  opacity: 0.2;
+}
+
 .arrows-mobile {
   background: #121213;
   width: 100%;
