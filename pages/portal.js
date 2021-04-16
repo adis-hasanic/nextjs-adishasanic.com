@@ -32,14 +32,14 @@ export default function Home() {
         <div className="font-300-bold title">Portal</div>
         <div className="font-100 description">All-in-one platform for everyone to store, transfer, exchange and convert cryptocurrencies and tune into the future of decentralized finance.</div>
         <div className="arrows">
-        <Link href="teamscope"><div><img src="arrow-left-web.svg"></img></div></Link>
+        <Link href="/"><div><img src="arrow-left-web.svg"></img></div></Link>
           <Link href=""><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="teamscope"><div><img src="arrow-left-mobile.svg"></img></div></Link>
+      <Link href="/"><div><img src="arrow-left-mobile.svg"></img></div></Link>
           <Link href=""><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
