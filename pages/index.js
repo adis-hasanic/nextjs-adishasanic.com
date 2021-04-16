@@ -54,7 +54,7 @@ export default function Home() {
       <div><img src="portfolio/product/flowdash/7-1.jpg"></img></div>
       <div><img src="portfolio/product/flowdash/7-2.jpg"></img></div>
       <div><img src="portfolio/product/flowdash/7-3.jpg"></img></div>
-      <div><img src="portfolio/product/flowdash/6-2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/8.jpg"></img></div>
         <div><img src="portfolio/product/flowdash/6.jpg"></img></div>
         <div><img src="portfolio/product/flowdash/6-1.jpg"></img></div>
         <div><img src="portfolio/product/flowdash/6-2.jpg"></img></div>
