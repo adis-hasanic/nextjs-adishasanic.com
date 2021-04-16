@@ -1,19 +1,10 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import { useRouter } from "next/router"
-import Login from "../components/Login"
 
-export default function Protected({ hasReadPermission }) {
-
-  const router = useRouter()
-
-  if (!hasReadPermission) {
-    return <Login redirectPath={router.asPath} />
-  }
-
+export default function Home() {
   return (
     <div>
-      <Head><title>Teamscope</title>
+      <Head><title>Adis Hasanic - UX and UI Designer</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -26,113 +17,43 @@ export default function Protected({ hasReadPermission }) {
   `,
           }}
         /></Head>
+      <div className="me">
+        <div>
+        <div className="font-200-bold">Adis Hasanic</div>
+        <div className="font-100">UX and UI Designer</div>
+        <div className="icons">
+          <div><a href="https://www.linkedin.com/in/adis-hasanic/"><img src="linkedin.svg"></img></a></div>
+          <div><a href="https://adishasanic96.typeform.com/to/IVmKhGC5"><img src="email.svg"></img></a></div>
+        </div>
+        </div>
+      </div>
+      <div className="work">
+        <div>
+        <div className="font-300-bold title">Teamscope</div>
+        <div className="font-100 description">Web platform that helps companies learn about their people’s personality, values and competenices, to make better decisions in hiring, teambuilding and employee onboarding.</div>
+        <div className="arrows">
+        <Link href=""><div><img src="arrow-left-web.svg"></img></div></Link>
+          <Link href="portal"><div><img src="arrow-right-web.svg"></img></div></Link>
+        </div>
+        </div>
+      </div>
 
-      <div className="page teamscope">
-
-      <div className="arrow-left"><img src="arrow-left.svg"></img></div>
-      <Link href="stacker"><div className="arrow-right"><img src="arrow-right.svg"></img></div></Link>
-
-        <div className="section">
-          <div className="content text">
-          <br></br>
-          <br></br>
-            <h1>Teamscope</h1>
-            <br></br>
-          </div>
+      <div className="arrows-mobile">
+      <Link href=""><div><img src="arrow-left-mobile.svg"></img></div></Link>
+          <Link href="portal"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
-        <div className="section">
-          <div className="content text">
-            <p>During that time, Teamscope (teamscope.io) was an early-stage startup with less than 10 people. Backed by TechStars, SAP, BlackPearls and Jaan Tallinn (co-founder of Skype).</p>
-            <br></br>
-            <br></br>
-            <br></br>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/team-photo.jpg" className="photo"></img>
-            
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content text">
-          <br></br>
-          <br></br>
-          <br></br>
-            <h2>Product</h2>
-            <br></br>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content text">
-            <p>Designed UX and UI of a mobile-friendly web app that collects data about people's characteristics (personality, values and competencies) to help companies make better decisions in hiring, teambuilding and employee onboarding.</p>
-            <br></br>
-            <br></br>
-            <br></br>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/product/1/1.jpg"></img>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/product/1/2.jpg"></img>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/product/1/3.jpg"></img>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/product/1/4.jpg"></img>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content text">
-          <br></br>
-          <br></br>
-          <br></br>
-            <h2>Website</h2>
-            <br></br>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content text">
-            <p>Designed and developed the marketing website on 2 occassions. From content strategy (in collaboration with founders and PM) and copywriting to visual design and HTML/CSS. Increased bookings of demo from 5 to 30 avg. per month.</p>
-            <br></br>
-            <br></br>
-            <br></br>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/website/home.jpg"></img>
-          </div>
-        </div>
-
-        <div className="section">
-          <div className="content">
-            <img src="portfolio/teamscope/website/bookademo.jpg"></img>
-          </div>
-        </div>
-
-      </div >
-
-    </div >
+      <div className="presentation twelve-eighty">
+        <div><img src="portfolio/product/teamscope/1/1.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/1/2.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/1/4.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/2/1.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/3/2.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/3/3.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/3/4.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/4/1.jpg"></img></div>
+        <div><img src="portfolio/product/teamscope/4/2.jpg"></img></div>
+      </div>
+    </div>
   )
 }
