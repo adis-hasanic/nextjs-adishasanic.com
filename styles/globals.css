@@ -119,6 +119,11 @@ div {
   margin-right: 6px;
 }
 
+.work .arrows div.inactive img {
+  opacity: 0.2;
+  cursor: default;
+}
+
 .work .arrows div img {
   opacity: 0.4;
   cursor: pointer;
@@ -148,6 +153,11 @@ div {
 .arrows-mobile > div img {
   margin-top: 20px;
   opacity: 0.6;
+}
+
+.arrows-mobile > div.inactive img {
+  opacity: 0.2;
+  cursor: default;
 }
 
 .presentation {
