@@ -29,30 +29,36 @@ export default function Home() {
       </div>
       <div className="work">
         <div>
-        <div className="font-300-bold title">Teamscope</div>
-        <div className="font-100 description">Web platform that helps companies learn about their people’s personality, values and competenices, to make better decisions in hiring, teambuilding and employee onboarding.</div>
+        <div className="font-300-bold title">Flowdash</div>
+        <div className="font-100 description">Enabling anyone to prepare a workflow for any size of team and any complexity of a business process.</div>
         <div className="arrows">
         <Link href=""><div className="inactive"><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="portal"><div><img src="arrow-right-web.svg"></img></div></Link>
+          <Link href="teamscope"><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
       <Link href=""><div className="inactive"><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="portal"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="teamscope"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
       <div className="presentation twelve-eighty">
-        <div><img src="portfolio/product/teamscope/1/1.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/1/2.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/1/4.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/2/1.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/3/2.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/3/3.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/3/4.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/4/1.jpg"></img></div>
-        <div><img src="portfolio/product/teamscope/4/2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/5.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/3.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4-1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4-2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-3.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/6-2.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-1.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-2.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-3.jpg"></img></div>
       </div>
     </div>
   )
