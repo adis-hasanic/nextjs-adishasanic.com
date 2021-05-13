@@ -48,6 +48,7 @@ export default function Home() {
       <div className="presentation twelve-eighty">
       <div><img src="portfolio/product/stacker-2021/app-1.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-2.jpg"></img></div>
+          <div><img src="portfolio/product/stacker-2021/app-3.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-settings-1.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-settings-2.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-settings-3.jpg"></img></div>
