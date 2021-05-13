@@ -20,7 +20,7 @@ export default function Home() {
       <div className="me">
         <div>
         <div className="font-200-bold">Adis Hasanic</div>
-        <div className="font-100">UX and UI Designer</div>
+        <div className="font-100">UX, UI, Web and Visual</div>
         <div className="icons">
         <div><a href="https://www.linkedin.com/in/adis-hasanic/"><img src="linkedin.svg"></img></a></div>
           <div><a href="https://adishasanic96.typeform.com/to/IVmKhGC5"><img src="email.svg"></img></a></div>
