@@ -30,7 +30,7 @@ export default function Home() {
       <div className="work">
         <div>
         <div className="font-300-bold title">Teamscope</div>
-        <div className="font-100 description">Web platform that helps companies learn about their people’s personality, values and competenices, to make better decisions in hiring, teambuilding and employee onboarding.</div>
+        <div className="font-100 description">Learn about personality, values and competenices, to make better decisions in hiring, teambuilding and employee onboarding.</div>
         <div className="arrows">
         <Link href="stacker"><div ><img src="arrow-left-web.svg"></img></div></Link>
           <Link href="portal"><div><img src="arrow-right-web.svg"></img></div></Link>

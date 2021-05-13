@@ -30,7 +30,7 @@ export default function Home() {
       <div className="work">
         <div>
         <div className="font-300-bold title">Stacker</div>
-        <div className="font-100 description">Makes it easy for anyone to create apps without coding — focusing on custom business software (for CRM, Project Management, etc.) based on existing data in connected data sources (from Airtable, Google Sheets, etc.)</div>
+        <div className="font-100 description">Create business software without coding, based on existing data in connected data sources (Airtable, Google Sheets, etc.)</div>
         <div className="arrows">
         <Link href=""><div className="inactive"><img src="arrow-left-web.svg"></img></div></Link>
           <Link href="flowdash"><div><img src="arrow-right-web.svg"></img></div></Link>

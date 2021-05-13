@@ -30,7 +30,7 @@ export default function Home() {
       <div className="work">
         <div>
         <div className="font-300-bold title">Flowdash</div>
-        <div className="font-100 description">Enabling anyone to prepare a workflow for any size of team and any complexity of a business process.</div>
+        <div className="font-100 description">Prepare a workflow or business process for a team of any size.</div>
         <div className="arrows">
         <Link href="/"><div><img src="arrow-left-web.svg"></img></div></Link>
           <Link href="stacker"><div><img src="arrow-right-web.svg"></img></div></Link>
