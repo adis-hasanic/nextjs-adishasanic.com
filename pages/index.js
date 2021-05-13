@@ -40,7 +40,7 @@ export default function Home() {
 
       <div className="arrows-mobile">
       <Link href=""><div className="inactive"><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="stacker"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="flowdash"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
       <div className="presentation twelve-eighty">
