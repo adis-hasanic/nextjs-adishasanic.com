@@ -54,6 +54,9 @@ export default function Home() {
       <div><img src="portfolio/product/stacker-2021/app-settings-3.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-settings-4.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/app-settings-5.jpg"></img></div>
+          <div><img src="portfolio/product/stacker-2021/app-settings-6.jpg"></img></div>
+              <div><img src="portfolio/product/stacker-2021/app-settings-7.jpg"></img></div>
+                  <div><img src="portfolio/product/stacker-2021/app-settings-8.jpg"></img></div>
       <div><img src="portfolio/product/stacker-2021/profile-settings-1.jpg"></img></div>
       </div>
     </div>
