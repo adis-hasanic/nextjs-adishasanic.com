@@ -41,7 +41,7 @@ export default function Home() {
 
       <div className="arrows-mobile">
       <Link href="portal"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="foodmunk"><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="foodmunk"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
       <div className="presentation twelve-eighty">
