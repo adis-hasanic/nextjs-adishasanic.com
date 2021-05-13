@@ -45,6 +45,8 @@ export default function Home() {
         </div>
 
       <div className="presentation twelve-eighty">
+      <div><img src="portfolio/web/teamscope-2020/home.jpg"></img></div>
+      <div><img src="portfolio/web/teamscope-2020/bookademo.jpg"></img></div>
         <div><img src="portfolio/product/teamscope/1/1.jpg"></img></div>
         <div><img src="portfolio/product/teamscope/1/2.jpg"></img></div>
         <div><img src="portfolio/product/teamscope/1/4.jpg"></img></div>
