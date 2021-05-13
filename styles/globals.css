@@ -192,6 +192,10 @@ div {
   max-width: 960px;
 }
 
+.iphone-five img {
+  max-width: 30%;
+    margin: 0 1%;
+}
 
 @media (max-width: 800px){
 

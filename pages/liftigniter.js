@@ -33,14 +33,14 @@ export default function Home() {
         <div className="font-100 description">Setup and dashboard of an API that learns about users to suggest the most accurate content.</div>
         <div className="arrows">
         <Link href="portal"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-web.svg"></img></div></Link>
+          <Link href="foodmunk"><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
       <Link href="portal"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="foodmunk"><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
       <div className="presentation twelve-eighty">
