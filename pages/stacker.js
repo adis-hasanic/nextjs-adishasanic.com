@@ -32,14 +32,14 @@ export default function Home() {
         <div className="font-300-bold title">Stacker</div>
         <div className="font-100 description">Enabling anyone to create apps without coding, focusing on making it easy to turn spreadsheets into workspaces and apps with customizable layouts, configurable permissions, etc.</div>
         <div className="arrows">
-        <Link href="/"><div><img src="arrow-left-web.svg"></img></div></Link>
+        <Link href="flowdash"><div><img src="arrow-left-web.svg"></img></div></Link>
           <Link href="teamscope"><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="/"><div><img src="arrow-left-mobile.svg"></img></div></Link>
+      <Link href="flowdash"><div><img src="arrow-left-mobile.svg"></img></div></Link>
           <Link href="teamscope"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 

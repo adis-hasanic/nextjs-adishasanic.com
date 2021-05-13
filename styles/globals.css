@@ -44,22 +44,22 @@ div {
 .font-300-bold {
   font-family: Acumin-Pro-Bold, sans-serif; 
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: -0.5px;
 }
 
 .font-200-bold {
   font-family: Acumin-Pro-Bold, sans-serif; 
   font-weight: bold;
-  font-size: 13px;
+  font-size: 16px;
   letter-spacing: -0.4px;
-  line-height: 19px;
+  line-height: 24px;
 }
 
 .font-100 {
   font-family: Acumin-Pro, sans-serif;
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 14px;
+  line-height: 19px;
 }
 
 .me {
@@ -189,7 +189,7 @@ div {
 }
 
 .twelve-eighty img {
-  max-width: 880px;
+  max-width: 960px;
 }
 
 

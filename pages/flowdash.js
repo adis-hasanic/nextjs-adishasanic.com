@@ -29,11 +29,11 @@ export default function Home() {
       </div>
       <div className="work">
         <div>
-        <div className="font-300-bold title">Stacker</div>
-        <div className="font-100 description">Makes it easy for anyone to create apps without coding — focusing on custom business software (for CRM, Project Management, etc.) based on existing data in connected data sources (from Airtable, Google Sheets, etc.)</div>
+        <div className="font-300-bold title">Flowdash</div>
+        <div className="font-100 description">Enabling anyone to prepare a workflow for any size of team and any complexity of a business process.</div>
         <div className="arrows">
-        <Link href=""><div className="inactive"><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="flowdash"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="/"><div><img src="arrow-left-web.svg"></img></div></Link>
+          <Link href="stacker"><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
@@ -44,14 +44,21 @@ export default function Home() {
         </div>
 
       <div className="presentation twelve-eighty">
-      <div><img src="portfolio/product/stacker-2021/app-1.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-2.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-settings-1.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-settings-2.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-settings-3.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-settings-4.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/app-settings-5.jpg"></img></div>
-      <div><img src="portfolio/product/stacker-2021/profile-settings-1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/5.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/3.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4-1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/4-2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-1.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-2.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/7-3.jpg"></img></div>
+      <div><img src="portfolio/product/flowdash/8.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-1.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-2.jpg"></img></div>
+        <div><img src="portfolio/product/flowdash/6-3.jpg"></img></div>
       </div>
     </div>
   )
