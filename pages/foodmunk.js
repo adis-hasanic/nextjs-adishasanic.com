@@ -34,14 +34,14 @@ export default function Home() {
         <div className="font-100 description">Find the healthiest meal nearby and stay on track of eating healthy.</div>
         <div className="arrows">
         <Link href="typen"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-web.svg"></img></div></Link>
+          <Link href="kamcord"><div><img src="arrow-right-web.svg"></img></div></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
       <Link href="typen"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="kamcord"><div><img src="arrow-right-mobile.svg"></img></div></Link>
         </div>
 
       <div className="presentation iphone-five">

@@ -190,11 +190,16 @@ border-radius: 5px;
 }
 
 .twelve-eighty img {
-  max-width: 960px;
+  max-width: 960px !important;
 }
 
 .iphone-five img {
   max-width: 30%;
+    margin: 0 1%;
+}
+
+.android-landscape img {
+  max-width: 801px;
     margin: 0 1%;
 }
 
