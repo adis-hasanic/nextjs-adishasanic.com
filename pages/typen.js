@@ -50,7 +50,6 @@ export default function Home() {
       <div><img src="portfolio/product/typen/3.png"></img></div>
       <div><img src="portfolio/product/typen/4.png"></img></div>
       <div><img src="portfolio/product/typen/5.png"></img></div>
-      <div><img src="portfolio/product/typen/customization.gif"></img></div>
       <div><img src="portfolio/product/typen/focus.gif"></img></div>
       </div>
     </div>
