@@ -35,14 +35,14 @@ export default function Home() {
         <div className="font-100 description">Create business software without coding, based on existing data in connected data sources (Airtable, Google Sheets, etc.)</div>
         <div className="arrows">
         <Link href=""><div className="inactive"><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="flowdash"><div><img src="arrow-right-web.svg"></img></div></Link>
+          <Link href="flowdash"><a href="flowdash"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
       <Link href=""><div className="inactive"><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="flowdash"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+          <Link href="flowdash"><a href="flowdash"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation twelve-eighty">

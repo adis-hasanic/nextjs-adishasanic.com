@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">Flowdash</div>
         <div className="font-100 description">Prepare a workflow or business process for a team of any size.</div>
         <div className="arrows">
-        <Link href="/"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="stacker"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="/"><a href="/"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href="stacker"><a href="stacker"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="/"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="stacker"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="/"><a href="/"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="stacker"><a href="stacker"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation twelve-eighty">

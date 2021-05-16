@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">Amigos</div>
         <div className="font-100 description">Find a vehicle which you want, need and can afford, and negotiate the purchase with a dealership nearby.</div>
         <div className="arrows">
-        <Link href="teamscope"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="indiecampers"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="teamscope"><a href="teamscope"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href="indiecampers"><a href="indiecampers"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="teamscope"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="indiecampers"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="teamscope"><a href="teamscope"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="indiecampers"><a href="indiecampers"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation iphone-five">

@@ -40,8 +40,8 @@ export default function Home() {
       </div>
 
       <div className="arrows-mobile">
-      <Link href="flowdash"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="teamscope"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="flowdash"><a href="flowdash"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="teamscope"><a href="teamscope"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation twelve-eighty">
