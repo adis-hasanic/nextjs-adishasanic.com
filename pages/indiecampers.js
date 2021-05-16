@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">IndieCampers</div>
         <div className="font-100 description">Book a campervan for a trip, using a mobile website.</div>
         <div className="arrows">
-        <Link href="amigos"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="portal"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="amigos"><a href="amigos"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href="portal"><a href="portal"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="amigos"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="portal"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="amigos"><a href="amigos"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="portal"><a href="portal"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation three-twenty">
