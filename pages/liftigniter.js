@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">LiftIgniter</div>
         <div className="font-100 description">Setup and dashboard of an API that learns about users to suggest the most accurate content.</div>
         <div className="arrows">
-        <Link href="portal"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="typen"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="portal"><a href="portal"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href="typen"><a href="typen"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="portal"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="typen"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="portal"><a href="portal"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="typen"><a href="typen"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation twelve-eighty">

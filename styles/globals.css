@@ -147,19 +147,25 @@ div {
   display: none;
 }
 
-.arrows-mobile > div {
+.arrows-mobile div {
+  display: inline-block !important;
+    float: none !important;
+}
+
+
+.arrows-mobile > a {
   float: left;
   width: 50%;
   text-align: center;
   height: 64px;
 }
 
-.arrows-mobile > div img {
+.arrows-mobile div img {
   margin-top: 20px;
   opacity: 0.6;
 }
 
-.arrows-mobile > div.inactive img {
+.arrows-mobile div.inactive img {
   opacity: 0.2;
   cursor: default;
 }

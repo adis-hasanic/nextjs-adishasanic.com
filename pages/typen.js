@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">Typen</div>
         <div className="font-100 description">Writing app that removes the distractions with a focus mode and customization capabilities that make it easy to get the typewriter that fits any space or subject material.</div>
         <div className="arrows">
-        <Link href="liftigniter"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href="foodmunk"><div><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="liftigniter"><a href="liftigniter"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href="foodmunk"><a href="foodmunk"><div><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="liftigniter"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href="foodmunk"><div><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="liftigniter"><a href="liftigniter"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href="foodmunk"><a href="portal"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation twelve-eighty">

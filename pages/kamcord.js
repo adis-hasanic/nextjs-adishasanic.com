@@ -33,15 +33,15 @@ export default function Home() {
         <div className="font-300-bold title">Kamcord</div>
         <div className="font-100 description">Watch, record and host gameplays and livestreams of mobile games, connect with gamers and discover new mobile games.</div>
         <div className="arrows">
-        <Link href="foodmunk"><div><img src="arrow-left-web.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-web.svg"></img></div></Link>
+        <Link href="foodmunk"><a href="foodmunk"><div><img src="arrow-left-web.svg"></img></div></a></Link>
+          <Link href=""><a><div className="inactive"><img src="arrow-right-web.svg"></img></div></a></Link>
         </div>
         </div>
       </div>
 
       <div className="arrows-mobile">
-      <Link href="foodmunk"><div><img src="arrow-left-mobile.svg"></img></div></Link>
-          <Link href=""><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></Link>
+      <Link href="foodmunk"><a href="foodmunk"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
+          <Link href=""><a><div className="inactive"><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
       <div className="presentation iphone-five">
