@@ -47,7 +47,6 @@ export default function Home() {
       <div className="presentation twelve-eighty">
         <div><img src="portfolio/product/liftigniter/4.jpg"></img></div>
       <div><img src="portfolio/product/liftigniter/5.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/6.jpg"></img></div>
       <div><img src="portfolio/product/liftigniter/7.jpg"></img></div>
       <div><img src="portfolio/product/liftigniter/8.jpg"></img></div>
       <div><img src="portfolio/product/liftigniter/9.jpg"></img></div>
