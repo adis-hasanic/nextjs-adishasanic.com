@@ -166,7 +166,7 @@ div {
 
 .presentation {
   float: left;
-  position: relative;
+  position: absolute;
   width: calc(100% - 324px);
   margin-left: 284px;
   padding-bottom: 40px;
@@ -193,6 +193,16 @@ border-radius: 5px;
   max-width: 960px !important;
 }
 
+.three-twenty {
+   
+}
+
+.three-twenty img {
+  width: 320px !important;
+    max-width: 100% !important;
+    text-align: center;
+}
+
 .iphone-five img {
   max-width: 30%;
     margin: 0 1%;
@@ -204,6 +214,10 @@ border-radius: 5px;
 }
 
 @media (max-width: 800px){
+    
+    .presentation {
+  position: relative !important;
+}
 
   .arrows-mobile {
     display: block;
