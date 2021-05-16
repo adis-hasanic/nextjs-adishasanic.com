@@ -115,6 +115,10 @@ div {
   margin-top: 20px;
 }
 
+.work .arrows a {
+    float: left;
+}
+
 .work .arrows div {
   margin-right: 6px;
 }

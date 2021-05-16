@@ -41,7 +41,7 @@ export default function Home() {
       </div>
 
       <div className="arrows-mobile">
-      <Link href=""><a><div className="inactive"><img src="arrow-left-mobile.svg"></img></div></a></Link>
+      <a><Link href=""><div className="inactive"><img src="arrow-left-mobile.svg"></img></div></Link></a>
           <Link href="flowdash"><a href="flowdash"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
         </div>
 
