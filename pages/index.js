@@ -184,7 +184,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Dawson Whitfield <a href="https://www.linkedin.com/in/dawsonwhitfield/"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Product Designer at Weebly</div>
-      <div className="description">Weebly was a Series B startup backed by YCombinator and Sequoia. I was hired by Weebly to design for 1 year a set of website templates for their official offering to millions of users.</div>
+      <div className="description">Weebly was a Series B startup backed by YC and Sequoia. From 250 web designers that applied, I was among 10 selected to design a set of website templates for Weebly's official offering to millions of users. I was 16.</div>
       </div>
       </div>
       
@@ -213,7 +213,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Vincent Chou <a href="https://www.linkedin.com/in/vincentchou1/"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Co-founder and CEO at Playmonks</div>
-      <div className="description">Vincent hired me to to join his startup on a part-time basis, to design a web platform for discovering video games based on what friends played. I was 15.</div>
+      <div className="description">Vincent was a Chicago based entrepreneeur who hired me to design at Playmonks, a startup backed by The Brandery building a web platform for finding new video games. I was 15.</div>
       </div>
       </div>
       
