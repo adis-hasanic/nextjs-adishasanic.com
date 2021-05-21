@@ -24,8 +24,8 @@ export default function Home() {
       <div className="portrait"><img src="adishasanic.jpg"></img></div>
       <div className="text">I’m Adis, a 25-year-old UI/UX, web and visual designer and creative from Bosnia and Herzegovina. Past 10 years at early-stage startups creating and selling digital products that people need, want and can use. It’s all screen and storytelling.</div>
       <div className="cta">
-      <Link href="mailto: adishasanic96@gmail.com"><a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a></Link>
-      <Link href="stacker-2021"><a href="stacker-2021"><div className="button linkedin"><img src="linkedin.svg"></img></div></a></Link>
+      <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
+      <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
       </div>
       </div>
       
