@@ -10,6 +10,8 @@
   src: url("../public/font/AcuminPro-Bold.otf") format("opentype");
 }
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -19,8 +21,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Acumin-Pro, sans-serif;
-    background: #000000;
+  font-family: "DM Sans", sans-serif;
+    background: #fff;
     color: #A9ABAC;
 }
 
@@ -306,4 +308,148 @@ border-radius: 5px;
   margin-bottom: 80px;
 }
 
+}
+
+
+
+
+
+
+
+
+
+.about {
+    background: #fff;
+    display: block;
+    min-height: 100vh;
+    text-align: center;
+    width: 100%;
+    position: absolute
+}
+
+.about-width {
+    display: inline-block;
+    max-width: 576px;
+    width: 100%;
+    float: none;
+}
+
+.about .intro {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.about .intro .portrait img {
+    width: 140px;
+    border-radius: 999px;
+    margin: 32px 0;
+}
+
+.about .intro .text {
+    font-size: 20px;
+    color: #101111;
+    text-align: left;
+    line-height: 31px;
+}
+
+.about .cta {
+    margin-top: 20px;
+}
+
+.about .button {
+    background: #101111;
+    height: 42px;
+    color: #fff;
+    margin-right: 8px;
+    min-width: 42px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.about .button.text-only {
+    padding: 0 22px;
+    line-height: 42px;
+}
+
+.about .button.email img {
+    margin-top: 11px;
+}
+
+.about .button.linkedin img {
+    margin-top: 13px;
+}
+
+.about .reference {
+    float: left;
+    width: 100%;
+    border-top: solid 1px #eee;
+    padding: 42px 0;
+}
+
+.about .reference .text {
+    font-size: 20px;
+    color: #101111;
+    text-align: left;
+    line-height: 31px;
+    margin-bottom: 24px;
+}
+
+.about .reference .text .when {
+    font-size: 15px;
+    color: #7D7F82;
+    line-height: 31px;
+}
+
+.about .reference .portrait img {
+    width: 140px;
+    border-radius: 999px;
+}
+
+.about .reference .portrait {
+    float: left;
+    width: 140px;
+}
+
+.about .reference .info {
+    float: left;
+    width: 412px;
+    margin-left: 24px;
+}
+
+.about .reference .info .name {
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    color: #101111;
+    text-align: left;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.about .reference .info .name a {
+    margin-bottom: -4px;
+    margin-left: 2px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.about .reference .info .role {
+    float: left;
+    width: 100%;
+    color: #101111;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.about .reference .info .description {
+    float: left;
+    width: 100%;
+    color: #7D7F82;
+    text-align: left;
+    font-size: 14px;
+    margin-top: 10px;
+    line-height: 21px;
 }
