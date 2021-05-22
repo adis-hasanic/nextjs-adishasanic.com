@@ -218,7 +218,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Vincent Chou <a href="https://www.linkedin.com/in/vincentchou1/"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Co-founder and CEO at Playmonks</div>
-      <div className="description">Vincent was a Chicago based entrepreneeur who hired me to design at Playmonks, a startup backed by The Brandery building a web platform for finding new video games. I was 15.</div>
+      <div className="description">Vincent hired me to design UI/UX at Playmonks, a Chicago based startup building a web platform that helps you find new games based on what you and your friends played. I was 15.</div>
       </div>
       </div>
       
