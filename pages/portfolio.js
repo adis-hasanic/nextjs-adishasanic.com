@@ -92,6 +92,9 @@ export default function Home() {
       <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/3/3-2.jpg"></img></div>
       </div>
     <div className="row">
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/4/2.jpg"></img></div>
+      </div>
+    <div className="row">
       <div className="image"><img className="twelve-eighty border" src="portfolio/web/teamscope-2020/home.jpg"></img></div>
       </div>
       
