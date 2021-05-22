@@ -22,7 +22,7 @@ export default function Home() {
       
       <div className="intro">
       <div className="portrait"><img src="adishasanic.jpg"></img></div>
-      <div className="text">I’m Adis, a 25-year-old UI/UX, web and visual designer and creative from Bosnia and Herzegovina. Past 10 years at early-stage startups creating and selling digital products that people need, want and can use. It’s all screen and storytelling.<br></br><br></br>Currently freelancing and looking to join an early-stage startup remotely anywhere or on-site in Europe.</div>
+      <div className="text">I’m Adis, a 25-year-old UI/UX, web and visual designer and creative from Bosnia and Herzegovina. Past 10 years at startups creating and selling digital products that people need, want and can use. It’s all screen and storytelling.<br></br><br></br>Currently freelancing and looking to join an early-stage startup remotely anywhere or on-site in Europe.</div>
       <div className="cta">
       <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
       <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
