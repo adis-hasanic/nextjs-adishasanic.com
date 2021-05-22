@@ -82,7 +82,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Kelsey Klein <a href="https://www.linkedin.com/in/kelseyklein"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Project Manager at Meitu</div>
-      <div className="description">Meitu was a startup at Series C providing photo-editing mobile apps. I designed infographics for Meitu for 2 months remotely from Bosnia, working with Kelsey who was based in Los Angeles.</div>
+      <div className="description">Meitu was a startup at Series C providing photo-editing mobile apps. I designed infographics for Meitu for 2 months remotely from Bosnia, working with Kelsey who was based in LA.</div>
       </div>
       </div>
       
