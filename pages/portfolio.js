@@ -32,7 +32,7 @@ export default function Home() {
       
       <div className="section">
       <div className="row">
-      <div className="text">Stacker is a startup with headquarters in London, backed by YC and Initialized Capital. Stacker is building a web platform that makes it easy to create custom business software without coding, based on connected data sources (Airtable, Google Sheets, etc.) I designed at Stacker on a freelance basis for 8 months total during 2020 and 2021, working mostly on UI/UX and design system. After new designs were implemented in 2020 their sales skyrocketed, and in 2021 they got backed by Andreessen Horowitz.</div>
+      <div className="text">Stacker is a startup with headquarters in London, backed by YC and Initialized Capital. Stacker is building a web platform that makes it easy to create custom business software without coding, based on connected data sources (Airtable, Google Sheets, etc.) I designed at Stacker on a freelance basis for 8 months total during 2020 and 2021, working mostly on UI/UX and design system. After lots of quick visual UI improvements, UX/UI redesigns, and new features, in second part of 2020 Stacker's sales skyrocketed, and in 2021 they got backed by Andreessen Horowitz.</div>
       </div>
       <div className="row">
       <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-1.jpg"></img></div>
