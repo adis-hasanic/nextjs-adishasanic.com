@@ -315,13 +315,23 @@ border-radius: 5px;
 
 
 
+.pages a {
+    font-size: 18px;
+    color: #7D7F82;
+    margin-right: 18px;
+    margin-top: 24px;
+    display: block;
+    float: left;
+}
 
+.pages a.current {
+    color: #101111;
+}
 
 
 .about {
     background: #fff;
     display: block;
-    min-height: 100vh;
     text-align: center;
     width: 100%;
     position: absolute
@@ -453,4 +463,52 @@ border-radius: 5px;
     font-size: 15px;
     margin-top: 10px;
     line-height: 23px;
+}
+
+.portfolio {
+    padding-bottom: 220px;
+}
+
+.portfolio img.border {
+    border: solid 1px #eee;
+}
+
+.portfolio .eleven-twenty {
+    max-width: 1120px;
+    width: 90%;
+}
+
+.portfolio .twelve-eighty {
+    max-width: 1280px;
+    width: 90%;
+}
+
+.portfolio .section {
+    width: 100%;
+    text-align: center;
+    margin-top: 224px;
+}
+
+.portfolio .row {
+    width: 100%;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.portfolio .text {
+    width: 90%;
+    max-width: 592px;
+    display: inline-block;
+    float: none;
+    font-size: 21px;
+    color: #101111;
+    text-align: left;
+    line-height: 31px;
+    margin-bottom: 32px;
+}
+
+
+.portfolio .image {
+    width: 100%;
+    text-align: center;
 }

@@ -20,6 +20,11 @@ export default function Home() {
       <div className="about">
       <div className="about-width">
       
+      <div className="pages">
+      <Link href="/"><a className="current" href="/"><div>About</div></a></Link>
+      <Link href="portfolio"><a href="portfolio"><div>Portfolio</div></a></Link>
+      </div>
+      
       <div className="intro">
       <div className="portrait"><img src="adishasanic.jpg"></img></div>
       <div className="text">I’m Adis, a 25-year-old UI/UX, web and visual designer and creative from Bosnia and Herzegovina. Past 10 years at startups creating and selling digital products that people need, want and can use. It’s all screen and storytelling.<br></br><br></br>Currently freelancing and looking to join an early-stage startup remotely anywhere or on-site in Europe.</div>
