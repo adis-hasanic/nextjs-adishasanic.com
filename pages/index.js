@@ -184,7 +184,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Dawson Whitfield <a href="https://www.linkedin.com/in/dawsonwhitfield/"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Product Designer at Weebly</div>
-      <div className="description">Weebly was a Series B startup backed by YC and Sequoia. From 250 that applied, I was among 10 selected to design a set of website templates for Weebly's official offering to millions of users. I was 16.</div>
+      <div className="description">Weebly was a Series B startup backed by YC and Sequoia. From 250 that applied, I was among 10 selected to design new website templates for Weebly's 10 million users. I was 16.</div>
       </div>
       </div>
       
