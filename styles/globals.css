@@ -329,7 +329,7 @@ border-radius: 5px;
 
 .about-width {
     display: inline-block;
-    max-width: 576px;
+    max-width: 592px;
     width: 90%;
     float: none;
 }
@@ -346,10 +346,10 @@ border-radius: 5px;
 }
 
 .about .intro .text {
-    font-size: 20px;
+    font-size: 21px;
     color: #101111;
     text-align: left;
-    line-height: 30px;
+    line-height: 31px;
 }
 
 .about .cta {
@@ -389,10 +389,10 @@ border-radius: 5px;
 }
 
 .about .reference .text {
-    font-size: 20px;
+    font-size: 21px;
     color: #101111;
     text-align: left;
-    line-height: 30px;
+    line-height: 31px;
     margin-bottom: 24px;
 }
 
@@ -424,9 +424,9 @@ border-radius: 5px;
     font-weight: bold;
     color: #101111;
     text-align: left;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: normal;
-    margin-top: 14px;
+    margin-top: 10px;
 }
 
 .about .reference .info .name a {
@@ -441,8 +441,8 @@ border-radius: 5px;
     width: 100%;
     color: #101111;
     text-align: left;
-    font-size: 16px;
-    margin-top: 6px;
+    font-size: 17px;
+    margin-top: 7px;
 }
 
 .about .reference .info .description {
@@ -450,7 +450,7 @@ border-radius: 5px;
     width: 100%;
     color: #7D7F82;
     text-align: left;
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 10px;
-    line-height: 20px;
+    line-height: 23px;
 }
