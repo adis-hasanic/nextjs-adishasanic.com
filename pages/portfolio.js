@@ -38,7 +38,13 @@ export default function Home() {
       <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-1.jpg"></img></div>
       </div>
     <div className="row">
-      <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-settings-1.jpg"></img></div>
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-3.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-settings-9.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/stacker-2021/app-settings-10.jpg"></img></div>
       </div>
     <div className="row">
       <div className="image"><img className="twelve-eighty border" src="portfolio/product/stacker/editor/2.jpg"></img></div>
@@ -61,6 +67,34 @@ export default function Home() {
     <div className="row">
       <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/7-3.jpg"></img></div>
       </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/4-2.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/8.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/5.jpg"></img></div>
+      </div>
+      </div>
+    
+    <div className="section">
+      <div className="row">
+      <div className="text">For 1 year, I was a product designer at Teamscope in Tallinn, Estonia. During that time, Teamscope was an early-stage startup with 5-10 people, backed by TechStars and Jaan Tallinn, co-founder of Skype. I worked closely with PM and CEO on designing a web platform that makes it easy for companies to learn about their people's personality, values and competencies, to be able to create better collaboration and build winning teams. I also designed website (increased bookings from 5 to 30 avg. per month) and created visual assets for sales and fundraising, and made 2 videos.</div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/1/2.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/3/3-1.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/3/3-2.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="twelve-eighty border" src="portfolio/web/teamscope-2020/home-intro.jpg"></img></div>
+      </div>
+      
       </div>
     
     <div className="section">

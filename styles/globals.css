@@ -465,6 +465,16 @@ border-radius: 5px;
     line-height: 23px;
 }
 
+@media (max-width: 660px){
+    
+    .about .reference .info {
+    float: left;
+    width: 100%;
+    margin-left: 0px;
+}
+    
+}
+
 .portfolio {
     padding-bottom: 220px;
 }
