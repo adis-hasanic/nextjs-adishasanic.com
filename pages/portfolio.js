@@ -102,6 +102,18 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
+      <div className="text">My brother Dino, who writes code and manages a car dealership in California, hired me to design an iOS app that makes it easy to find the right car and purchase it at a nearby dealership.</div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/amigos/1.jpg"></img></div>
+      </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/amigos/2.jpg"></img></div>
+      </div>
+      </div>
+    
+    <div className="section">
+      <div className="row">
       <div className="text">Chandra Duggirala, entrepreneur based in San Francisco, hired me to design a Mac app that was to be the first all-in-one cryptocurrency management platform that anyone knows how to use and tune into the future of decentralized finance. It was called Portal, and I worked closely with CEO and CTO of Portal for 9 months on a freelance basis, from mid 2018 to early 2019.</div>
       </div>
       <div className="row">
@@ -120,6 +132,8 @@ export default function Home() {
       <div className="image"><img className="twelve-eighty" src="portfolio/product/portal/3/2.jpg"></img></div>
       </div>
       </div>
+    
+
       
       </div>
       
