@@ -113,6 +113,9 @@ export default function Home() {
     <div className="row">
       <div className="image"><img className="eleven-twenty" src="portfolio/product/amigos/2.jpg"></img></div>
       </div>
+    <div className="row">
+      <div className="image"><img className="eleven-twenty" src="portfolio/product/amigos/3.jpg"></img></div>
+      </div>
       </div>
     
     <div className="section">
