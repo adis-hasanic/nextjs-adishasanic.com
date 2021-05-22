@@ -105,7 +105,7 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
-      <div className="text">My brother Dino, who writes code and manages a car dealership in California, hired me to design an iOS app that makes it easy to find the right car and purchase it at a nearby dealership.</div>
+      <div className="text">My brother Dino, who writes code and manages a car dealership in California, hired me in 2019 to design an iOS app that makes it easy to find the right car and purchase it at a nearby dealership. The idea was that it should be like a social network, where options are narrowed by filters and reviews, and like a funnel that goes from exploration to making a list of favorites to contacting dealership to negotiate a deal. That's the customer side, and then there was also the dealership side of the app where vehicles are posted and leads tracked. Designed in 1 month of part time dedication, and turned out pretty nice I think.</div>
       </div>
       <div className="row">
       <div className="image"><img className="eleven-twenty" src="portfolio/product/amigos/1.jpg"></img></div>
