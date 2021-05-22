@@ -80,7 +80,7 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
-      <div className="text">For 1 year, I was a product designer at Teamscope in Tallinn, Estonia. During that time, Teamscope was an early-stage startup with 5-10 people, backed by TechStars and Jaan Tallinn, co-founder of Skype. I worked closely with PM and CEO on designing a web platform that makes it easy for companies to learn about their people's personality, values and competencies, to be able to create better collaboration and build winning teams. I also designed website (increased bookings from 5 to 30 avg. per month) and created visual assets for sales and fundraising, and made 2 videos. Teamscope CEO, who was mostly selling the product to enterprise organisations, said that my work "took the product and business to a whole new level."</div>
+      <div className="text">During 2019, I was a product designer at Teamscope in Tallinn, Estonia. During that time, Teamscope was an early-stage startup with 5-10 people, backed by TechStars and Jaan Tallinn, co-founder of Skype. I worked closely with PM and CEO on designing a web platform that makes it easy for companies to learn about their people's personality, values and competencies, to be able to create better collaboration and build winning teams. I also designed website (increased bookings from 5 to 30 avg. per month) and created visual assets for sales and fundraising, and made 2 videos. Teamscope CEO, who was mostly selling the product to enterprise organisations, said that my work "took the product and business to a whole new level."</div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/1/2.jpg"></img></div>
@@ -99,7 +99,7 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
-      <div className="text">Chandra Duggirala, entrepreneur based in San Francisco, hired me to design a Mac app that was to be the first all-in-one cryptocurrency management platform that anyone knows how to use and tune into the future of decentralized finance. It was called Portal, and I worked closely with CEO and CTO of Portal for 9 months on a freelance basis.</div>
+      <div className="text">Chandra Duggirala, entrepreneur based in San Francisco, hired me to design a Mac app that was to be the first all-in-one cryptocurrency management platform that anyone knows how to use and tune into the future of decentralized finance. It was called Portal, and I worked closely with CEO and CTO of Portal for 9 months on a freelance basis, from mid 2018 to early 2019.</div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty" src="portfolio/product/portal/1/1.jpg"></img></div>
