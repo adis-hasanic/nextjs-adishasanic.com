@@ -114,7 +114,7 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
-      <div className="text">Chandra Duggirala, entrepreneur based in San Francisco, hired me to design a Mac app that was to be the first all-in-one cryptocurrency management platform that anyone knows how to use and tune into the future of decentralized finance. It was called Portal, and I worked closely with CEO and CTO of Portal for 9 months on a freelance basis, from mid 2018 to early 2019.</div>
+      <div className="text">Founders of Fuel, a startup based in San Francisco backed by 500 Startup, hired me to design a Mac app that was to be the first all-in-one cryptocurrency management platform that anyone knows how to use and tune into the future of decentralized finance. It was called Portal, and I worked closely with CEO and CTO of Portal for 9 months on a freelance basis, from mid 2018 to early 2019.</div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty" src="portfolio/product/portal/1/1.jpg"></img></div>
