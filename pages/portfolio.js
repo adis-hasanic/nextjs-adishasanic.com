@@ -80,7 +80,7 @@ export default function Home() {
     
     <div className="section">
       <div className="row">
-      <div className="text">For 1 year, I was a product designer at Teamscope in Tallinn, Estonia. During that time, Teamscope was an early-stage startup with 5-10 people, backed by TechStars and Jaan Tallinn, co-founder of Skype. I worked closely with PM and CEO on designing a web platform that makes it easy for companies to learn about their people's personality, values and competencies, to be able to create better collaboration and build winning teams. I also designed website (increased bookings from 5 to 30 avg. per month) and created visual assets for sales and fundraising, and made 2 videos.</div>
+      <div className="text">For 1 year, I was a product designer at Teamscope in Tallinn, Estonia. During that time, Teamscope was an early-stage startup with 5-10 people, backed by TechStars and Jaan Tallinn, co-founder of Skype. I worked closely with PM and CEO on designing a web platform that makes it easy for companies to learn about their people's personality, values and competencies, to be able to create better collaboration and build winning teams. I also designed website (increased bookings from 5 to 30 avg. per month) and created visual assets for sales and fundraising, and made 2 videos. CEO said that my work "took the product and business to a whole new level."</div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty border" src="portfolio/product/teamscope/1/2.jpg"></img></div>
