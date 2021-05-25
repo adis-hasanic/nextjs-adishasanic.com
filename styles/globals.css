@@ -465,6 +465,22 @@ border-radius: 5px;
     line-height: 23px;
 }
 
+.about .outro {
+    float: left;
+    width: 100%;
+    border-top: solid 1px #eee;
+    padding: 42px 0;
+}
+
+.about .text {
+    font-size: 19px;
+    color: #101111;
+    text-align: left;
+    line-height: 31px;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
 @media (max-width: 660px){
     
     .about .reference .info {

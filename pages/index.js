@@ -223,6 +223,11 @@ export default function Home() {
       </div>
       
       </div>
+    
+    <div className="outro">
+      <Link href="portfolio"><div className="text">See portfolio &nbsp; →</div></Link>
+      
+      </div>
       
       
       </div>
