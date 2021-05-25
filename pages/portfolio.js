@@ -146,6 +146,22 @@ export default function Home() {
       </div>
     
     
+    <div className="section">
+      <div className="row">
+          <div className="portfolio-outro">
+      <div className="text">If you want to see more or to learn more about the process, happy to explain more via email or schedule a call.
+    </div>
+    <div className="cta">
+      <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
+      <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
+      </div>
+    </div>
+      
+      </div>
+      
+      </div>
+    
+    
     
 
       

@@ -362,11 +362,11 @@ border-radius: 5px;
     line-height: 31px;
 }
 
-.about .cta {
+.cta {
     margin-top: 32px;
 }
 
-.about .button {
+.cta .button {
     background: #101111;
     height: 42px;
     color: #fff;
@@ -375,19 +375,20 @@ border-radius: 5px;
     border-radius: 6px;
     font-size: 16px;
     font-weight: 500;
+    text-align: center;
 }
 
-.about .button.text-only {
+.cta .button.text-only {
     padding: 2px 20px 0 20px;
     line-height: 40px;
     height: 40px
 }
 
-.about .button.email img {
+.cta .button.email img {
     margin-top: 11px;
 }
 
-.about .button.linkedin img {
+.cta .button.linkedin img {
     margin-top: 13px;
 }
 
@@ -479,6 +480,18 @@ border-radius: 5px;
     line-height: 31px;
     margin-bottom: 24px;
     cursor: pointer;
+}
+
+.portfolio-outro {
+    display: inline-block;
+    max-width: 592px;
+    width: 90%;
+    float: none;
+}
+
+.portfolio-outro .text {
+    width: 100% !important;
+    margin-bottom: 0 !important;
 }
 
 @media (max-width: 660px){
