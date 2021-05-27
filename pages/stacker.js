@@ -37,7 +37,7 @@ export default function Home() {
       <div className="image"><img className="twelve-eighty" src="portfolio/product/stacker/editor/1.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/stacker/editor/2.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/stacker/editor/2.jpg"></img></div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty" src="portfolio/product/stacker/editor/3.jpg"></img></div>
