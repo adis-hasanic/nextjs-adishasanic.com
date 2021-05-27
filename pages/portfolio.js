@@ -92,6 +92,15 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     
     <div className="portfolio-story">
       <div className="story-intro">
+      <div className="title">Engine</div>
+      <div className="period">2017 (4 months)</div>
+      </div>
+      <div className="text">Engine was a US based startup providing a web platform that enables anyone to set up and manage a custom online store. Like Shopify, but with more independence and customization. On a freelance basis, I was hired to design Engine's admin panel, where shop owners track results and orders, and customize the shop by editing or creating new posts or changing the theme.</div>
+    <div className="see-work"><Link href="engine"><a href="engine">See work &nbsp; →</a></Link></div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
       <div className="title">LiftIgniter</div>
       <div className="period">2017 (5 months)</div>
       </div>
