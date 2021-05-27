@@ -39,7 +39,7 @@ export default function Home() {
       <div className="title">LiftIgniter</div>
       <div className="period">2017 (5 months)</div>
       </div>
-      <div className="text">I worked on onboarding, i.e. setting up API to an app. On some problems of tracking results and configuring API. And on visualizing some ideas for what to show on the website.</div>
+      <div className="text">LiftIgniter was a YC-backed San Francisco based startup providing API for creating content recommendations and analyzing user behavior. On a freelance basis, I was hired to design the new onboarding process of setting up an API to an app, on making it easy for users to learn from data and configure the API, and on creating visuals for the marketing website.</div>
     <div className="see-work"><Link href="liftigniter"><a href="liftigniter">See work &nbsp; →</a></Link></div>
       </div>
     
