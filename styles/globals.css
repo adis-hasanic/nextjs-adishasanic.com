@@ -561,6 +561,12 @@ border-radius: 5px;
     border: solid 1px #eee;
 }
 
+
+.portfolio .android-landscape {
+    max-width: 801px;
+    width: 90%;
+}
+
 .portfolio .eleven-twenty {
     max-width: 1120px;
     width: 90%;
