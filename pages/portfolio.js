@@ -62,6 +62,15 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
       <div className="text">My brother Dino, who writes code and manages a car dealership in California, hired me in 2019 to design an iOS app that makes it easy to find the right car and purchase it at a nearby dealership. The idea was that it should be like a social network, where options are narrowed by filters and reviews, and like a funnel that goes from exploration to making a list of favorites to contacting dealership to negotiate a deal. That's the customer side, and then there was also the dealership side of the app where vehicles are posted and leads tracked.</div>
     <div className="see-work"><Link href="amigos"><a href="amigos">See work &nbsp; →</a></Link></div>
       </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Teleport</div>
+      <div className="period">2019 (3 days)</div>
+      </div>
+      <div className="text">Base Camp was a 3-day hackathon organized by Garage48 and Superangel (one of the most well-known Estonian VC funds, backed Bolt.eu, one of European's fastest growing startups ever) at Palo Alto Club in Tallinn, Estonia. I joined CEO and CTO of ZitiCity, a Lithuanian startup providing fast deliveries for businesses. We built a prototype of "Uber for deliveries", enabling anyone to deliver anything locally within one day. I suggested the name Teleport, designed UI and UX, landing page and ads. More than 100 teams applied, 15 teams competed, we won. It led to Superangel investing in ZitiCity.</div>
+    <div className="see-work"><Link href="teleport"><a href="teleport">See work &nbsp; →</a></Link></div>
+      </div>
       
       <div className="portfolio-story">
       <div className="story-intro">
