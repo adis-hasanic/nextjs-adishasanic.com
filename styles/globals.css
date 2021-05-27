@@ -313,10 +313,12 @@ border-radius: 5px;
 
 
 
-
+.pages {
+    margin-bottom: 32px;
+}
 
 .pages a {
-    font-size: 18px;
+    font-size: 19px;
     color: #7D7F82;
     margin-right: 18px;
     margin-top: 24px;
@@ -352,10 +354,31 @@ border-radius: 5px;
 .about .intro .portrait img {
     width: 140px;
     border-radius: 999px;
-    margin: 32px 0;
+    margin: 0 0 32px 0;
 }
 
 .about .intro .text {
+    font-size: 21px;
+    color: #101111;
+    text-align: left;
+    line-height: 31px;
+}
+
+
+.about .outro {
+    width: 100%;
+    margin-bottom: 48px;
+    padding-top: 42px;
+    border-top: solid 1px #eee;
+}
+
+.about .outro .portrait img {
+    width: 140px;
+    border-radius: 999px;
+    margin: 0 0 32px 0;
+}
+
+.about .outro .text {
     font-size: 21px;
     color: #101111;
     text-align: left;
@@ -408,7 +431,7 @@ border-radius: 5px;
 }
 
 .about .reference .text .when {
-    font-size: 16px;
+    font-size: 17px;
     color: #7D7F82;
     line-height: 31px;
 }
@@ -466,32 +489,56 @@ border-radius: 5px;
     line-height: 23px;
 }
 
-.about .outro {
+
+.portfolio-story {
     float: left;
     width: 100%;
     border-top: solid 1px #eee;
     padding: 42px 0;
 }
 
-.about .outro .text {
+.portfolio-story .story-intro {
+    display: block;
+    width: 100%;
+} 
+
+.portfolio-story .story-intro .title {
+    font-size: 22px;
+    color: #101111;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.portfolio-story .story-intro .period {
+    font-size: 17px;
+    color: #7D7F82;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 6px;
+}
+
+.portfolio-story .text {
     font-size: 19px;
     color: #101111;
     text-align: left;
-    line-height: 31px;
+    line-height: 27px;
     margin-bottom: 24px;
-    cursor: pointer;
+    margin-top: 12px;
 }
 
-.portfolio-outro {
-    display: inline-block;
-    max-width: 592px;
-    width: 90%;
-    float: none;
+
+.portfolio-story .see-work a {
+    color: #101111;
+    text-decoration: none;
 }
 
-.portfolio-outro .text {
-    width: 100% !important;
-    margin-bottom: 0 !important;
+.portfolio-story .see-work {
+    display: block;
+    font-size: 19px;
 }
 
 @media (max-width: 660px){
@@ -546,8 +593,12 @@ border-radius: 5px;
     margin-bottom: 32px;
 }
 
+.portfolio .text.headline {
+    font-size: 27px;
+}
 
 .portfolio .image {
     width: 100%;
     text-align: center;
+    margin-top: 32px;
 }

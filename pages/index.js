@@ -225,7 +225,7 @@ export default function Home() {
       </div>
     
     <div className="outro">
-      <Link href="portfolio"><div className="text">See portfolio &nbsp; →</div></Link>
+      <Link href="portfolio"><a href="portfolio"><div className="text">See portfolio &nbsp; →</div></a></Link>
       
       </div>
       

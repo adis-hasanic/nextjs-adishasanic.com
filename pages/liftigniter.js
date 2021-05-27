@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <Head><title>Adis Hasanic - UX, UI, Web and Visual Designer</title>
+      <Head><title>LiftIgniter</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -17,49 +17,69 @@ export default function Home() {
   `,
           }}
         /></Head>
-      <div className="me">
-        <div>
-        <div className="font-200-bold">Adis Hasanic</div>
-        <div className="font-100">UX, UI, Web and Visual</div>
-        <div className="icons">
-        <div><a href="https://adishasanic96.typeform.com/to/IVmKhGC5"><img src="email.svg"></img></a></div>
-      <div><a href="https://dribbble.com/adishasanic"><img src="dribbble.svg"></img></a></div>
-      <div><a href="https://www.linkedin.com/in/adis-hasanic/"><img src="linkedin.svg"></img></a></div>
-        </div>
-        </div>
+      <div className="about">
+      <div className="about-width">
+      
+      <div className="pages">
+      <Link href="portfolio"><a className="current" href="portfolio"><div>← &nbsp;Back</div></a></Link>
       </div>
-      <div className="work">
-        <div>
-        <div className="font-300-bold title">LiftIgniter</div>
-        <div className="font-100 description">Setup and dashboard of an API that learns about users to suggest the most accurate content.</div>
-        <div className="arrows">
-        <Link href="portal"><a href="portal"><div><img src="arrow-left-web.svg"></img></div></a></Link>
-          <Link href="typen"><a href="typen"><div><img src="arrow-right-web.svg"></img></div></a></Link>
-        </div>
-        </div>
+      
       </div>
+      </div>
+      
+      <div className="portfolio">
+    
+    <div className="section">
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/4.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/5.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/7.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/8.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/9.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/10.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/11.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/12.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/13.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/14.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/15.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="twelve-eighty" src="portfolio/product/liftigniter/3.jpg"></img></div>
+      </div>
+      </div>
+    
+    
+    
 
-      <div className="arrows-mobile">
-      <Link href="portal"><a href="portal"><div><img src="arrow-left-mobile.svg"></img></div></a></Link>
-          <Link href="typen"><a href="typen"><div><img src="arrow-right-mobile.svg"></img></div></a></Link>
-        </div>
-
-      <div className="presentation twelve-eighty">
-        <div><img src="portfolio/product/liftigniter/4.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/5.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/7.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/8.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/9.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/10.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/11.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/12.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/13.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/14.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/15.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/1.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/2.jpg"></img></div>
-      <div><img src="portfolio/product/liftigniter/3.jpg"></img></div>
+      
       </div>
+      
     </div>
   )
 }
