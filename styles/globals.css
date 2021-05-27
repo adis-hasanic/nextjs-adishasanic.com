@@ -349,6 +349,8 @@ border-radius: 5px;
 .about .intro {
     width: 100%;
     margin-bottom: 48px;
+    border-top: solid 1px #eee;
+    padding-top: 32px;
 }
 
 .about .intro .portrait img {
