@@ -53,6 +53,15 @@ export default function Home() {
 I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM, I was designing product UI and UX, marketing website and created various visual and video assets for branding, marketing, sales, advertising and fundraising. Product was used by thousands of managers, employees and candidates in large companies, website redesigns increased avg. demo bookings from 5 to 30 per month, and Teamscope’s CEO, who was mostly selling the product to enterprise organizations, said that my work “made the product 10x of what it was and took the business to a whole new level”.</div>
     <div className="see-work"><Link href="teamscope"><a href="teamscope">See work &nbsp; →</a></Link></div>
       </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Amigos</div>
+      <div className="period">2019 (1 month)</div>
+      </div>
+      <div className="text">My brother Dino, who writes code and manages a car dealership in California, hired me in 2019 to design an iOS app that makes it easy to find the right car and purchase it at a nearby dealership. The idea was that it should be like a social network, where options are narrowed by filters and reviews, and like a funnel that goes from exploration to making a list of favorites to contacting dealership to negotiate a deal. That's the customer side, and then there was also the dealership side of the app where vehicles are posted and leads tracked.</div>
+    <div className="see-work"><Link href="amigos"><a href="amigos">See work &nbsp; →</a></Link></div>
+      </div>
       
       <div className="portfolio-story">
       <div className="story-intro">
