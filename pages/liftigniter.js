@@ -21,7 +21,7 @@ export default function Home() {
       <div className="about-width">
       
       <div className="pages">
-      <Link href="portfolio"><a className="current" href="portfolio"><div>← &nbsp;Back</div></a></Link>
+      <Link href="portfolio"><a className="current" href="portfolio"><div>← &nbsp; Back</div></a></Link>
       </div>
       
       </div>
