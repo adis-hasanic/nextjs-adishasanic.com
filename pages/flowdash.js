@@ -48,6 +48,75 @@ export default function Home() {
       <div className="row">
       <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/table-2.jpg"></img></div>
       </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/table-3.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/table-4.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/detail-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/detail-2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/filters-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/flow-0-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/flow-0-2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/flow-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/flow-2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/flow-3.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/errors-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/settings-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/settings-2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/settings-3.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/timers-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/permissions-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/collaborators-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/allassigned-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/allassigned-2.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/notifications-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/analytics.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/trial-expired-1.jpg"></img></div>
+      </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/trial-expired-2.jpg"></img></div>
+      </div>
       </div>
     
     
