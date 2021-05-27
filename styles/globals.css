@@ -311,7 +311,13 @@ border-radius: 5px;
 }
 
 
+#__next {
+    width: 100%;
+}
 
+.page-width {
+    width: 100%;
+}
 
 .pages {
     margin-bottom: 22px;
@@ -555,6 +561,7 @@ border-radius: 5px;
 
 .portfolio {
     padding-bottom: 220px;
+    width: 100%;
 }
 
 .portfolio img.border {
