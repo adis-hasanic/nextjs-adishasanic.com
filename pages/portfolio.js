@@ -122,7 +122,7 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
       <div className="title">Kamcord</div>
       <div className="period">2015 (4 months)</div>
       </div>
-      <div className="text">Kamcord was a San Francisco based startup at Series A building a platform and tools to record and share gameplays and livestreams of mobile games, backerd by YCombinator and Tencent Holdings. Much later in 2017 acquired by Lyft. On a freelance basis, I was designing at Kamcord on-site, reporting to Senior Designer, working mostly on UI/UX of apps and recording tools, and on various visual assets for app store and platform.</div>
+      <div className="text">Kamcord was a San Francisco based startup at Series A building a platform and tools to record and share gameplays and livestreams of mobile games, backerd by YCombinator and Tencent Holdings. Much later in 2017 acquired by Lyft. On a freelance basis, I was designing at Kamcord on-site, reporting to Senior Designer, working mostly on UI/UX of web platform, mobile app and mobile recording tools, and on various visual assets for app store and platform.</div>
     <div className="see-work"><Link href="kamcord"><a href="kamcord">See work &nbsp; →</a></Link></div>
       </div>
     
