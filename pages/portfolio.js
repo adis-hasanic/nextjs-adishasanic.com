@@ -27,6 +27,17 @@ export default function Home() {
       
       <div className="portfolio-story">
       <div className="story-intro">
+      <div className="title">Teamscope</div>
+      <div className="period">2018 - 2020 (1 year 3 months)</div>
+      </div>
+      <div className="text">Teamscope was a Tallinn based startup (5-10 people) providing a web platform that helps companies reveal the underlying map of people’s characteristics (personality, values and competencies) to make better decisions in hiring, team building and employee onboarding. One Teamscope’s co-founder spent 30+ years in executive headhunting, and Teamscope was backed by TechStars, SAP, BlackPearls and Jaan Tallinn, co-founder of Skype.
+<br></br><br></br>
+I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM, I was designing product UI and UX, marketing website and created various visual and video assets for branding, marketing, sales, advertising and fundraising. Product was used by thousands of managers, employees and candidates in large companies, website redesigns increased avg. demo bookings from 5 to 30 per month, and Teamscope’s CEO, who was mostly selling the product to enterprise organizations, said that my work “made the product 10x of what it was and took the business to a whole new level”.</div>
+    <div className="see-work"><Link href="teamscope"><a href="teamscope">See work &nbsp; →</a></Link></div>
+      </div>
+      
+      <div className="portfolio-story">
+      <div className="story-intro">
       <div className="title">Portal</div>
       <div className="period">2018 - 2019 (9 months)</div>
       </div>

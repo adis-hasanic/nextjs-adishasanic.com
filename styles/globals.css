@@ -571,6 +571,11 @@ border-radius: 5px;
     width: 90%;
 }
 
+.portfolio .forteen-forty {
+    max-width: 1440px;
+    width: 90%;
+}
+
 .portfolio .section {
     width: 100%;
     text-align: center;
