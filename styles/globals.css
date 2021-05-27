@@ -314,7 +314,7 @@ border-radius: 5px;
 
 
 .pages {
-    margin-bottom: 32px;
+    margin-bottom: 22px;
 }
 
 .pages a {
@@ -381,10 +381,10 @@ border-radius: 5px;
 }
 
 .about .outro .text {
-    font-size: 21px;
+    font-size: 19px;
     color: #101111;
     text-align: left;
-    line-height: 31px;
+    line-height: 27px;
 }
 
 .cta {
