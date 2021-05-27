@@ -90,6 +90,15 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     <div className="see-work"><Link href="liftigniter"><a href="liftigniter">See work &nbsp; →</a></Link></div>
       </div>
     
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Foodmunk</div>
+      <div className="period">2016 (5 months)</div>
+      </div>
+      <div className="text">Fuel was a San Francisco based digital health startup, backed by 500 Startups. On a freelance basis, I was hired to design an iOS app that helps user stay on track of eating healthy. Collaborating closely with founder, I designed UI and UX, and recruited illustrator and provided creative direction for illustration work.</div>
+    <div className="see-work"><Link href="foodmunk"><a href="foodmunk">See work &nbsp; →</a></Link></div>
+      </div>
+    
     <div className="outro">
       <div className="text">If you want to see more or to learn more about the process, happy to explain more via call or email.</div>
       <div className="cta">
