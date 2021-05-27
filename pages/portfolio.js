@@ -30,7 +30,7 @@ export default function Home() {
       <div className="title">Stacker</div>
       <div className="period">2020 - 2021 (8 months)</div>
       </div>
-      <div className="text">Stacker is a startup with headquarters in London, backed by YC and Initialized Capital. Stacker is building a web platform that makes it easy to create custom business software without coding, based on connected data sources (Airtable, Google Sheets, etc.) I designed at Stacker on a freelance basis for 8 months total during 2020 and 2021, working mostly on UI/UX and design system. After lots of quick visual UI improvements, UX/UI redesigns, and new features, in second part of 2020 Stacker's sales skyrocketed, and in 2021 raised Series A from Andreessen Horowitz.</div>
+      <div className="text">Stacker is a London based startup, backed by YC and Initialized Capital, building a web platform that makes it easy to create custom business software without coding, based on connected data sources (Airtable, Google Sheets, etc.) I was designing at Stacker on a freelance basis, working mostly on UI/UX and design system. After lots of quick visual UI improvements, UX/UI redesigns, and new features, in second part of 2020 Stacker's sales skyrocketed, and in 2021 Stacker raised a Series A from Andreessen Horowitz.</div>
     <div className="see-work"><Link href="stacker"><a href="stacker">See work &nbsp; →</a></Link></div>
       </div>
     
