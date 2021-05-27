@@ -117,6 +117,31 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     <div className="see-work"><Link href="foodmunk"><a href="foodmunk">See work &nbsp; →</a></Link></div>
       </div>
     
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Branded.me</div>
+      <div className="period">2013 - 2015 (2 years)</div>
+      </div>
+      <div className="text">From mid 2013 to mid 2014, it was called Mobiley and we were a team of 3 people building a web app that converts any website into customizable mobile website. I was working remotely from Bosnia, while at last year of high school. Mobiley was discontinued due to poor development work done by an agency. In 2014 I moved to San Francisco, and from mid 2014 to mid 2015 we were a team of 6 people building a web app that converts LinkedIn profile into a customizable personal website. More than 300k websites were created within 3 months after launch and there was an offer for acquisition from Amazon.</div>
+    <div className="see-work"><Link href="branded-me"><a href="branded-me">See work &nbsp; →</a></Link></div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Weebly</div>
+      <div className="period">2012 - 2013 (1 year)</div>
+      </div>
+      <div className="text">During that time, Weebly was a San Francisco based startup providing a website builder to 15 million users, at Series B backed by YC and Sequoia. From more than 250 web designers that applied, I was selected to be among 10 to design a new set of website templates that adapt to any screen size. I delivered 15 unique templates that Weebly included in their official and featured on their blog. I was 16 years old and saw that it's possible to design something for millions of people while working from a bedroom.</div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Playmonks</div>
+      <div className="period">2011 - 2012 (1 year)</div>
+      </div>
+      <div className="text">Playmonks (first called TurboBOTZ) was a Chicago based startup, backed by The Brandery, building a web platform that makes it easy to discover new games based on what you and people you follow played. Collaborating closely with CEO and CTO who provided wireframes, I designed visual UI, marketing website and logotype.</div>
+      </div>
+    
     <div className="outro">
       <div className="text">If you want to see more or to learn more about the process, happy to explain more via call or email.</div>
       <div className="cta">
