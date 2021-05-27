@@ -33,6 +33,15 @@ export default function Home() {
       <div className="text">Stacker is a startup with headquarters in London, backed by YC and Initialized Capital. Stacker is building a web platform that makes it easy to create custom business software without coding, based on connected data sources (Airtable, Google Sheets, etc.) I designed at Stacker on a freelance basis for 8 months total during 2020 and 2021, working mostly on UI/UX and design system. After lots of quick visual UI improvements, UX/UI redesigns, and new features, in second part of 2020 Stacker's sales skyrocketed, and in 2021 raised Series A from Andreessen Horowitz.</div>
     <div className="see-work"><Link href="stacker"><a href="stacker">See work &nbsp; →</a></Link></div>
       </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Flowdash</div>
+      <div className="period">2020 (4 months)</div>
+      </div>
+      <div className="text">Flowdash is a startup making it easy for ops teams to create workflows for teams to carry out complex business processes, with headquarters in San Francisco and backed by YC. I worked closely with CEO and CTO of Flowdash for 4 months during 2020 to make the product easier to use and add lots of new features. Completely redesigned version of the product was launched, became #2 product of the month on ProductHunt, and each new user was able to get onboarded and create a workflow without contacting support.</div>
+    <div className="see-work"><Link href="flowdash"><a href="flowdash">See work &nbsp; →</a></Link></div>
+      </div>
       
       <div className="portfolio-story">
       <div className="story-intro">
