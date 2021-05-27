@@ -101,8 +101,17 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     
     <div className="portfolio-story">
       <div className="story-intro">
-      <div className="title">Foodmunk</div>
+      <div className="title">Typen</div>
       <div className="period">2016 (5 months)</div>
+      </div>
+      <div className="text">Typen was a distraction-free writing app. I designed UI and UX, as well as the marketing website and ads. I also recruited a developer, bootstrapped development and advertising. More than 2000 signups within 2 months, positive feedback on product sent from amateur novelists as well as a professional dramaturge. I discontinued it due to high cost of maintenance and to focus on freelancing, but I learned about the difficulty of finding a marketing message after the product has been designed and built, and of continual support to the customers.</div>
+    <div className="see-work"><Link href="typen"><a href="typen">See work &nbsp; →</a></Link></div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
+      <div className="title">Foodmunk</div>
+      <div className="period">2016 (6 months)</div>
       </div>
       <div className="text">Fuel was a San Francisco based digital health startup, backed by 500 Startups. On a freelance basis, I was hired to design an iOS app that helps user stay on track of eating healthy. Collaborating closely with founder, I designed UI and UX, and recruited illustrator and provided creative direction for illustration work.</div>
     <div className="see-work"><Link href="foodmunk"><a href="foodmunk">See work &nbsp; →</a></Link></div>

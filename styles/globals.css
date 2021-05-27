@@ -583,6 +583,11 @@ border-radius: 5px;
     border-radius: 36px;
 }
 
+.portfolio .typen {
+    max-width: 1196px;
+    width: 90%;
+}
+
 .portfolio .section {
     width: 100%;
     text-align: center;
