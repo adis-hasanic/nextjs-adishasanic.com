@@ -574,6 +574,11 @@ border-radius: 5px;
     width: 90%;
 }
 
+.portfolio .three-twenty {
+    max-width: 320px;
+    width: 90%;
+}
+
 .portfolio .eleven-twenty {
     max-width: 1120px;
     width: 90%;

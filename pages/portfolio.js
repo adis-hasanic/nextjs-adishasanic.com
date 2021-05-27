@@ -83,6 +83,15 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     
     <div className="portfolio-story">
       <div className="story-intro">
+      <div className="title">IndieCampers</div>
+      <div className="period">2018 (1 week)</div>
+      </div>
+      <div className="text">IndieCampers was a Lisbon based startup and European biggest campervan rental service. As a part of a job interviewing process, I was asked to design a process of booking a campervan on a mobile website. I turned 5 pages into 1, reduced steps, and created a new style visually and in text. CEO and PM of IndieCampers were impressed and offered me a full-time role.</div>
+    <div className="see-work"><Link href="indiecampers"><a href="indiecampers">See work &nbsp; →</a></Link></div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
       <div className="title">Tides</div>
       <div className="period">2018 (2 months)</div>
       </div>
