@@ -47,6 +47,15 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
     
     <div className="portfolio-story">
       <div className="story-intro">
+      <div className="title">Tides</div>
+      <div className="period">2018 (2 months)</div>
+      </div>
+      <div className="text">Tides was a San Francisco based startup trying to build a platform that uses blockchain technology to decentralize health insurance. I designed a website announcing the product, a document template for a whitepaper explaining the technology, and a business card. Before I started designing product UI and UX, Tides pivoted to start building a platform for managing cryptocurrencies.</div>
+    <div className="see-work"><Link href="tides"><a href="tides">See work &nbsp; →</a></Link></div>
+      </div>
+    
+    <div className="portfolio-story">
+      <div className="story-intro">
       <div className="title">LiftIgniter</div>
       <div className="period">2017 (5 months)</div>
       </div>

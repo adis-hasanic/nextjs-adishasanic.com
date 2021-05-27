@@ -576,6 +576,13 @@ border-radius: 5px;
     width: 90%;
 }
 
+.portfolio .business-card {
+    max-width: 630px;
+    width: 90%;
+    box-shadow: 0 0 10px #eee;
+    border-radius: 36px;
+}
+
 .portfolio .section {
     width: 100%;
     text-align: center;
