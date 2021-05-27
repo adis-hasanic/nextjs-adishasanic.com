@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <Head><title>LiftIgniter</title>
+      <Head><title>Portal</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
