@@ -549,15 +549,6 @@ border-radius: 5px;
     font-size: 19px;
 }
 
-@media (max-width: 660px){
-    
-    .about .reference .info {
-    float: left;
-    width: 100%;
-    margin-left: 0px;
-}
-    
-}
 
 .portfolio {
     padding-bottom: 220px;
@@ -638,4 +629,132 @@ border-radius: 5px;
     width: 100%;
     text-align: center;
     margin-top: 32px;
+}
+
+
+
+@media (max-width: 660px){
+    
+    .about .reference .info {
+    float: left;
+    width: 100%;
+    margin-left: 0px;
+}
+    
+    .portfolio-story .story-intro .title {
+    font-size: 19px;
+    color: #101111;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.portfolio-story .story-intro .period {
+    font-size: 15px;
+    color: #7D7F82;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 7px;
+}
+    
+    .portfolio .text {
+    width: 90%;
+    max-width: 592px;
+    display: inline-block;
+    float: none;
+    font-size: 19px;
+    color: #101111;
+    text-align: left;
+    line-height: 27px;
+    margin-bottom: 32px;
+}
+    
+    .portfolio-story .text {
+    font-size: 17px;
+    color: #101111;
+    text-align: left;
+    line-height: 25px;
+    margin-bottom: 24px;
+    margin-top: 20px;
+}
+    
+    
+.portfolio-story .see-work {
+    display: block;
+    font-size: 17px;
+}
+    
+    
+.about .reference .info .name {
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    color: #101111;
+    text-align: left;
+    font-size: 17px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.about .reference .info .role {
+    float: left;
+    width: 100%;
+    color: #101111;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.about .reference .info .description {
+    float: left;
+    width: 100%;
+    color: #7D7F82;
+    text-align: left;
+    font-size: 13px;
+    margin-top: 10px;
+    line-height: 20px;
+}
+
+    
+    
+.about .intro .text {
+    font-size: 19px;
+    color: #101111;
+    text-align: left;
+    line-height: 27px;
+}
+    
+    .about .outro .text {
+    font-size: 17px;
+    color: #101111;
+    text-align: left;
+    line-height: 25px;
+}
+    
+    .pages a {
+    font-size: 17px;
+    color: #7D7F82;
+    margin-right: 18px;
+    margin-top: 24px;
+    display: block;
+    float: left;
+}
+    
+    .about .reference .text {
+    font-size: 19px;
+    color: #101111;
+    text-align: left;
+    line-height: 27px;
+    margin-bottom: 24px;
+}
+
+.about .reference .text .when {
+    font-size: 15px;
+    color: #7D7F82;
+    line-height: 27px;
+}
+    
 }
