@@ -117,6 +117,9 @@ export default function Home() {
       <div className="row">
       <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/trial-expired-2.jpg"></img></div>
       </div>
+      <div className="row">
+      <div className="image"><img className="eleven-twenty border" src="portfolio/product/flowdash/playbook-1.jpg"></img></div>
+      </div>
       </div>
     
     
