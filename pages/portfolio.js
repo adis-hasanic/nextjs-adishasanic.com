@@ -39,7 +39,7 @@ export default function Home() {
       <div className="title">Flowdash</div>
       <div className="period">2020 (4 months)</div>
       </div>
-      <div className="text">Flowdash was a San Francisco based startup (just 2 co-founders; ex early engineers at Gusto), backed by YC, building a web platform that makes it easy to create apps around business processes and team workflows. On a freelance basis, I worked on making the product easier to use, creating new visual style, and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.</div>
+      <div className="text">Flowdash was a San Francisco based startup (just 2 co-founders; ex early engineers at Gusto), backed by YC, building a web platform that makes it easy to create apps without coding, focusing on internal tools and funnel-type processes. On a freelance basis, I worked on making the product easier to use, creating new visual style, and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.</div>
     <div className="see-work"><Link href="flowdash"><a href="flowdash">See work &nbsp; →</a></Link></div>
       </div>
       
