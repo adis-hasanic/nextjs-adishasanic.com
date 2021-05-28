@@ -639,6 +639,7 @@ border-radius: 5px;
     float: left;
     width: 100%;
     margin-left: 0px;
+        margin-top: 12px;
 }
     
     .portfolio-story .story-intro .title {
@@ -705,7 +706,7 @@ border-radius: 5px;
     color: #101111;
     text-align: left;
     font-size: 15px;
-    margin-top: 7px;
+    margin-top: 6px;
 }
 
 .about .reference .info .description {
@@ -724,7 +725,7 @@ border-radius: 5px;
     font-size: 19px;
     color: #101111;
     text-align: left;
-    line-height: 27px;
+    line-height: 29px;
 }
     
     .about .outro .text {
@@ -747,14 +748,14 @@ border-radius: 5px;
     font-size: 19px;
     color: #101111;
     text-align: left;
-    line-height: 27px;
+    line-height: 29px;
     margin-bottom: 24px;
 }
 
 .about .reference .text .when {
     font-size: 15px;
     color: #7D7F82;
-    line-height: 27px;
+    line-height: 29px;
 }
     
 }
