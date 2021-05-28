@@ -34,40 +34,40 @@ export default function Home() {
       <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/1.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/2.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/2.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/3.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/3.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/4.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/4.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/5.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/5.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/6.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/6.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/7.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/7.jpg"></img></div>
       </div>
       <div className="row">
       <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/8.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/9.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/9.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/10.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/10.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/11.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/11.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/12.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/12.jpg"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="twelve-eighty" src="portfolio/product/engine/13.jpg"></img></div>
+      <div className="image"><img className="twelve-eighty border" src="portfolio/product/engine/13.jpg"></img></div>
       </div>
       </div>
     

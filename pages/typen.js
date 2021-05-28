@@ -40,7 +40,7 @@ export default function Home() {
       <div className="image"><img className="typen" src="portfolio/product/typen/3.png"></img></div>
       </div>
       <div className="row">
-      <div className="image"><img className="typen" src="portfolio/product/typen/4.png"></img></div>
+      <div className="image"><img className="typen border" src="portfolio/product/typen/4.png"></img></div>
       </div>
       <div className="row">
       <div className="image"><img className="typen" src="portfolio/product/typen/5.png"></img></div>
