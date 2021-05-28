@@ -7,7 +7,7 @@
 @font-face {
   font-family: Acumin-Pro;
   font-weight: bold;
-  src: url("../public/font/AcuminPro-Bold.otf") format("opentype");
+  src: url("../public/font/AcuminPro-Medium.otf") format("opentype");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
@@ -412,7 +412,8 @@ border-radius: 5px;
 .cta .button.text-only {
     padding: 2px 20px 0 20px;
     line-height: 40px;
-    height: 40px
+    height: 40px;
+    font-weight: bold;
 }
 
 .cta .button.email img {
