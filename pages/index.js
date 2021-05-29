@@ -42,7 +42,7 @@ export default function Home() {
       <div className="info">
       <div className="name">Michael Skelly <a href="https://uk.linkedin.com/in/skellymichael"><img src="linkedin-button.svg"></img></a></div>
       <div className="role">Co-founder and CEO at Stacker</div>
-      <div className="description">Stacker is an early-stage startup making it easy to create apps without coding, with headquarters in London, backed by YCombinator, Andreessen Horowitz and Initialized Capital.</div>
+      <div className="description">Stacker is a London based startup making it easy to build apps without coding, backed by YC and A16Z. I did freelance work for Stacker, working closely with Skelly.</div>
       </div>
       </div>
       
