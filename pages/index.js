@@ -109,7 +109,7 @@ export default function Home() {
       </div>
       
       <div className="reference">
-      <div className="text">Adis's skills in both communicating and actually displaying the message I want my audience to hear are just mind blowing. Adis's designs are definitely good looking and really present a nice user experience. To put it into context of dating: it's like dating a super-hot model, that is really smart. <span className="when">2015</span></div>
+      <div className="text">Adis's skills in both communicating and actually displaying the message I want my audience to hear are just mind blowing. Adis's designs are definitely good looking and really present a nice user experience. To put it into context of dating: it's like dating a super-hot model, that is really smart. <span className="when">2016</span></div>
       
       <div className="who">
       <div className="portrait"><img src="references/emil-hajric.jpg"></img></div>
@@ -139,7 +139,7 @@ export default function Home() {
       
       
       <div className="reference">
-      <div className="text">Adis’ opus at Kamcord was establishing the user interface, visual design and interactions for the Android Broadcasting app. He communicates his thought process well and continually strives to better understand his users. <span className="when">2014</span></div>
+      <div className="text">Adis’ opus at Kamcord was establishing the user interface, visual design and interactions for the Android Broadcasting app. He communicates his thought process well and continually strives to better understand his users. <span className="when">2015</span></div>
       
       <div className="who">
       <div className="portrait"><img src="references/gordon-tindall.jpg"></img></div>
