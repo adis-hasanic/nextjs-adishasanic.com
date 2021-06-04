@@ -30,7 +30,7 @@ export default function Home() {
       <div className="title">Stacker</div>
       <div className="period">2020 - 2021 (8 months)</div>
       </div>
-      <div className="text">Stacker was a London based startup (5-15 people), backed by YC and Initialized Capital, building a web platform that makes it easy to create web apps without coding using existing data in Airtable, Google Sheets, etc. On a freelance basis, I was working mostly on quick UI changes, UI/UX redesigns, and new features. In second part of 2020 Stacker's sales skyrocketed, and in 2021 Stacker raised a Series A from Andreessen Horowitz.</div>
+      <div className="text">Stacker was a London based startup (5-15 people), backed by YC and Initialized Capital, building a web platform that makes it easy to create web apps without coding using existing data in Airtable, Google Sheets, etc. On a freelance basis, I was working mostly on UI/UX and design system. In second part of 2020 Stacker's sales skyrocketed, and in 2021 Stacker raised a Series A from Andreessen Horowitz.</div>
     <div className="see-work"><Link href="stacker"><a href="stacker">See work &nbsp; →</a></Link></div>
       </div>
     
@@ -39,7 +39,7 @@ export default function Home() {
       <div className="title">Flowdash</div>
       <div className="period">2020 (4 months)</div>
       </div>
-      <div className="text">Flowdash was a San Francisco based startup (just 2 co-founders; ex early engineers at Gusto), backed by YC, building a web platform that makes it easy to create apps without coding, focusing on internal tools and funnel-type processes. On a freelance basis, I worked on making the product easier to use, creating new visual style, and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.</div>
+      <div className="text">Flowdash was a San Francisco based startup (just 2 co-founders; ex early engineers at Gusto), backed by YC, building a web platform that makes it easy to create apps without coding, focusing on internal tools and funnel-type processes. On a freelance basis, I was working motl on UI/UX. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.</div>
     <div className="see-work"><Link href="flowdash"><a href="flowdash">See work &nbsp; →</a></Link></div>
       </div>
       
@@ -183,7 +183,6 @@ I was at Teamscope full-time on-site in Estonia. Working closely with CEO and PM
       <div className="cta">
       <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
       <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
-    <a href="https://adishasanic.medium.com/"><div className="button medium"><img src="medium.svg"></img></div></a>
       </div>
       </div>
     

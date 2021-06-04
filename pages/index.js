@@ -31,7 +31,6 @@ export default function Home() {
       <div className="cta">
       <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
       <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
-      <a href="https://adishasanic.medium.com/"><div className="button medium"><img src="medium.svg"></img></div></a>
       </div>
       </div>
       
