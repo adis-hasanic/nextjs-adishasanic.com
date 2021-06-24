@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <Head><title>Adis Hasanic - UX, UI, Web and Visual Designer</title>
+      <Head><title>Adis — Product Designer</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -17,46 +17,41 @@ export default function Home() {
   `,
           }}
         /></Head>
-      <div className="about">
-      <div className="about-width">
       
-      <div className="pages">
-      <Link href="/"><a className="current" href="/"><div>About</div></a></Link>
-      <Link href="portfolio"><a href="portfolio"><div>Portfolio</div></a></Link>
+      <div className="content">
+      
+      <div className="width">
+      <div className="nav">
+      <div className="text-100">
+      <a className="selected">Portfolio</a>
+      <Link href="about"><a href="about">About</a></Link>
+      <Link href="contact"><a href="contact">Contact</a></Link>
       </div>
-      
-      <div className="intro">
-      <div className="portrait"><img src="adishasanic.jpg"></img></div>
-      <div className="text">I’m Adis, a 25-year-old UI/UX, web and visual designer and creative from Bosnia and Herzegovina. Past 10 years at startups helping create and sell a digital product that people need, want and can use. It’s all screen and storytelling.<br></br><br></br>Currently freelancing and looking to join an early-stage startup remotely anywhere or on-site in Europe.</div>
-      <div className="cta">
-      <a href="mailto:adishasanic96@gmail.com"><div className="button text-only">Email</div></a>
-      <a href="https://www.linkedin.com/in/adis-hasanic/"><div className="button linkedin"><img src="linkedin.svg"></img></div></a>
       </div>
       </div>
       
-      <div className="reference">
-      <div className="text">Working with Adis has completely transformed our product. His eye for design is incredible, and he’s managed to find elegant solutions to even the most knotty and difficult problems we’ve thrown at him. <span className="when">2021</span></div>
       
-      <div className="who">
-      <div className="portrait"><img src="references/michael-skelly.jpg"></img></div>
-      <div className="info">
-      <div className="name">Michael Skelly <a href="https://uk.linkedin.com/in/skellymichael"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Co-founder and CEO at Stacker</div>
-      <div className="description">Stacker is a London based startup making it easy to build apps without coding, backed by YC and A16Z. I did freelance work for Stacker, working closely with Skelly.</div>
+      <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Stacker
       </div>
       </div>
-      
       </div>
       
-      <div className="reference">
-      <div className="text">Adis does top quality design work and is fast and very responsive to clients needs. I strongly recommend him without any reservations. <span className="when">2019</span></div>
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2020 and 2021, for 9 months total, full-time on a freelance basis, I was a product designer at Stacker, an early-stage startup with headquarters in London, building a web platform that makes it easy to create apps without coding, focusing on turning spreadsheets into custom suite of business software. In second part of 2020 Stacker’s sales skyrocketed after also getting accepted to YCombinator, and in 2021 Stacker raised Series A from Andreessen Horowitz.
+      </div>
+      </div>
+      </div>
       
-      <div className="who">
-      <div className="portrait"><img src="references/chandra-duggirala.jpg"></img></div>
-      <div className="info">
-      <div className="name">Chandra Duggirala <a href="https://www.linkedin.com/in/csentropy"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Entrepreneur</div>
-      <div className="description">Chandra is a serial entrepreneur based in San Francisco. Chandra started Fuel, backed by 500 Startups, and hired me to help him launch 3 products over the course of 3 years.</div>
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty" src="portfolio/product/stacker-2021/app-1.jpg"></img>
       </div>
       </div>
       
@@ -64,174 +59,64 @@ export default function Home() {
       
       
       
-      <div className="reference">
-      <div className="text">From day one, Adis was able to massively contribute to the UX of our platform. He thoughtfully approaches his design decisions and takes the time to understand the individual problems of each user flow. He is always quick to respond and has created a visual design for our product that we are extremely happy with! <span className="when">2018</span></div>
       
-      <div className="who">
-      <div className="portrait"><img src="references/blake-puryear.jpg"></img></div>
-      <div className="info">
-      <div className="name">Blake Puryear <a href="https://www.linkedin.com/in/bpuryear/"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Product Lead at Engine eCommerce</div>
-      <div className="description">Engine was a startup making it easy to build a custom online shop. I designed UI/UX for Engine for several months remotely from Bosnia, working with Blake who was based in US.</div>
+      <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Flowdash
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2020, for 4 months total, full-time on a freelance basis, I was a sole designer at Flowdash, an early-stage startup with headquarters in San Francisco, building a web platform that focuses on helping ops teams build internal apps without coding, for their business processes and team workflows. I worked closely with CEO and CTO of Flowdash on making it easy to build apps without coding and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-2.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
+      
+      <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Teamscope
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      For 1 year and 3 months (Oct 2018 - Jan 2020), on a full-time basis on-site, I was a sole designer at Teamscope, an early-stage startup with headquarters in Tallinn, building a web platform that helps companies analyze personality and values to build better teams. <Link href="teamscope"><a href="teamscope">See more</a></Link>
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/teamscope/3/3-1.jpg"></img>
       </div>
       </div>
       
       </div>
       
       
-      <div className="reference">
-      <div className="text">Adis took direction well, and was comfortable iterating through completion to create exactly what we were looking for. <span className="when">2017</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/kelsey-klein.jpg"></img></div>
-      <div className="info">
-      <div className="name">Kelsey Klein <a href="https://www.linkedin.com/in/kelseyklein"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Project Manager at Meitu</div>
-      <div className="description">Meitu was a startup at Series C providing photo-editing mobile apps. I designed infographics for Meitu for 2 months remotely from Bosnia, working with Kelsey who was based in LA.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      
-      <div className="reference">
-      <div className="text">Adis is an excellent communicator, creates great designs fast, and is really great to work with. He quickly understood our rather complex requirements, did a bunch of quick iterations producing great work, was very flexible and patient as we came up with new requests, and also helped shape the overall product we were building. <span className="when">2016</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/indraneel-mukherjee.jpg"></img></div>
-      <div className="info">
-      <div className="name">Indraneel Mukherjee <a href="https://www.linkedin.com/in/indraneelmukherjee"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Co-founder and CEO at LiftIgniter</div>
-      <div className="description">LiftIgniter was a San Francisco based startup providing API for content recommendations, backed by YCombinator. I was hired to do freelance work on several occassions.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      <div className="reference">
-      <div className="text">Adis's skills in both communicating and actually displaying the message I want my audience to hear are just mind blowing. Adis's designs are definitely good looking and really present a nice user experience. To put it into context of dating: it's like dating a super-hot model, that is really smart. <span className="when">2016</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/emil-hajric.jpg"></img></div>
-      <div className="info">
-      <div className="name">Emil Hajric <a href="https://www.linkedin.com/in/emilhajric"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Founder and CEO at Helpjuice</div>
-      <div className="description">Helpjuice was a startup providing a web platform that makes it easy to build a knowledge base, backed by TechStars. I was hired to do freelance work on several occasions.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      
-      <div className="reference">
-      <div className="text">Adis is easy to work with and fast. After sharing who our target customers are, a sketch of our landing page, and our copy, he was able to make suggestions to our original thinking and create a beautiful design in just three days. <span className="when">2015</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/tiffany-kuo.jpg"></img></div>
-      <div className="info">
-      <div className="name">Tiffany Kuo <a href="https://www.linkedin.com/in/tiffanyamykuo/"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Co-founder and CEO at MultiplyLabs</div>
-      <div className="description">MultiplyLabs was a YC-backed San Francisco based startup providing a customizable pill. I was hired to design a coming-soon landing page that explains and announces the idea.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      
-      <div className="reference">
-      <div className="text">Adis’ opus at Kamcord was establishing the user interface, visual design and interactions for the Android Broadcasting app. He communicates his thought process well and continually strives to better understand his users. <span className="when">2015</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/gordon-tindall.jpg"></img></div>
-      <div className="info">
-      <div className="name">Gordon Tindall <a href="https://www.linkedin.com/in/gordontindall"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Senior Product Designer at Kamcord</div>
-      <div className="description">Kamcord was a 40-people startup at Series A with offices in US, China and Japan. I did contract work for 4 months on-site at Kamcord's San Francisco offices, managed by Gordon.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      <div className="reference">
-      <div className="text">Adis is skilled well beyond his years and has natural talent that's not easy to come by. He is professional, diligent in his process, and not afraid to push boundaries and innovate. The future is bright. <span className="when">2014</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/nick-macario.jpg"></img></div>
-      <div className="info">
-      <div className="name">Nick Macario <a href="https://www.linkedin.com/in/nickmacario"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Entrepreneur</div>
-      <div className="description">I worked with Nick for 2 years — 1 year remotely while I was going to high school, and 1 year on-site in San Francisco. We built a mobile website builder and a personal website builder.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      <div className="reference">
-      <div className="text">We set up and worked on an online writing platform for professionals. Adis came up with good ideas, maintained contact with our focus group and was timely with his deadlines. <span className="when">2014</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/stan-janssen.jpg"></img></div>
-      <div className="info">
-      <div className="name">Stan Janssen <a href="https://nl.linkedin.com/in/janssenstan"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Software Engineer</div>
-      <div className="description">I collaborated with Stan to build a writing app. I designed it, he built it, and we were trying to sell it to people who do professional work as writers.</div>
-      </div>
-      </div>
-      
-      </div>
-      
-      
-      <div className="reference">
-      <div className="text">Adis was always able to deliver something new and supremely beautiful. He was key in exploring new UIs and visual designs for our 10M+ users. A true pleasure to work with (and you get kickass designs too). <span className="when">2013</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/dawson-whitfield.jpg"></img></div>
-      <div className="info">
-      <div className="name">Dawson Whitfield <a href="https://www.linkedin.com/in/dawsonwhitfield/"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Product Designer at Weebly</div>
-      <div className="description">Weebly was a Series B startup backed by YC and Sequoia. From 250 that applied, I was among 10 selected to design new website templates for Weebly's 10 million users. I was 16.</div>
-      </div>
-      </div>
-      
-      </div>
-    
-    <div className="reference">
-      <div className="text">I consider two aspects important when working on a website design - communication and precision. Adis excelled at both. He always responded in a timely manner, and the final work was more than I expected. <span className="when">2012</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/sandro-dzneladze.jpg"></img></div>
-      <div className="info">
-      <div className="name">Sandro Dzneladze <a href="https://www.linkedin.com/in/sandro-dzneladze-0b3069152/"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Entrepreneur</div>
-      <div className="description">Sandro hired me to design a website which was about exploring Georgia as a holiday destination, and a personal website for his photography work.</div>
-      </div>
-      </div>
-      
-      </div>
-    
-    
-    <div className="reference">
-      <div className="text">Adis produces nothing short of grade A work with great attention to detail and mindfulness of client requirements. <span className="when">2011</span></div>
-      
-      <div className="who">
-      <div className="portrait"><img src="references/vincent-chou.jpg"></img></div>
-      <div className="info">
-      <div className="name">Vincent Chou <a href="https://www.linkedin.com/in/vincentchou1/"><img src="linkedin-button.svg"></img></a></div>
-      <div className="role">Co-founder and CEO at Playmonks</div>
-      <div className="description">Vincent hired me to design UI/UX at Playmonks, a Chicago based startup building a web platform that helps you find new games based on what you and your friends played. I was 15.</div>
-      </div>
-      </div>
-      
-      </div>
-    
-    <div className="outro">
-      <Link href="portfolio"><a href="portfolio"><div className="text">See portfolio &nbsp; →</div></a></Link>
-      
-      </div>
       
       
       </div>
-      </div>
+      
     </div>
   )
 }
