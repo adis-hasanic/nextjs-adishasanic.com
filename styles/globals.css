@@ -201,3 +201,63 @@ button {
     cursor: pointer;
     margin-top: 12px;
 }
+
+
+
+@media (max-width: 660px){
+    
+    
+    
+.nav a {
+    padding: 20px 16px 10px 0;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    color: #999;
+    text-decoration: none;
+}
+    
+.text-100 {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+.text-200 {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    margin-top: 40px;
+}
+
+.text-300 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    margin-top: 40px;
+}
+
+.text-400 {
+    font-size: 32px;
+    line-height: 46px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top: 40px;
+}
+
+.text-500 {
+    font-size: 40px;
+    line-height: 54px;
+    font-weight: bold;
+    letter-spacing: -1.5px;
+    margin-top: 40px;
+}
+    
+    .image {
+    text-align: center;
+    margin: 32px 0 0 0;
+}
+    
+}
