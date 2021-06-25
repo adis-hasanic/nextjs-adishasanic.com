@@ -154,6 +154,24 @@ export default function Home() {
       <img className="twelve-eighty border" src="portfolio/product/teamscope/1/2.jpg"></img>
       </div>
       </div>
+    
+    <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/teamscope/1/4.jpg"></img>
+      </div>
+      </div>
+    
+    <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/teamscope/2/1.jpg"></img>
+      </div>
+      </div>
+    
+    <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/teamscope/3/2.jpg"></img>
+      </div>
+      </div>
       
       <div className="width">
       <div className="image">
@@ -164,6 +182,12 @@ export default function Home() {
       <div className="width">
       <div className="image">
       <img className="twelve-eighty border" src="portfolio/product/teamscope/3/3-2.jpg"></img>
+      </div>
+      </div>
+    
+    <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/teamscope/4/1.jpg"></img>
       </div>
       </div>
       
