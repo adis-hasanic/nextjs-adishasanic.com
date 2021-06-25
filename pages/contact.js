@@ -45,7 +45,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      Currently based in Bosnia and Herzegovina. Available for freelance work remotely, full-time work remotely, or full-time on-site in Europe.  
+      Available for freelance work remotely for an early-stage startup (1-50 people), on an hourly, weekly, monthly or project basis.
       </div>
       </div>
       </div>

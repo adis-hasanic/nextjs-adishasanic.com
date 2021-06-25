@@ -40,7 +40,15 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2020 and 2021, for 9 months total, full-time on a freelance basis, I was a product designer at Stacker, an early-stage startup with headquarters in London, building a web platform that makes it easy to create apps without coding, focusing on turning spreadsheets into custom suite of business software. In second part of 2020 Stacker’s sales skyrocketed after also getting accepted to YCombinator, and in 2021 Stacker raised Series A from Andreessen Horowitz.
+      During 2020, for 4 months total, full-time on a freelance basis, I was a sole designer at Flowdash, an early-stage startup with headquarters in San Francisco, building a web platform that focuses on helping ops teams build internal apps without coding, for their business processes and team workflows. I worked closely with CEO and CTO of Flowdash on making it easy to build apps without coding and adding new features.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      The screenshots of the previous design were taken from the video made by CEO of Flowdash, Omar Skalli.
       </div>
       </div>
       </div>
@@ -56,7 +64,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      I was making drafts and every day was on the call with co-founders of Flowdash, presenting the designs and the reasons behind design decisions, and discussing designs and next steps in the design roadmap. 
+      Taking notes of how product currently works and suggesting areas to focus on. CEO and CTO would create a design roadmap, after which I'd start designing and iterating, and on daily calls we'd review the designs together, discuss what the problems could be, and decide what to focus on next.
       </div>
       </div>
       </div>
@@ -77,16 +85,16 @@ export default function Home() {
       
       <div className="width">
       <div className="text">
-      <div className="text-300">
-      Workflow page
+      <div className="text-100">
+      Over the course of 4 months, product was completely redesigned with a lot of small improvements, and several new features were designed into the product.
       </div>
       </div>
       </div>
       
       <div className="width">
       <div className="text">
-      <div className="text-100">
-      Flowdash had a product that allows anyone to skip contacting developers and create a new app for their team based on the unique goals and workflow of each business process and operation. 
+      <div className="text-300">
+      Workflow page
       </div>
       </div>
       </div>
@@ -154,6 +162,111 @@ export default function Home() {
       </div>
       
       
+      <div className="width">
+      <div className="text">
+      <div className="text-300">
+      Editing flow
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Previous design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Stages were set up once during the onboarding process, and later were found in settings as a list, which can be expanded to add more information about the stage and a checklist which appears at a task in that stage.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash-old/10.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash-old/13.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      New design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      People are familiar with flowchart, so we've designed a visual editor for creating a flow through which tasks would go. User creates a stage, connects it to another stage, which automatically creates an action (an action is a button or automatic trigger, because each task needs an action to move to another stage). After clicking on stage or action, user can configure it in the sidebar. Finally, user can visually rearrange stages and actions so that the flow is easier to understand to collaborators who want to edit it.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-0-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-0-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/flow-3.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-300">
+      And a lot more...
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Final design was a file of dozens of Figma pages of all the user flows and areas of Flowdash product with all new designs.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/final.jpg"></img>
+      </div>
+      </div>
+      
+      
       
       <div className="width">
       <div className="text">
@@ -166,10 +279,17 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      After 4 months, completely redesigned version was built and launched. On ProductHunt it became #2 product of the month in November 2020, with almost 3000 upvotes. There was a lot of positive feedback on ease of use, and all new users were able to create a workflow and use the product without contacting support. 
+      After 4 months, completely redesigned version was built and launched. On ProductHunt it became #2 product of the month in November 2020. There was a lot of positive feedback on ease of use, and all new users were able to create a workflow and use the product without contacting support. 
       </div>
       </div>
       </div>
+      
+      <div className="width">
+      <div className="text">
+      <iframe src="https://cards.producthunt.com/cards/posts/275215?v=1" width="600" height="500" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      </div>
+      </div>
+      
       
       
       

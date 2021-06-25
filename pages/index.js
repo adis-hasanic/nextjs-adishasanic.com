@@ -73,7 +73,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2020, for 4 months total, full-time on a freelance basis, I was a sole designer at Flowdash, an early-stage startup with headquarters in San Francisco, building a web platform that focuses on helping ops teams build internal apps without coding, for their business processes and team workflows. I worked closely with CEO and CTO of Flowdash on making it easy to build apps without coding and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before.
+      During 2020, for 4 months total, full-time on a freelance basis, I was a sole designer at Flowdash, an early-stage startup with headquarters in San Francisco, building a web platform that focuses on helping ops teams build internal apps without coding, for their business processes and team workflows. I worked closely with CEO and CTO of Flowdash on making it easy to build apps without coding and adding new features. After 4 months, completely redesigned version of the product was launched, became #2 product of the month on ProductHunt with almost 3000 upvotes, and each new user was able to create a workflow without contacting support, which no user was able to before. <Link href="flowdash"><a href="flowdash">See more</a></Link>
       </div>
       </div>
       </div>
