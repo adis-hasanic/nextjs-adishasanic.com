@@ -40,15 +40,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      For 1 year and 3 months (Oct 2018 - Jan 2020), on a full-time basis on-site, I was a sole designer at Teamscope, an early-stage startup with headquarters in Tallinn, building a web platform that helps companies analyze personality and values to build better teams.
-      </div>
-      </div>
-      </div>
-    
-    <div className="width">
-      <div className="text">
-      <div className="text-100">
-      One of Teamscope's co-founders spent 30+ years in executive headhunting, and Teamscope was backed by TechStars, SAP, BlackPearls and Jaan Tallinn, co-founder of Skype.
+      For 1 year and 3 months (Oct 2018 - Jan 2020), on a full-time basis on-site, I was a sole designer at Teamscope, an early-stage startup with headquarters in Tallinn, building a web platform that helps companies analyze personality and values to build better teams. One of Teamscope's co-founders spent 30+ years in executive headhunting, and Teamscope was backed by TechStars, SAP, BlackPearls and Jaan Tallinn, co-founder of Skype.
       </div>
       </div>
       </div>
@@ -58,6 +50,20 @@ export default function Home() {
       <div className="text-100">
       Working closely with CEO and PM, I was designing product UI and UX, marketing website and created various visual and video assets for branding, marketing, sales, advertising and fundraising.
       </div>
+      </div>
+      </div>
+    
+    <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Me (first from the right) with the rest of Teamscope on January 2019 in Tallinn, Estonia:
+      </div>
+      </div>
+      </div>
+    
+    <div className="width">
+      <div className="image">
+      <img className="six-hundred" src="portfolio/product/teamscope/team-photo.jpg"></img>
       </div>
       </div>
       

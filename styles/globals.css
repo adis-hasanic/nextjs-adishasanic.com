@@ -154,6 +154,10 @@ img.nine-sixty {
     max-width: 960px;
 }
 
+img.six-hundred {
+    max-width: 600px;
+}
+
 img.border {
     border: solid 1px #dedede;
 }
