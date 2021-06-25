@@ -162,6 +162,16 @@ img.border {
     border: solid 1px #dedede;
 }
 
+.personal-photo {
+    margin-top: 32px;
+}
+
+.personal-photo img {
+    width: 160px;
+    border-radius: 999px;
+    margin-bottom: 32px;
+}
+
 input {
     font-size: 16px;
     line-height: 26px;

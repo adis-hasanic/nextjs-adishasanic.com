@@ -36,7 +36,11 @@ export default function Home() {
       
       <div className="width">
       <div className="text">
-      <div className="text-200">
+    
+      <div className="text-200 personal-photo">
+      <div>
+      <img src="adis-hasanic-photo.jpg"></img>
+      </div>
       I'm Adis, a 25-year-old product designer from Bosnia and Herzegovina
       </div>
       </div>
