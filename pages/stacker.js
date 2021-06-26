@@ -395,6 +395,12 @@ export default function Home() {
       </div>
       
       <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/stacker-2021/app-4.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
       <div className="text">
       <div className="text-300">
       Bringing settings to modal
