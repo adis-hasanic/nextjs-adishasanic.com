@@ -405,7 +405,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      After apps are built, they are often reconfigured and customized. Every time the user needs to configure something, they have to leave the page they were on in the app. To solve that, the idea was to bring all settings to modal, allowing the user to make changes on the go without the part of the app they were using or wanted to test after modifying the app. Along the way, I also worked on making it easier to understand how to configure the app and configure it to the desired state.
+      After apps are built, they are often reconfigured and customized. Every time the user needs to configure something, they have to leave the page they were on in the app. To solve that, the idea was to bring all settings to modal, allowing the user to make changes on the go without losing the part of the app they were using or intended to test after modifying the app. Along the way, I also worked on making it easier to understand how to configure the app and configure it to the desired state.
       </div>
       </div>
       </div>
