@@ -424,6 +424,20 @@ export default function Home() {
       </div>
       </div>
       
+      <div className="width">
+      <div className="text">
+      <div className="text-300">
+      And a lot more...
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/final.jpg"></img>
+      </div>
+      </div>
+      
       
       <div className="width">
       <div className="text">
