@@ -247,25 +247,182 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-300">
-      And a lot more...
+      Task details
       </div>
       </div>
       </div>
       
       <div className="width">
       <div className="text">
-      <div className="text-100">
-      Final design was a file of dozens of Figma pages of all the user flows and areas of Flowdash product with all new designs.
+      <div className="text-200">
+      Previous design
       </div>
       </div>
       </div>
       
       <div className="width">
       <div className="image">
-      <img className="eleven-twenty border" src="portfolio/product/flowdash/final.jpg"></img>
+      <img className="eleven-twenty border" src="portfolio/product/flowdash-old/2.jpg"></img>
       </div>
       </div>
       
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash-old/3.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      New design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/detail-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/detail-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-300">
+      And a lot of new stuff...
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      All tasks assigned to you
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/allassigned-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/allassigned-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Tracking analytics
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/analytics.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      All comments 
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/comments-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/comments-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      All errors from all apps
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/errors-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Playbook editor
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/playbook-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Trigger automatic actions
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/settings-2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Configure max. time for completing tasks
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/timers-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Dashboard
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty border" src="portfolio/product/flowdash/dashboard.jpg"></img>
+      </div>
+      </div>
       
       
       <div className="width">
