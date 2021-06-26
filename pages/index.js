@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <Head><title>Adis — Product Designer</title>
+      <Head><title>Adis Hasanic</title>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121629290-2"></script>
         <script
           dangerouslySetInnerHTML={{
