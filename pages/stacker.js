@@ -411,6 +411,40 @@ export default function Home() {
       </div>
       
       <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Previous design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/stacker-old/setup-1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/stacker-old/setup-4.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/stacker-old/setup-3.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      New design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
       <div className="image">
       <img className="eleven-twenty border" src="portfolio/product/stacker-2021/app-settings-1.jpg"></img>
       </div>
