@@ -152,7 +152,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      Typen was a product I designed and bootstrapped to build and launch in 2016, based on my belief that a product for creative part of the writing process should have a customizable look, a focus mode where only text is visible, and internal storage. A typewriter of the 21st century.
+      Typen was a product I designed and bootstrapped to build and launch in 2016, based on my belief that a product for creative part of the writing process should have a customizable look, a focus mode where only text is visible, and internal storage. A typewriter of the 21st century. <Link href="typen"><a href="typen">See more</a></Link>
       </div>
       </div>
       </div>
