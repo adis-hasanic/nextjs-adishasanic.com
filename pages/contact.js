@@ -57,8 +57,6 @@ export default function Home() {
       <div className="text">
       <form action="https://getform.io/f/240704a8-5047-49a9-9dcd-0180f07ccf03" method="POST">
 
-      <div className="text-100">Your name</div>
-  <input type="text" name="name"></input>
       
       <div className="text-100">Your email address</div>
   <input type="email" name="email"></input>
