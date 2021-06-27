@@ -56,7 +56,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      From start to end of the process, I collaborated closely with Chandra Duggirala, CEO of Portal. In a highly iterative process, we did research users and competitors, decided on a design roadmap, after which I'd draw sketches or create mockups of designs explaining my ideas and Chandra would draw sketches explaining his ideas, which we would then discuss together and decide on next steps.
+      From start to end of the process, I collaborated closely with Chandra Duggirala, CEO of Portal. In a highly iterative process, we researched users and competitors, decided on a design roadmap, after which I'd draw sketches or create mockups of designs explaining my ideas and Chandra would draw sketches explaining his ideas, which we would then discuss together and decide on next steps.
       </div>
       </div>
       </div>
