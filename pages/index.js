@@ -112,6 +112,41 @@ export default function Home() {
       
       </div>
       
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Portal
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2018 for 9 months total, on a freelance basis full-time, I was a sole designer at Portal, an early-stage startup with headquarters in San Francisco, building a Mac app that helps anyone store, transfer and exchange cryptocurrencies. <Link href="portal"><a href="portal">See more</a></Link>
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/portal/2/1.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
+    
+    
+    <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Adding more designs, stories and details to portfolio soon. For now, you can <Link href="contact"><a href="contact">contact me</a></Link> for more info.
+      </div>
+      </div>
+      </div>
       
       
       
