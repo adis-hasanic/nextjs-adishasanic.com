@@ -533,7 +533,7 @@ export default function Home() {
       
       <div className="width">
       <div className="image">
-      <img className="eleven-twenty border" src="portfolio/product/stacker-2021/misc.jpg"></img>
+      <img className="eleven-twenty" src="portfolio/product/stacker-2021/misc.jpg"></img>
       </div>
       </div>
       
