@@ -65,11 +65,29 @@ export default function Home() {
     <div className="width">
       <div className="text">
       <div className="text-100">
-      Connect with me on <a href="https://www.linkedin.com/in/adis-hasanic/" >LinkedIn</a>
+      <a href="https://www.linkedin.com/in/adis-hasanic/" >LinkedIn</a>
       </div>
       </div>
       </div>
       
+    <div className="width">
+      <div className="text">
+      <form action="https://getform.io/f/240704a8-5047-49a9-9dcd-0180f07ccf03" method="POST">
+
+      
+      <div className="text-100">Your email address</div>
+  <input type="email" name="email"></input>
+      
+      <div className="text-100">Message</div>
+  <textarea type="text" name="message"></textarea>
+  <button type="submit">Send</button>
+
+</form>
+        
+
+      </div>
+      
+      </div>
       
       
       
