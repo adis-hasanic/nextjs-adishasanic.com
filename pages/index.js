@@ -159,7 +159,7 @@ export default function Home() {
       
       <div className="width">
       <div className="image">
-      <img className="twelve-eighty" src="portfolio/product/liftigniter/8.jpg"></img>
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/onboarding-draft-3/8.jpg"></img>
       </div>
       </div>
       
