@@ -109,8 +109,8 @@ export default function Home() {
       
       <div className="width">
       <div className="text">
-      <div className="text-300">
-      Effects
+      <div className="text-400">
+      Effect
       </div>
       </div>
       </div>

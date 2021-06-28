@@ -314,7 +314,13 @@ export default function Home() {
       
       
       
-      
+      <div className="width">
+      <div className="nav">
+      <div className="text-100">
+      <Link href="/"><a href="/" className="selected">Back</a></Link>
+      </div>
+      </div>
+      </div>
       
       
       </div>
