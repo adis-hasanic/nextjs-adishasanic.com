@@ -49,7 +49,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      Past 10 years designing web platforms and apps at early-stage tech startups backed by YCombinator, A16Z, Sequoia, and TechStars. From problems, goals, and ideas, through research, understanding, user flows, visual, design system, HTML and CSS, testing, explanations, feedback and discussions, to user experience and interface that is easy to use and looks great while communicating brand values.
+      Past 10 years designing for early-stage startups backed by YC, A16Z, Sequoia, and TechStars. From problems, goals, and ideas, through research, understanding, user flows, visual, design system, HTML and CSS, testing, explanations, feedback and discussions, to user experience and interface that is easy to use and looks great while communicating brand values.
       </div>
       </div>
       </div>
