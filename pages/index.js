@@ -152,7 +152,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2017 for 5 months total, on a freelance basis full-time remotely, I was a product designer at LiftIgniter, an early-stage startup backed by YCombinator with headquarters in San Francisco, providing an API for accurate content recommendations within web or mobile app. 
+      During 2017 for 5 months total, on a freelance basis full-time remotely, I was a product designer at LiftIgniter, an early-stage startup backed by YCombinator with headquarters in San Francisco, providing an API for accurate content recommendations within web or mobile app. <Link href="liftigniter"><a href="liftigniter">See more</a></Link> 
       </div>
       </div>
       </div>
