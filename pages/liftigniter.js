@@ -271,23 +271,92 @@ export default function Home() {
       </div>
       
       <div className="width">
-      <div className="image">
-      <img className="twelve-eighty" src="portfolio/product/liftigniter/dashboard/1.jpg"></img>
+      <div className="text">
+      <div className="text-300">
+      Previous design
       </div>
-      </div>
-      
-      <div className="width">
-      <div className="image">
-      <img className="twelve-eighty" src="portfolio/product/liftigniter/dashboard/2.jpg"></img>
       </div>
       </div>
       
       <div className="width">
       <div className="image">
-      <img className="twelve-eighty" src="portfolio/product/liftigniter/dashboard/3.jpg"></img>
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/1.jpg"></img>
       </div>
       </div>
       
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/3.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/4.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/5.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-300">
+      New design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/dashboard/1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/dashboard/2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/dashboard/3.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/dashboard/4.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/0.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/1.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/2.jpg"></img>
+      </div>
+      </div>
       
       <div className="width">
       <div className="text">
