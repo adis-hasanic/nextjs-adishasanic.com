@@ -69,6 +69,22 @@ export default function Home() {
       </div>
       </div>
       </div>
+    
+    <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Reach out anytime about anything.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Available for freelance work remotely for an early-stage startup (1-50 people), on an hourly, weekly, monthly, quarterly or project basis.
+      </div>
+      </div>
+      </div>
       
     <div className="width">
       <div className="text">
