@@ -144,6 +144,32 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-200">
+      LiftIgniter
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2017 for 5 months total, on a freelance basis full-time remotely, I was a product designer at LiftIgniter, an early-stage startup backed by YCombinator with headquarters in San Francisco, providing an API for accurate content recommendations within web or mobile app. 
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/liftigniter/8.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
       Typen
       </div>
       </div>
