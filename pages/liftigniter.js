@@ -327,7 +327,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      Dashboard was made of widgets which could be rearranged and configured individually, with also ability to hide existing widgets and add new widgets, allowing LiftIgniter to offer a lot of options for tracking data which matters to their customers. The process of creating filtering rules was structured around new capability. Altogether, a new visual style was set which was consistent with the rest of the product.
+      Dashboard was made of widgets which could be rearranged and configured individually, with also ability to hide existing widgets and add new widgets, allowing LiftIgniter to offer a lot of options for tracking data which matters to their customers. The process of creating filtering rules was structured around new capability. Altogether, a new visual style was set which was consistent with the rest of the product. Several new features were designed as well. I created all in HTML/CSS and sent to developers.
       </div>
       </div>
       </div>
@@ -371,6 +371,12 @@ export default function Home() {
       <div className="width">
       <div className="image">
       <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/2.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/3.jpg"></img>
       </div>
       </div>
       
