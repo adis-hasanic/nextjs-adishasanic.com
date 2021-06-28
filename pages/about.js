@@ -41,7 +41,7 @@ export default function Home() {
       <div>
       <img src="adis-hasanic-photo.jpg"></img>
       </div>
-      I'm Adis, a 25-year-old product designer from Bosnia and Herzegovina.
+      I design product UI and UX, websites, and visual.
       </div>
       </div>
       </div>
