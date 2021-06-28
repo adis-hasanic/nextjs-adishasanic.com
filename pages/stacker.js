@@ -40,7 +40,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2020 and 2021, for 9 months total, full-time on a freelance basis, I was a product designer at Stacker, an early-stage startup with headquarters in London, building a web platform that makes it easy to create apps without coding, focusing on turning spreadsheets into custom suite of business software. In second part of 2020 Stacker’s sales skyrocketed after also getting accepted to YCombinator, and in 2021 Stacker raised Series A from Andreessen Horowitz.
+      During 2020 and 2021, for 9 months total, full-time on a freelance basis, I was a product designer at Stacker, an early-stage startup with headquarters in London, building a web platform that makes it easy to create apps without coding, focusing on turning spreadsheets into custom suite of business software.
       </div>
       </div>
       </div>
@@ -537,6 +537,54 @@ export default function Home() {
       </div>
       </div>
       
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-400">
+      Effect
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      In second part of 2020 Stacker’s sales skyrocketed after also getting accepted to YCombinator, and in 2021 Stacker raised Series A from Andreessen Horowitz.
+      </div>
+      </div>
+      </div>
+      
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-400">
+      Reach out anytime about anything.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Available for freelance work remotely for an early-stage startup (1-50 people), on an hourly, weekly, monthly, quarterly or project basis.
+      </div>
+      </div>
+      </div>
+      
+      
+      <div className="width">
+      <div className="text">
+      <form action="https://getform.io/f/240704a8-5047-49a9-9dcd-0180f07ccf03" method="POST">
+
+      
+      <div className="text-100">Your email address</div>
+  <input type="email" name="email"></input>
+      
+      <div className="text-100">Message</div>
+  <textarea type="text" name="message"></textarea>
+  <button type="submit">Send</button>
+
+</form>
       
       
       
