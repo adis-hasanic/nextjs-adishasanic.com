@@ -57,7 +57,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      Occassionally designed websites and landing pages (from content strategy and IA to visual, copywriting, and HTML/CSS), and visual assets such as website images, email templates, business cards, document templates, presentation slides, etc.
+      Occasionally designed websites (from content strategy and IA to visual, copywriting, and HTML/CSS), and visuals such as website images, email templates, business cards, document templates, presentation slides, etc.
       </div>
       </div>
       </div>
@@ -65,7 +65,7 @@ export default function Home() {
     <div className="width">
       <div className="text">
       <div className="text-100">
-      <a href="https://www.linkedin.com/in/adis-hasanic/" >LinkedIn</a>
+      More information on <a href="https://www.linkedin.com/in/adis-hasanic/" >LinkedIn</a>
       </div>
       </div>
       </div>
