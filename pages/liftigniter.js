@@ -381,6 +381,12 @@ export default function Home() {
       </div>
       
       <div className="width">
+      <div className="image">
+      <img className="twelve-eighty border" src="portfolio/product/liftigniter/settings/4.jpg"></img>
+      </div>
+      </div>
+      
+      <div className="width">
       <div className="text">
       <div className="text-400">
       Effect
