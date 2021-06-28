@@ -154,6 +154,10 @@ img.eleven-twenty {
     max-width: 1120px;
 }
 
+img.one-thousand {
+    max-width: 1000px;
+}
+
 img.nine-sixty {
     max-width: 960px;
 }
