@@ -549,7 +549,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      In second part of 2020 Stacker’s sales skyrocketed after also getting accepted to YCombinator, and in 2021 Stacker raised Series A from Andreessen Horowitz.
+      A lot of positive feedback about the look and ease of use of redesigned parts of product and new features. After also getting accepted to YCombinator (acceptance to YC was not really due to my efforts since most of designs I worked on were not built yet), in second part of 2020 Stacker’s sales skyrocketed, and in 2021 Stacker raised Series A from Andreessen Horowitz.
       </div>
       </div>
       </div>
