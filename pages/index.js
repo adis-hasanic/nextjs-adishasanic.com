@@ -44,7 +44,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2020 and 2021 for 9 months total, on a freelance basis full-time, I was a product designer at Stacker, an early-stage startup with headquarters in London, building a web platform that helps companies create business software without coding. <Link href="stacker"><a href="stacker">See more</a></Link>
+      During 2020 and 2021 for 9 months total, on a freelance basis full-time remotely, I was a product designer at Stacker, an early-stage startup backed by YCombinator and Andreessen Horowitz, with headquarters in London, building a web platform that helps companies create business software without coding. <Link href="stacker"><a href="stacker">See more</a></Link>
       </div>
       </div>
       </div>
@@ -73,7 +73,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2020 for 4 months total, on a freelance basis full-time, I was a product designer at Flowdash, an early-stage startup with headquarters in San Francisco, building a web platform that helps ops teams create internal apps without coding for team workflows and business processes. <Link href="flowdash"><a href="flowdash">See more</a></Link>
+      During 2020 for 4 months total, on a freelance basis full-time remotely, I was a product designer at Flowdash, an early-stage startup backed by YCombinator with headquarters in San Francisco, building a web platform that helps ops teams create internal apps without coding for team workflows and business processes. <Link href="flowdash"><a href="flowdash">See more</a></Link>
       </div>
       </div>
       </div>
@@ -99,7 +99,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      For 1 year and 3 months (Oct 2018 - Jan 2020), on a full-time basis on-site, I was a product designer at Teamscope, an early-stage startup with headquarters in Tallinn, building a web platform that helps companies analyze personality and values to build better teams. <Link href="teamscope"><a href="teamscope">See more</a></Link>
+      For 1 year and 3 months (Oct 2018 - Jan 2020), on a full-time basis on-site, I was a product designer at Teamscope, an early-stage startup backed by TechStars with headquarters in Tallinn, building a web platform that helps companies analyze personality and values to build better teams. <Link href="teamscope"><a href="teamscope">See more</a></Link>
       </div>
       </div>
       </div>
