@@ -279,6 +279,14 @@ export default function Home() {
       </div>
       
       <div className="width">
+      <div className="text">
+      <div className="text-100">
+      It was much more limited in terms of content and capability of changing configuration, especially since the goal was to be able to show a lot more than a few numbers on dashboard and creating simple filtering rules. While it looked clean, it did not look original and was not consistent with the new UI design of onboarding.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
       <div className="image">
       <img className="twelve-eighty" src="portfolio/product/liftigniter/adminpanel-old/1.jpg"></img>
       </div>
@@ -312,6 +320,14 @@ export default function Home() {
       <div className="text">
       <div className="text-300">
       New design
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      Dashboard was made of widgets which could be rearranged and configured individually, with also ability to hide existing widgets and add new widgets, allowing LiftIgniter to offer a lot of options for tracking data which matters to their customers. The process of creating filtering rules was structured around new capability. Altogether, a new visual style was set which was consistent with the rest of the product.
       </div>
       </div>
       </div>
