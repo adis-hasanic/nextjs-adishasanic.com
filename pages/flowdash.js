@@ -486,10 +486,10 @@ export default function Home() {
 
       
       <div className="text-100">Your email address</div>
-  <input type="email" name="email"></input>
+  <input type="email" name="email" required></input>
       
       <div className="text-100">Message</div>
-  <textarea type="text" name="message"></textarea>
+  <textarea type="text" name="message" required></textarea>
   <button type="submit">Send</button>
 
 </form>
