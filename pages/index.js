@@ -111,6 +111,32 @@ export default function Home() {
       </div>
       
       </div>
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Amigos
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2019 for 1 months total, on a freelance basis part-time remotely, I was hired by my brother Dino who writes code and manages a car dealership in California, to design an iOS app called Amigos, that helps customers find and buy the right car nearby and dealership to sell vehicles.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="eleven-twenty" src="portfolio/product/amigos/2.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
       
     
     <div className="work-intro">
@@ -186,6 +212,85 @@ export default function Home() {
       <div className="width">
       <div className="image">
       <img className="eleven-ninetysix" src="portfolio/product/typen/5.png"></img>
+      </div>
+      </div>
+      
+      </div>
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Foodmunk
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2016 for 6 months total, on a freelance basis full-time remotely, I was a product designer at Fuel, an early-stage startup backed by 500 Startups with headquarters in San Francisco, building an iOS app called Foodmunk that helps people stay on track of eating and living healthy.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/foodmunk/5.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Kamcord
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      During 2015 for 4 months total, on a freelance basis full-time on-site, I was a product designer at Kamcord, an early-stage startup with headquarters in San Francisco, building a platform and tools to watch and stream gameplays of mobile games.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/kamcord/website/5.jpg"></img>
+      </div>
+      </div>
+      
+      </div>
+    
+    
+    <div className="work-intro">
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-200">
+      Branded.me
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="text">
+      <div className="text-100">
+      For 2 years (2013 - 2015), on a freelance basis, I was a product designer at Branded.me, an early-stage startup with headquarters in San Francisco. First year, I worked part-time remotely while going to high-school, and we were building web platform for converting websites to customizable mobile websites. Second year, I worked full-time on-site in San Francisco, and we were building a web platform for converting a LinkedIn profile to a customizable personal website.
+      </div>
+      </div>
+      </div>
+      
+      <div className="width">
+      <div className="image">
+      <img className="twelve-eighty" src="portfolio/product/brandedme/2.jpg"></img>
       </div>
       </div>
       
