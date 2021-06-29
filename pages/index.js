@@ -256,7 +256,7 @@ export default function Home() {
       <div className="width">
       <div className="text">
       <div className="text-100">
-      During 2015 for 4 months total, on a freelance basis full-time on-site, I was a product designer at Kamcord, an early-stage startup with headquarters in San Francisco, building a platform and tools to watch and stream gameplays of mobile games.
+      During 2015 for 4 months total, on a freelance basis full-time on-site, I was a product designer at Kamcord, an early-stage startup at Series A backed by YCombinator and Tencent with headquarters in San Francisco and offices also in China and Japan, building a platform and tools to watch and stream gameplays of mobile games.
       </div>
       </div>
       </div>
